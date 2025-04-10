@@ -1,0 +1,132 @@
+[
+  {
+    "question": "Which organization is the primary regulator of Urban Cooperative Banks in India?",
+    "options": [
+      "NABARD",
+      "SEBI",
+      "RBI",
+      "IRDAI",
+      "Ministry of Finance"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "The Reserve Bank of India (RBI) is the primary regulator for banking operations of Urban Cooperative Banks."
+  },
+  {
+    "question": "Which Act governs the banking functions of UCBs?",
+    "options": [
+      "RBI Act, 1934",
+      "Companies Act, 2013",
+      "Banking Regulation Act, 1949",
+      "SEBI Act, 1992",
+      "Cooperative Societies Act, 1912"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "The Banking Regulation Act, 1949 regulates the banking activities of UCBs."
+  },
+  {
+    "question": "Which law regulates the management aspects of Urban Cooperative Banks?",
+    "options": [
+      "Banking Regulation Act",
+      "Income Tax Act",
+      "Cooperative Societies Act",
+      "Payment and Settlement Systems Act",
+      "Foreign Exchange Management Act"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Management aspects of UCBs are governed by respective State Cooperative Societies Acts or the Multi-State Cooperative Societies Act."
+  },
+  {
+    "question": "What is meant by 'dual control' in the context of UCBs?",
+    "options": [
+      "Managed by RBI and SEBI",
+      "Joint control by NABARD and RBI",
+      "Supervised by RBI and State Governments",
+      "Run by two directors",
+      "Dual banking licenses"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "UCBs are under dual control—RBI governs banking activities, and State Governments oversee administrative functions."
+  },
+  {
+    "question": "In which year was the Banking Regulation Act made applicable to cooperative banks?",
+    "options": [
+      "1935",
+      "1949",
+      "1966",
+      "1991",
+      "2001"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "In 1966, the provisions of the Banking Regulation Act were made applicable to cooperative banks."
+  },
+  {
+    "question": "What recent change strengthened RBI’s control over UCBs?",
+    "options": [
+      "Amendment to SEBI Act",
+      "Bank Merger Guidelines",
+      "Amendment to Banking Regulation Act, 2020",
+      "Introduction of Basel III norms",
+      "Creation of new bank boards"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "The Banking Regulation (Amendment) Act, 2020 enhanced RBI’s powers to regulate and restructure UCBs."
+  },
+  {
+    "question": "Which of the following is NOT a responsibility of the RBI regarding UCBs?",
+    "options": [
+      "Granting licenses to UCBs",
+      "Monitoring prudential norms",
+      "Managing board elections",
+      "Inspecting UCBs",
+      "Ensuring banking stability"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Managing board elections is handled under cooperative laws by the Registrar, not the RBI."
+  },
+  {
+    "question": "Under which section can RBI supersede the board of a UCB?",
+    "options": [
+      "Section 10A",
+      "Section 22",
+      "Section 36AAA",
+      "Section 12B",
+      "Section 45L"
+    ],
+    "answer": 2,
+    "difficulty": "Hard",
+    "explanation": "RBI can supersede the board of a UCB under Section 36AAA of the Banking Regulation Act."
+  },
+  {
+    "question": "Who oversees the administrative aspects of UCBs that operate in only one state?",
+    "options": [
+      "Ministry of Home Affairs",
+      "RBI",
+      "SEBI",
+      "State Registrar of Cooperative Societies",
+      "Union Finance Commission"
+    ],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "The State Registrar of Cooperative Societies oversees administrative aspects of single-state UCBs."
+  },
+  {
+    "question": "Which authority grants a banking license to Urban Cooperative Banks?",
+    "options": [
+      "State Government",
+      "NABARD",
+      "Registrar of Companies",
+      "RBI",
+      "Ministry of Finance"
+    ],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "The Reserve Bank of India grants licenses to UCBs to conduct banking business in India."
+  }
+]

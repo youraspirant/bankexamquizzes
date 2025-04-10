@@ -1,0 +1,73 @@
+[
+    {
+      "question": "Which report by the World Bank serves as a global reference for measuring financial inclusion across countries?",
+      "options": ["Global Inclusion Index", "IMF Financial Outlook", "Findex Database", "Inclusive Growth Tracker", "World Economic Survey"],
+      "answer": 2,
+      "difficulty": "Hard",
+      "explanation": "The Global Findex Database is published by the World Bank and provides data on financial inclusion worldwide."
+    },
+    {
+      "question": "What is the primary function of the Committee on Financial Inclusion headed by C. Rangarajan?",
+      "options": ["Promoting cashless transactions", "Studying cooperative bank failures", "Suggesting a strategy for financial inclusion", "Drafting foreign trade policy", "Setting up NPA tribunals"],
+      "answer": 2,
+      "difficulty": "Hard",
+      "explanation": "The Rangarajan Committee was tasked with preparing a strategy for broad-based financial inclusion in India."
+    },
+    {
+      "question": "Which of the following is NOT a key pillar of financial inclusion as per the RBI’s Financial Inclusion Strategy (2020–2024)?",
+      "options": ["Universal access to financial services", "Providing unlimited credit", "Financial literacy and education", "Access to financial technology", "Customer protection"],
+      "answer": 1,
+      "difficulty": "Hard",
+      "explanation": "Providing unlimited credit is not a pillar of financial inclusion; sustainable and responsible lending is the goal."
+    },
+    {
+      "question": "Which act mandates the opening of Basic Savings Bank Deposit Accounts (BSBDA) in India?",
+      "options": ["RBI Act, 1934", "Banking Regulation Act, 1949", "Payment and Settlement Systems Act, 2007", "Financial Inclusion Act, 2014", "There is no specific act"],
+      "answer": 1,
+      "difficulty": "Hard",
+      "explanation": "The Banking Regulation Act, 1949, along with RBI guidelines, governs the provision of BSBDA to ensure inclusion."
+    },
+    {
+      "question": "What is the objective of the Financial Inclusion Index introduced by RBI?",
+      "options": ["To rank states by income", "To assess the digital literacy rate", "To measure the extent of financial inclusion", "To identify financial frauds", "To track FDI flows"],
+      "answer": 2,
+      "difficulty": "Hard",
+      "explanation": "The RBI Financial Inclusion Index is a comprehensive measure to assess the depth and reach of financial services in India."
+    },
+    {
+      "question": "Which global goal directly links with financial inclusion efforts?",
+      "options": ["SDG 1: No Poverty", "SDG 6: Clean Water and Sanitation", "SDG 13: Climate Action", "SDG 16: Peace and Justice", "SDG 3: Good Health and Well-being"],
+      "answer": 0,
+      "difficulty": "Hard",
+      "explanation": "Financial inclusion supports SDG 1 by helping people manage resources, invest in livelihoods, and escape poverty."
+    },
+    {
+      "question": "Which institution was created specifically to assist in digital financial inclusion and is owned by the RBI?",
+      "options": ["NABARD", "SEBI", "NPCI", "SIDBI", "EXIM Bank"],
+      "answer": 2,
+      "difficulty": "Hard",
+      "explanation": "The National Payments Corporation of India (NPCI) enables digital financial infrastructure like UPI and RuPay."
+    },
+    {
+      "question": "What does the term 'last-mile delivery' mean in financial inclusion context?",
+      "options": ["Delivering cash by drone", "Banking at ATMs", "Reaching remote populations with financial services", "Export finance", "Providing Forex services to NRIs"],
+      "answer": 2,
+      "difficulty": "Hard",
+      "explanation": "'Last-mile delivery' ensures access to financial services even in the most remote and underserved locations."
+    },
+    {
+      "question": "Which of the following best describes 'financial deepening' in contrast to 'financial inclusion'?",
+      "options": ["Increased bank branches", "Focus on rural banking only", "Greater range and sophistication of financial services", "Only providing credit", "Increased taxation"],
+      "answer": 2,
+      "difficulty": "Hard",
+      "explanation": "Financial deepening refers to the increased availability and complexity of financial products beyond basic access."
+    },
+    {
+      "question": "What is the role of Small Finance Banks (SFBs) in financial inclusion?",
+      "options": ["Handling foreign exchange", "Managing investment portfolios", "Providing customized financial services to underserved segments", "Offering high-risk stock trading", "Operating in global markets"],
+      "answer": 2,
+      "difficulty": "Hard",
+      "explanation": "SFBs are established to provide accessible financial services like savings, credit, and insurance to the unserved and underserved."
+    }
+  ]
+  

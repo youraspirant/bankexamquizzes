@@ -1,0 +1,132 @@
+[
+  {
+    "question": "What is one of the major financial challenges faced by Urban Cooperative Banks (UCBs)?",
+    "options": [
+      "High foreign exchange reserves",
+      "Low non-performing assets",
+      "Limited capital base",
+      "Too many international clients",
+      "Surplus funding from the government"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "UCBs typically operate with a limited capital base, which affects their capacity to expand and manage risks."
+  },
+  {
+    "question": "What governance issue is often observed in UCBs?",
+    "options": [
+      "Excessive automation",
+      "Strong board independence",
+      "Political interference and lack of professionalism",
+      "Too much regulation",
+      "Global compliance issues"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Political interference and weak governance are commonly cited concerns in the functioning of many UCBs."
+  },
+  {
+    "question": "What risk are UCBs especially vulnerable to due to their cooperative structure?",
+    "options": [
+      "Cyber security attacks",
+      "Foreign currency risk",
+      "Concentration risk",
+      "Climate change",
+      "Technology redundancy"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "UCBs often lend within limited geographic or business sectors, increasing their concentration risk."
+  },
+  {
+    "question": "What is a technological challenge for UCBs?",
+    "options": [
+      "Too much tech investment",
+      "Data overload from AI",
+      "Lag in digital banking adoption",
+      "5G network dependency",
+      "Too many IT staff"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Many UCBs face challenges in upgrading their technology infrastructure to keep up with modern digital banking standards."
+  },
+  {
+    "question": "How does regulatory complexity affect UCBs?",
+    "options": [
+      "Makes them globally dominant",
+      "Gives them complete freedom",
+      "Leads to confusion due to dual regulation",
+      "Removes RBI control",
+      "Makes them more competitive than commercial banks"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "UCBs are governed both by the RBI and respective state cooperative departments, leading to regulatory overlap."
+  },
+  {
+    "question": "Which of the following impacts customer trust in UCBs?",
+    "options": [
+      "High foreign investments",
+      "Frequent tech upgrades",
+      "Incidents of mismanagement and fraud",
+      "International credit ratings",
+      "Government guarantees"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Cases of mismanagement and fraud have occasionally eroded depositor confidence in UCBs."
+  },
+  {
+    "question": "Why do UCBs face difficulty in expanding services?",
+    "options": [
+      "Overstaffing",
+      "International licensing problems",
+      "Limited financial and managerial resources",
+      "Excessive foreign competition",
+      "Too much automation"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "UCBs often lack sufficient financial and managerial capacity to diversify services like larger commercial banks."
+  },
+  {
+    "question": "What challenge do UCBs face with skilled personnel?",
+    "options": [
+      "Oversupply of talent",
+      "Skilled workforce preferring UCBs",
+      "Shortage of trained banking professionals",
+      "Dependence on freelancers",
+      "Mandatory global training"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "UCBs often struggle to attract and retain skilled banking professionals due to limited compensation and scale."
+  },
+  {
+    "question": "How does limited geographic presence affect UCBs?",
+    "options": [
+      "Improves their rural focus",
+      "Allows for better global access",
+      "Restricts customer base and business volume",
+      "Ensures fewer regulations",
+      "Increases digital penetration"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "UCBs typically serve a small geographic area, which restricts their potential for customer base and revenue growth."
+  },
+  {
+    "question": "Which structural factor makes reform implementation difficult in UCBs?",
+    "options": [
+      "Transparent election systems",
+      "Frequent technology upgrades",
+      "Democratic management and political influence",
+      "Focus on startups",
+      "Foreign ownership"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "The democratic management structure and political influence in UCBs can hinder swift policy implementation."
+  }
+]

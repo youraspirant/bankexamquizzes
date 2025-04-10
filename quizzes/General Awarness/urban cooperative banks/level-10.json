@@ -1,0 +1,132 @@
+[
+  {
+    "question": "Which Urban Cooperative Bank is known for its rapid growth and digital transformation in Maharashtra?",
+    "options": [
+      "Punjab and Maharashtra Cooperative Bank",
+      "Saraswat Bank",
+      "Shamrao Vithal Cooperative Bank",
+      "Abhyudaya Cooperative Bank",
+      "TJSB Sahakari Bank"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "Saraswat Bank is one of the oldest and largest UCBs, known for its technological advancements and pan-India operations."
+  },
+  {
+    "question": "Which UCB faced a major crisis in 2019 due to financial mismanagement and fraudulent loans?",
+    "options": [
+      "TJSB Bank",
+      "SVC Cooperative Bank",
+      "Punjab and Maharashtra Cooperative Bank",
+      "Cosmos Bank",
+      "Saraswat Bank"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "PMC Bank collapsed due to large undisclosed loans to a bankrupt company, leading to RBI intervention."
+  },
+  {
+    "question": "Which bank is considered the first scheduled urban cooperative bank in India?",
+    "options": [
+      "Cosmos Cooperative Bank",
+      "SVC Cooperative Bank",
+      "Abhyudaya Bank",
+      "Punjab and Maharashtra Cooperative Bank",
+      "Saraswat Bank"
+    ],
+    "answer": 0,
+    "difficulty": "Medium",
+    "explanation": "Cosmos Bank was the first urban cooperative bank to be granted scheduled status by the RBI."
+  },
+  {
+    "question": "Which UCB is recognized for supporting MSMEs in Maharashtra and Goa?",
+    "options": [
+      "TJSB Sahakari Bank",
+      "SVC Cooperative Bank",
+      "Saraswat Bank",
+      "Abhyudaya Cooperative Bank",
+      "PMC Bank"
+    ],
+    "answer": 0,
+    "difficulty": "Medium",
+    "explanation": "TJSB Bank has a strong presence in western India and is known for funding micro and small businesses."
+  },
+  {
+    "question": "Which bank became a multi-state cooperative bank and expanded operations beyond Maharashtra?",
+    "options": [
+      "SVC Cooperative Bank",
+      "Abhyudaya Cooperative Bank",
+      "TJSB Sahakari Bank",
+      "PMC Bank",
+      "Cosmos Bank"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "Abhyudaya Bank transitioned into a multi-state cooperative bank with branches in several states."
+  },
+  {
+    "question": "Which UCB suffered a major cyberattack in 2018, exposing vulnerabilities in cooperative banking cybersecurity?",
+    "options": [
+      "TJSB Sahakari Bank",
+      "SVC Cooperative Bank",
+      "Cosmos Cooperative Bank",
+      "Abhyudaya Cooperative Bank",
+      "PMC Bank"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Cosmos Bank faced a cyberattack that led to fraudulent ATM withdrawals in multiple countries."
+  },
+  {
+    "question": "What was one major outcome of the PMC Bank crisis?",
+    "options": [
+      "The bank was privatized",
+      "The bank launched an IPO",
+      "RBI imposed withdrawal limits and superseded the board",
+      "The bank merged with a foreign bank",
+      "The bank was exempted from regulations"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "The Reserve Bank of India imposed strict restrictions and appointed an administrator after the scam was revealed."
+  },
+  {
+    "question": "Which cooperative bank is known for its long legacy and consistent performance since 1906?",
+    "options": [
+      "Abhyudaya Cooperative Bank",
+      "SVC Cooperative Bank",
+      "Cosmos Cooperative Bank",
+      "TJSB Sahakari Bank",
+      "Saraswat Bank"
+    ],
+    "answer": 4,
+    "difficulty": "Medium",
+    "explanation": "Saraswat Bank has maintained consistent growth and service delivery since its inception in 1906."
+  },
+  {
+    "question": "Which bank pioneered the adoption of Core Banking Solutions (CBS) among UCBs?",
+    "options": [
+      "Cosmos Bank",
+      "SVC Bank",
+      "Abhyudaya Bank",
+      "PMC Bank",
+      "Saraswat Bank"
+    ],
+    "answer": 0,
+    "difficulty": "Medium",
+    "explanation": "Cosmos Bank was among the first UCBs to fully adopt CBS technology to improve customer service."
+  },
+  {
+    "question": "What was a key learning for the banking sector from the PMC Bank failure?",
+    "options": [
+      "Privatization of all cooperative banks",
+      "Creation of new cooperative banks",
+      "Need for stronger regulatory oversight and risk management",
+      "Reduction in digital services",
+      "Elimination of priority sector lending"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "The PMC Bank crisis highlighted the importance of transparency, strong governance, and regular audits in UCBs."
+  }
+]

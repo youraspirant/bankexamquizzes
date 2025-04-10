@@ -1,0 +1,132 @@
+[
+  {
+    "question": "Which of the following best differentiates UCBs from commercial banks?",
+    "options": [
+      "UCBs serve rural areas exclusively",
+      "Commercial banks are owned by cooperative societies",
+      "UCBs are structured as cooperative societies",
+      "Commercial banks do not accept deposits",
+      "UCBs do not provide any loans"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "UCBs are cooperative institutions owned and operated by members, whereas commercial banks are corporate entities."
+  },
+  {
+    "question": "Which regulatory authority supervises commercial banks in India?",
+    "options": [
+      "SEBI",
+      "IRDAI",
+      "RBI",
+      "NABARD",
+      "Finance Ministry"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "The Reserve Bank of India (RBI) is the main regulator for all commercial banks in India."
+  },
+  {
+    "question": "Who primarily owns Urban Cooperative Banks?",
+    "options": [
+      "The government",
+      "Private investors",
+      "Public shareholders",
+      "Members of the cooperative society",
+      "Foreign institutions"
+    ],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "UCBs are owned and managed by members of cooperative societies based on mutual benefit."
+  },
+  {
+    "question": "Which of the following is a major functional difference between UCBs and commercial banks?",
+    "options": [
+      "UCBs lend only to international customers",
+      "Commercial banks focus on agricultural lending only",
+      "UCBs cater mainly to small borrowers and local communities",
+      "Commercial banks have no physical branches",
+      "UCBs do not accept savings deposits"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "UCBs primarily serve the credit needs of small borrowers and are rooted in local communities."
+  },
+  {
+    "question": "In terms of geographical reach, commercial banks are generally:",
+    "options": [
+      "Restricted to rural areas",
+      "Limited to only tier-2 cities",
+      "Nationwide or global in presence",
+      "Only cooperative-focused",
+      "Confined to one district"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Commercial banks typically have a wider national and international presence compared to UCBs."
+  },
+  {
+    "question": "Which of these banks is allowed to deal in foreign exchange?",
+    "options": [
+      "All UCBs",
+      "Only cooperative societies",
+      "Only commercial banks authorized by RBI",
+      "No bank in India",
+      "Only credit unions"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Only commercial banks authorized by RBI are permitted to deal in foreign exchange."
+  },
+  {
+    "question": "What limits the expansion of UCBs as compared to commercial banks?",
+    "options": [
+      "Lack of RBI regulation",
+      "Limited cooperative structure and resources",
+      "Too many ATMs",
+      "Global partnerships",
+      "Involvement in stock markets"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "UCBs operate under a cooperative structure with limited financial and operational capacity compared to commercial banks."
+  },
+  {
+    "question": "Which type of bank is more focused on financial inclusion through wider services and digital products?",
+    "options": [
+      "Only cooperative banks",
+      "Commercial banks",
+      "Foreign banks",
+      "UCBs only",
+      "None of the above"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "Commercial banks offer a wider array of financial and digital services, enhancing financial inclusion across segments."
+  },
+  {
+    "question": "Which of the following is true about credit decision-making in UCBs?",
+    "options": [
+      "Based purely on global credit ratings",
+      "Handled by cooperative committees with local knowledge",
+      "Processed by international branches",
+      "Based on stock exchange performance",
+      "Done by corporate consultants"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "Credit decisions in UCBs are often taken by cooperative committees familiar with local needs."
+  },
+  {
+    "question": "Which is a key governance difference between commercial banks and UCBs?",
+    "options": [
+      "UCBs are governed by profit-maximization rules",
+      "Commercial banks operate under cooperative society laws",
+      "UCBs follow democratic member-based governance",
+      "Commercial banks have no legal structure",
+      "Both are governed by village panchayats"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "UCBs are governed democratically by their members, unlike commercial banks, which follow corporate governance."
+  }
+]

@@ -1,0 +1,133 @@
+[
+    {
+      "question": "What is a major growth opportunity for newly converted small finance banks?",
+      "options": [
+        "Focusing exclusively on large corporate lending",
+        "Expanding services to rural and semi-urban markets",
+        "Becoming non-banking financial companies (NBFCs)",
+        "Shifting operations overseas only",
+        "Reducing customer base for focused service"
+      ],
+      "answer": 1,
+      "difficulty": "Medium",
+      "explanation": "SFBs are well-positioned to grow by expanding in rural and semi-urban areas where traditional banks have low penetration."
+    },
+    {
+      "question": "What technological trend is expected to shape the future of SFBs?",
+      "options": [
+        "Manual banking processes",
+        "Decline in mobile banking",
+        "Artificial Intelligence and digital banking platforms",
+        "Complete elimination of online banking",
+        "Telephonic banking only"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Digital transformation including AI-driven services will play a significant role in customer engagement and operational efficiency."
+    },
+    {
+      "question": "Which customer segment is likely to see increased focus from SFBs in the future?",
+      "options": [
+        "High-net-worth individuals",
+        "Foreign companies",
+        "Financially excluded and underserved populations",
+        "Public sector enterprises",
+        "Government regulators"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "SFBs are expected to continue their mission to serve underserved communities and the financially excluded."
+    },
+    {
+      "question": "What regulatory support could help ensure the success of SFBs?",
+      "options": [
+        "Reducing CRR and SLR requirements for large banks",
+        "Strictly limiting digital banking initiatives",
+        "Facilitating easy access to capital and easing compliance burdens",
+        "Discouraging rural expansion",
+        "Mandating urban-only branches"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Regulatory reforms that ease compliance and provide capital access will help SFBs scale sustainably."
+    },
+    {
+      "question": "Which of the following will likely enhance the profitability of converted SFBs?",
+      "options": [
+        "Expanding only deposit services",
+        "Not offering any loans",
+        "Diversifying into microloans and insurance services",
+        "Reducing service availability",
+        "Removing all digital platforms"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Offering diverse financial products, including microloans and insurance, increases revenue opportunities for SFBs."
+    },
+    {
+      "question": "What is a potential future risk for converted SFBs?",
+      "options": [
+        "Excessive capital inflows",
+        "Limited customer base expansion",
+        "High operational cost due to expanding branch networks",
+        "Over-regulation of private sector banks",
+        "Lack of interest in digitalization"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Expanding physical infrastructure can increase operational costs, which may affect profitability if not managed properly."
+    },
+    {
+      "question": "Which area of financial services is likely to be enhanced by SFBs in the future?",
+      "options": [
+        "Investment banking",
+        "Foreign exchange trading",
+        "Microcredit and small savings instruments",
+        "Stock broking",
+        "Wealth management for HNIs"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "SFBs will continue to strengthen offerings in microfinance and small savings to support grassroots-level financial growth."
+    },
+    {
+      "question": "How will collaboration with fintechs affect the future of SFBs?",
+      "options": [
+        "Create regulatory issues",
+        "Restrict operations to Tier 1 cities",
+        "Enable innovation and cost-effective service delivery",
+        "Disrupt traditional services negatively",
+        "Reduce customer trust"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Fintech partnerships allow SFBs to innovate and scale while offering cost-efficient digital services to customers."
+    },
+    {
+      "question": "What type of business model is expected for successful SFBs in the future?",
+      "options": [
+        "Asset-heavy and branch-based",
+        "Technology-driven, customer-centric models",
+        "Focused only on high-value clients",
+        "Traditional physical banking without tech",
+        "Cash-only service models"
+      ],
+      "answer": 1,
+      "difficulty": "Medium",
+      "explanation": "SFBs that adopt technology and design services around customer needs will be more sustainable and profitable."
+    },
+    {
+      "question": "What long-term impact could converted SFBs have on India’s financial landscape?",
+      "options": [
+        "Reduce banking access",
+        "Widen the gap between urban and rural financial services",
+        "Promote inclusive growth and equitable access to financial services",
+        "Discourage entrepreneurship",
+        "Increase reliance on informal lending"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "By bridging gaps in access and services, SFBs can play a key role in building an inclusive financial ecosystem in India."
+    }
+  ]
+  

@@ -1,0 +1,132 @@
+[
+  {
+    "question": "What are demand deposits?",
+    "options": [
+      "Deposits that earn high fixed interest",
+      "Deposits that can be withdrawn anytime",
+      "Deposits locked for a fixed period",
+      "Deposits used only by the government",
+      "Deposits made only in foreign currency"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Demand deposits can be withdrawn at any time without prior notice, such as from savings or current accounts."
+  },
+  {
+    "question": "Which of the following is an example of a demand deposit?",
+    "options": [
+      "Fixed Deposit Account",
+      "Recurring Deposit Account",
+      "Savings Account",
+      "Public Provident Fund",
+      "National Savings Certificate"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Savings accounts are considered demand deposits as money can be withdrawn anytime."
+  },
+  {
+    "question": "Which type of bank account is mainly used by businesses and is considered a demand deposit?",
+    "options": [
+      "Fixed Deposit Account",
+      "Current Account",
+      "Savings Account",
+      "Recurring Deposit",
+      "Term Deposit Account"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Current accounts are used by businesses for frequent transactions and fall under demand deposits."
+  },
+  {
+    "question": "What is a key feature of demand deposits?",
+    "options": [
+      "They have a fixed maturity period",
+      "They offer high fixed interest",
+      "They are repayable on demand",
+      "They are not liquid",
+      "They are not accessible online"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Demand deposits can be withdrawn anytime without restrictions, making them highly liquid."
+  },
+  {
+    "question": "Which of the following accounts is not considered a demand deposit?",
+    "options": [
+      "Savings Account",
+      "Current Account",
+      "Fixed Deposit Account",
+      "Joint Savings Account",
+      "Single-holder Current Account"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Fixed deposits are time deposits and cannot be withdrawn on demand without penalty."
+  },
+  {
+    "question": "Why are demand deposits considered liquid assets?",
+    "options": [
+      "Because they are insured",
+      "Because they are long-term investments",
+      "Because they can be quickly converted to cash",
+      "Because they earn more interest",
+      "Because they are not taxable"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Since funds in demand deposits are available instantly, they are highly liquid."
+  },
+  {
+    "question": "Which customer type is most likely to use current accounts for demand deposits?",
+    "options": [
+      "Senior citizens",
+      "Students",
+      "Government employees",
+      "Businesses",
+      "Farmers"
+    ],
+    "answer": 4,
+    "difficulty": "Easy",
+    "explanation": "Businesses require current accounts to handle a high volume of transactions daily."
+  },
+  {
+    "question": "Do demand deposits typically offer high interest rates?",
+    "options": [
+      "Yes, higher than FDs",
+      "No, they offer lower interest rates",
+      "They offer no interest at all",
+      "They offer fixed interest for 5 years",
+      "They are tax-free"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Demand deposits usually offer lower interest rates than fixed or recurring deposits."
+  },
+  {
+    "question": "How can a customer access funds in a demand deposit?",
+    "options": [
+      "By waiting for 1 year",
+      "Only through cheque",
+      "Via ATM, online banking, or branch",
+      "By applying for a loan",
+      "Only on specific days"
+    ],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "Customers can access funds in demand deposits using various methods like ATM, net banking, or physically."
+  },
+  {
+    "question": "Which regulatory authority ensures the safety of demand deposits in India?",
+    "options": [
+      "IRDAI",
+      "SEBI",
+      "Ministry of Finance",
+      "RBI",
+      "SBI"
+    ],
+    "answer": 4,
+    "difficulty": "Easy",
+    "explanation": "The Reserve Bank of India (RBI) regulates banks and ensures the safety of all deposits."
+  }
+]

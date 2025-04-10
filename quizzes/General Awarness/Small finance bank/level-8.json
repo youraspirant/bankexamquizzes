@@ -1,0 +1,132 @@
+[
+  {
+    "question": "What is one of the biggest operational challenges faced by Small Finance Banks (SFBs)?",
+    "options": [
+      "Shortage of high-net-worth clients",
+      "Limited geographical scope",
+      "High cost of servicing small-ticket customers",
+      "Excessive foreign investment",
+      "Over-dependence on urban markets"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Servicing small-value customers in remote areas often leads to higher operational costs for SFBs."
+  },
+  {
+    "question": "Why is competition from other financial institutions a challenge for SFBs?",
+    "options": [
+      "They are not allowed to operate in rural areas",
+      "Other banks do not provide digital services",
+      "Larger banks and NBFCs offer similar products with better reach",
+      "They are banned from offering credit cards",
+      "They charge higher fees"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Larger commercial banks and NBFCs pose competition by offering similar financial products at lower costs."
+  },
+  {
+    "question": "How does limited access to capital affect SFBs?",
+    "options": [
+      "It helps them maintain focus",
+      "It limits their ability to scale operations and expand outreach",
+      "It increases their profit margins",
+      "It allows them to avoid regulation",
+      "It strengthens their financial inclusion efforts"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "SFBs struggle to expand due to restricted funding options, making it difficult to grow their network."
+  },
+  {
+    "question": "What regulatory challenge do SFBs often face?",
+    "options": [
+      "Freedom to issue credit cards",
+      "Lack of RBI supervision",
+      "Strict compliance norms similar to commercial banks",
+      "Lack of auditing standards",
+      "Freedom to open branches globally"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs are required to follow strict regulations similar to universal banks, which can be difficult given their smaller size and reach."
+  },
+  {
+    "question": "Why is talent retention a challenge for Small Finance Banks?",
+    "options": [
+      "Employees prefer working in rural areas",
+      "SFBs offer high salaries",
+      "They face difficulty in retaining skilled staff due to better pay in larger banks",
+      "They only hire freelancers",
+      "Staff turnover is not a problem"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Due to limited financial resources, SFBs struggle to match the compensation packages offered by larger banks."
+  },
+  {
+    "question": "What makes customer acquisition difficult for SFBs?",
+    "options": [
+      "They don’t advertise",
+      "Rural populations are already using global banks",
+      "Low awareness and trust among rural customers",
+      "They don't offer digital services",
+      "Only rich clients are targeted"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Many target customers are unfamiliar with formal banking and may distrust financial institutions."
+  },
+  {
+    "question": "Which of the following limits the digital growth of SFBs?",
+    "options": [
+      "Too many branches",
+      "High internet penetration",
+      "Poor digital infrastructure in rural areas",
+      "Urban migration",
+      "Availability of foreign loans"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs face difficulty in offering digital services in regions with poor internet and mobile connectivity."
+  },
+  {
+    "question": "Why is maintaining profitability difficult for Small Finance Banks?",
+    "options": [
+      "They charge high interest rates",
+      "They serve customers with high credit scores",
+      "High operational costs and limited high-value customers",
+      "They are supported by global investors",
+      "They invest heavily in the stock market"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Due to their focus on small-ticket loans and deposits, SFBs face profitability pressures."
+  },
+  {
+    "question": "Which risk is particularly high for SFBs due to their target segment?",
+    "options": [
+      "Forex risk",
+      "Market risk",
+      "Credit risk due to defaulting borrowers",
+      "Technology risk",
+      "Liquidity risk from large investors"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs serve low-income and underserved segments, which may have a higher risk of loan defaults."
+  },
+  {
+    "question": "What challenge do SFBs face in expanding their branch network?",
+    "options": [
+      "Lack of customers",
+      "Over-automation",
+      "High costs and RBI restrictions",
+      "Too many applications",
+      "They already have maximum coverage"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Expanding branch presence requires significant financial investment and regulatory approval."
+  }
+]

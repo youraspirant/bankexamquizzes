@@ -1,0 +1,132 @@
+[
+  {
+    "question": "What is one major future opportunity for Small Finance Banks (SFBs)?",
+    "options": [
+      "Expanding into international markets",
+      "Serving high-net-worth individuals only",
+      "Deepening financial inclusion in underserved areas",
+      "Merging with foreign banks",
+      "Focusing only on urban customers"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs have the opportunity to expand their reach and deepen financial inclusion in rural and underserved regions."
+  },
+  {
+    "question": "Which technological advancement is likely to enhance the operations of SFBs in the future?",
+    "options": [
+      "Typewriters",
+      "Blockchain and digital banking platforms",
+      "Manual ledger books",
+      "Paper-based KYC",
+      "Fax machines"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Technology like blockchain and digital banking platforms will help SFBs serve customers efficiently and securely."
+  },
+  {
+    "question": "Why are partnerships with fintech companies seen as beneficial for SFBs?",
+    "options": [
+      "To outsource all services",
+      "To avoid regulations",
+      "To access advanced tech and improve service delivery",
+      "To reduce number of branches",
+      "To enter the stock market"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Collaborating with fintechs allows SFBs to enhance customer service, innovate, and improve efficiency."
+  },
+  {
+    "question": "How will an increase in digital literacy among rural customers affect SFBs?",
+    "options": [
+      "It will reduce the number of customers",
+      "It will weaken the trust in banking",
+      "It will promote the use of digital banking services",
+      "It will stop physical banking operations",
+      "It will increase dependency on cash"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "As digital literacy rises, more rural customers will use mobile and online banking services offered by SFBs."
+  },
+  {
+    "question": "What role can SFBs play in the future of micro-entrepreneurship in India?",
+    "options": [
+      "They can only provide savings accounts",
+      "They can fund and support micro-entrepreneurs with tailored financial products",
+      "They can act as intermediaries for foreign loans",
+      "They offer only insurance products",
+      "They avoid lending to small businesses"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "SFBs are well-positioned to support micro-enterprises with loans and financial services designed for their needs."
+  },
+  {
+    "question": "What is a likely impact of improved regulatory support on SFBs’ future growth?",
+    "options": [
+      "Increased burden on compliance",
+      "Reduced customer trust",
+      "Greater flexibility to innovate and expand",
+      "Restrictions on branch expansion",
+      "Decrease in credit availability"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Supportive regulation can allow SFBs to experiment with new models and grow their outreach."
+  },
+  {
+    "question": "How can SFBs contribute to the Indian economy in the long term?",
+    "options": [
+      "By focusing only on urban centers",
+      "By funding large infrastructure projects",
+      "By empowering small businesses and underserved individuals",
+      "By competing with foreign banks",
+      "By avoiding credit risks"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs play a crucial role in enabling economic growth by supporting grassroots businesses and financial access."
+  },
+  {
+    "question": "Which strategy can help SFBs ensure sustainable growth?",
+    "options": [
+      "Avoiding rural markets",
+      "Focusing only on savings products",
+      "Diversifying products and maintaining low NPAs",
+      "Reducing staff size",
+      "Cutting all digital services"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Sustainable growth depends on diversification, good asset quality, and innovation."
+  },
+  {
+    "question": "How will financial inclusion policies impact the growth of SFBs?",
+    "options": [
+      "They will restrict their operations",
+      "They will lower deposit growth",
+      "They will open up new markets and customers",
+      "They will reduce the need for rural branches",
+      "They will increase tax burden"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Government and RBI focus on inclusion will increase the relevance and growth potential of SFBs."
+  },
+  {
+    "question": "What role will data analytics play in the future operations of SFBs?",
+    "options": [
+      "Replace all banking staff",
+      "Increase branch infrastructure",
+      "Enhance risk assessment and customer targeting",
+      "Discourage online services",
+      "Stop microcredit growth"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Using analytics will help SFBs better understand customer behavior and improve risk management."
+  }
+]

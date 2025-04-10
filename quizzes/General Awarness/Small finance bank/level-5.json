@@ -1,0 +1,132 @@
+[
+  {
+    "question": "Which was the first Small Finance Bank to begin operations in India?",
+    "options": [
+      "Equitas Small Finance Bank",
+      "AU Small Finance Bank",
+      "Capital Small Finance Bank",
+      "Ujjivan Small Finance Bank",
+      "Jana Small Finance Bank"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Capital Small Finance Bank was the first to commence operations in April 2016."
+  },
+  {
+    "question": "Which of the following is a licensed Small Finance Bank?",
+    "options": [
+      "Paytm Bank",
+      "Bandhan Bank",
+      "Equitas Small Finance Bank",
+      "HDFC Bank",
+      "Yes Bank"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Equitas Small Finance Bank is one of the 11 SFBs licensed by RBI."
+  },
+  {
+    "question": "Where is the head office of AU Small Finance Bank located?",
+    "options": [
+      "Mumbai",
+      "Jaipur",
+      "Delhi",
+      "Chennai",
+      "Bangalore"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "AU Small Finance Bank has its headquarters in Jaipur, Rajasthan."
+  },
+  {
+    "question": "Which Small Finance Bank was originally a microfinance company named Janalakshmi Financial Services?",
+    "options": [
+      "ESAF Small Finance Bank",
+      "Suryoday Small Finance Bank",
+      "Jana Small Finance Bank",
+      "Fincare Small Finance Bank",
+      "North East Small Finance Bank"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Jana Small Finance Bank evolved from Janalakshmi Financial Services."
+  },
+  {
+    "question": "Which Small Finance Bank is headquartered in Kerala?",
+    "options": [
+      "Ujjivan Small Finance Bank",
+      "Fincare Small Finance Bank",
+      "ESAF Small Finance Bank",
+      "Suryoday Small Finance Bank",
+      "Capital Small Finance Bank"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "ESAF Small Finance Bank is based in Thrissur, Kerala."
+  },
+  {
+    "question": "Which Small Finance Bank was the first to launch an Initial Public Offering (IPO)?",
+    "options": [
+      "AU Small Finance Bank",
+      "Equitas Small Finance Bank",
+      "Ujjivan Small Finance Bank",
+      "Capital Small Finance Bank",
+      "Fincare Small Finance Bank"
+    ],
+    "answer": 0,
+    "difficulty": "Easy",
+    "explanation": "AU Small Finance Bank was the first among SFBs to launch an IPO in 2017."
+  },
+  {
+    "question": "North East Small Finance Bank primarily serves which region?",
+    "options": [
+      "Northern India",
+      "Southern India",
+      "Eastern India",
+      "North-Eastern India",
+      "Western India"
+    ],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "North East Small Finance Bank focuses on the underserved population in the North-Eastern region of India."
+  },
+  {
+    "question": "Which Small Finance Bank has its origin in Tamil Nadu?",
+    "options": [
+      "Equitas Small Finance Bank",
+      "Suryoday Small Finance Bank",
+      "Capital Small Finance Bank",
+      "Fincare Small Finance Bank",
+      "ESAF Small Finance Bank"
+    ],
+    "answer": 0,
+    "difficulty": "Easy",
+    "explanation": "Equitas Small Finance Bank is headquartered in Chennai, Tamil Nadu."
+  },
+  {
+    "question": "Which SFB was formed by the conversion of a local area bank in Punjab?",
+    "options": [
+      "Ujjivan Small Finance Bank",
+      "Capital Small Finance Bank",
+      "AU Small Finance Bank",
+      "Jana Small Finance Bank",
+      "ESAF Small Finance Bank"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Capital Small Finance Bank was earlier a local area bank in Punjab before converting into a SFB."
+  },
+  {
+    "question": "How many Small Finance Banks were initially granted licenses by RBI in 2015?",
+    "options": [
+      "5",
+      "7",
+      "9",
+      "11",
+      "13"
+    ],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "RBI granted licenses to 11 entities to start operations as Small Finance Banks in 2015."
+  }
+]

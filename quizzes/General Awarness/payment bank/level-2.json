@@ -1,0 +1,133 @@
+[
+    {
+      "question": "What is one of the primary objectives of Payment Banks in India?",
+      "options": [
+        "To provide high-interest loans to corporates",
+        "To act as a central bank",
+        "To promote financial inclusion by providing banking services to unbanked populations",
+        "To regulate other banks",
+        "To provide foreign exchange services"
+      ],
+      "answer": 2,
+      "difficulty": "Easy",
+      "explanation": "Payment Banks were established to enhance financial inclusion by offering basic banking services to underserved sections."
+    },
+    {
+      "question": "Which function is Payment Banks NOT allowed to perform?",
+      "options": [
+        "Accepting demand deposits",
+        "Providing ATM/debit card facilities",
+        "Providing loans and advances",
+        "Offering internet banking",
+        "Facilitating utility bill payments"
+      ],
+      "answer": 2,
+      "difficulty": "Easy",
+      "explanation": "Payment Banks are restricted from lending activities like issuing loans and credit cards."
+    },
+    {
+      "question": "What is the primary role of Payment Banks in the payments ecosystem?",
+      "options": [
+        "Provide foreign currency exchange",
+        "Support digital and cashless transactions",
+        "Regulate interest rates",
+        "Support corporate investment",
+        "Offer trade finance services"
+      ],
+      "answer": 1,
+      "difficulty": "Easy",
+      "explanation": "Payment Banks support the digital payments ecosystem by enabling quick and low-cost digital transactions."
+    },
+    {
+      "question": "Which of these groups are targeted as beneficiaries of Payment Banks' objectives?",
+      "options": [
+        "Large business houses",
+        "Wealthy investors",
+        "Rural households and migrant workers",
+        "International tourists",
+        "Private corporate borrowers"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Payment Banks primarily target rural households, small businesses, and migrant workers to enhance access to financial services."
+    },
+    {
+      "question": "Payment Banks are allowed to distribute which of the following financial products?",
+      "options": [
+        "Credit cards",
+        "Insurance and mutual fund products (on a non-risk sharing basis)",
+        "Personal loans",
+        "Corporate bonds",
+        "Equity shares"
+      ],
+      "answer": 1,
+      "difficulty": "Medium",
+      "explanation": "Payment Banks can distribute third-party insurance and mutual fund products without taking financial risk."
+    },
+    {
+      "question": "How do Payment Banks promote transparency in financial transactions?",
+      "options": [
+        "By offering cash-based services only",
+        "By minimizing technology usage",
+        "By enabling digital records and traceable transactions",
+        "By avoiding Know Your Customer (KYC) rules",
+        "By using unregulated wallets"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Digital services of Payment Banks help in maintaining clear transaction records, enhancing transparency and accountability."
+    },
+    {
+      "question": "What is the maximum balance Payment Banks can accept from a single customer (as of 2023)?",
+      "options": [
+        "₹50,000",
+        "₹1 lakh",
+        "₹2 lakh",
+        "₹5 lakh",
+        "No limit"
+      ],
+      "answer": 2,
+      "difficulty": "Easy",
+      "explanation": "RBI increased the limit from ₹1 lakh to ₹2 lakh for individual customer deposits in Payment Banks."
+    },
+    {
+      "question": "Which of the following is a technological function supported by Payment Banks?",
+      "options": [
+        "Cheque clearing house operations",
+        "Mobile banking and UPI-based payments",
+        "Commodity trading",
+        "Portfolio investment",
+        "Credit appraisal"
+      ],
+      "answer": 1,
+      "difficulty": "Medium",
+      "explanation": "Payment Banks use digital platforms including UPI, IMPS, and mobile banking for quick and convenient transactions."
+    },
+    {
+      "question": "Which type of account can a customer open with a Payment Bank?",
+      "options": [
+        "Savings and Current Accounts",
+        "Recurring Deposits only",
+        "Fixed Deposits only",
+        "Loan Accounts only",
+        "Term Deposit Accounts"
+      ],
+      "answer": 0,
+      "difficulty": "Easy",
+      "explanation": "Payment Banks allow customers to open savings and current accounts with limited deposit limits."
+    },
+    {
+      "question": "How do Payment Banks help small businesses and kirana stores?",
+      "options": [
+        "By giving business loans",
+        "By enabling digital transactions and accepting small deposits",
+        "By trading in commodities",
+        "By offering stock market access",
+        "By issuing government bonds"
+      ],
+      "answer": 1,
+      "difficulty": "Medium",
+      "explanation": "Payment Banks provide digital banking tools that help small businesses manage payments and accept small deposits."
+    }
+  ]
+  

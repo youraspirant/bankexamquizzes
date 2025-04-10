@@ -1,0 +1,132 @@
+[
+  {
+    "question": "Which regulatory body has been given greater supervisory powers over UCBs in recent years?",
+    "options": [
+      "SEBI",
+      "IRDAI",
+      "RBI",
+      "NABARD",
+      "Ministry of Finance"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "The Reserve Bank of India (RBI) has been granted more powers to regulate and supervise Urban Cooperative Banks under recent amendments."
+  },
+  {
+    "question": "What was the key amendment made in 2020 to improve oversight of UCBs?",
+    "options": [
+      "Amendment to Banking Regulation Act",
+      "Introduction of Banking Ombudsman Scheme",
+      "Amendment to Companies Act",
+      "Merger of UCBs with NBFCs",
+      "Privatization of UCBs"
+    ],
+    "answer": 0,
+    "difficulty": "Medium",
+    "explanation": "The Banking Regulation (Amendment) Act, 2020, empowered RBI with greater control over UCBs’ governance and operations."
+  },
+  {
+    "question": "What recent initiative was launched to modernize UCBs' IT systems?",
+    "options": [
+      "Digital UCB 2.0",
+      "Core Banking Solutions Upgrade Plan",
+      "Umbrella Organization for UCBs",
+      "Smart Co-op Project",
+      "E-Banking Booster Scheme"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "The Umbrella Organization for UCBs, led by NAFCUB and sponsored by RBI, aims to enhance IT infrastructure and liquidity support for UCBs."
+  },
+  {
+    "question": "What is the RBI’s vision document for UCBs released in 2021 called?",
+    "options": [
+      "Vision 2022",
+      "UCB Strengthening Scheme",
+      "Revised Licensing Framework",
+      "Vision Document for Urban Cooperative Banks 2021",
+      "UCBs for India 2030"
+    ],
+    "answer": 3,
+    "difficulty": "Medium",
+    "explanation": "RBI released the 'Vision Document for Urban Cooperative Banks 2021' outlining a five-pillar approach to strengthen the sector."
+  },
+  {
+    "question": "Which of the following was introduced to consolidate smaller and weak UCBs?",
+    "options": [
+      "One District One UCB Plan",
+      "Voluntary Amalgamation Scheme",
+      "Banking Reform Act",
+      "National Merger Strategy",
+      "UCB Capital Boost Program"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "The Voluntary Amalgamation Scheme allows merging of financially weak UCBs to create more robust entities."
+  },
+  {
+    "question": "What is a key focus area of recent reforms aimed at strengthening governance in UCBs?",
+    "options": [
+      "Reducing deposits",
+      "Hiring political leaders",
+      "Professionalizing board management",
+      "Eliminating digital platforms",
+      "Outsourcing core operations"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Recent reforms emphasize the need for professional boards and management practices in UCBs."
+  },
+  {
+    "question": "How has RBI categorized UCBs for regulatory purposes recently?",
+    "options": [
+      "By state",
+      "By digital readiness",
+      "Tier-based classification",
+      "By age of bank",
+      "By urban/rural status"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "RBI introduced a tier-based regulatory framework to differentiate and appropriately regulate UCBs based on their size and operations."
+  },
+  {
+    "question": "Which technological platform is being adopted widely by UCBs under RBI’s guidance?",
+    "options": [
+      "UPI",
+      "Aadhaar Payment Bridge",
+      "Core Banking Solutions (CBS)",
+      "Blockchain KYC",
+      "E-RUPI"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "The adoption of Core Banking Solutions is a major reform to bring UCBs on par with commercial banks in terms of operational efficiency."
+  },
+  {
+    "question": "Which organization supports UCBs in setting up the Umbrella Organization?",
+    "options": [
+      "NABARD",
+      "SEBI",
+      "IRDAI",
+      "NAFCUB",
+      "FICCI"
+    ],
+    "answer": 3,
+    "difficulty": "Medium",
+    "explanation": "NAFCUB (National Federation of Urban Cooperative Banks and Credit Societies) is instrumental in the formation of the Umbrella Organization."
+  },
+  {
+    "question": "What is the intended benefit of the recent reforms in the UCB sector?",
+    "options": [
+      "Increasing foreign ownership",
+      "Rapid urbanization",
+      "Improved governance, transparency, and depositor confidence",
+      "Reducing rural branches",
+      "Ending cooperative structure"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "The reforms aim to strengthen UCBs by enhancing governance, ensuring regulatory compliance, and building trust among depositors."
+  }
+]

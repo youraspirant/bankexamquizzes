@@ -1,0 +1,132 @@
+[
+  {
+    "question": "Which of the following entities are eligible for conversion into Small Finance Banks (SFBs)?",
+    "options": [
+      "Only Commercial Banks",
+      "Only Foreign Banks",
+      "Payment Banks and Urban Cooperative Banks",
+      "NBFCs only",
+      "Private Equity Firms"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "According to RBI, both Payment Banks and eligible Urban Cooperative Banks can apply for conversion into SFBs."
+  },
+  {
+    "question": "What is the minimum net worth required for an Urban Cooperative Bank (UCB) to be eligible for conversion into an SFB?",
+    "options": [
+      "Rs. 25 crore",
+      "Rs. 50 crore",
+      "Rs. 100 crore",
+      "Rs. 200 crore",
+      "Rs. 500 crore"
+    ],
+    "answer": 3,
+    "difficulty": "Medium",
+    "explanation": "UCBs must have a minimum net worth of Rs. 100 crore to be eligible for conversion as per RBI norms."
+  },
+  {
+    "question": "What is the minimum capital adequacy ratio (CAR) required for UCBs to be eligible for conversion?",
+    "options": [
+      "7%",
+      "8%",
+      "9%",
+      "10%",
+      "12%"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "RBI mandates a minimum capital adequacy ratio (CAR) of 9% for UCBs seeking conversion to SFBs."
+  },
+  {
+    "question": "What is the age requirement for a Payment Bank to be considered for conversion into an SFB?",
+    "options": [
+      "1 year of operations",
+      "2 years of operations",
+      "3 years of operations",
+      "5 years of operations",
+      "No minimum period"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "A Payment Bank must have completed at least 5 years of operations to be eligible for conversion to an SFB."
+  },
+  {
+    "question": "Which of the following is a mandatory eligibility condition for any bank applying for conversion to an SFB?",
+    "options": [
+      "It must be a listed company",
+      "It must be a government-owned entity",
+      "It must have prior approval from RBI",
+      "It must operate in urban areas only",
+      "It must already be offering foreign exchange services"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Prior approval from the Reserve Bank of India is mandatory for any conversion application to proceed."
+  },
+  {
+    "question": "Which financial performance metric is often evaluated by RBI to assess conversion eligibility?",
+    "options": [
+      "Foreign direct investment inflow",
+      "Return on Assets (RoA)",
+      "Stock price",
+      "Export revenue",
+      "CSR expenditure"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "Return on Assets (RoA) is one of the key metrics evaluated to assess financial soundness and eligibility."
+  },
+  {
+    "question": "Does RBI allow newly licensed Payment Banks to apply for conversion into SFBs immediately after receiving license?",
+    "options": [
+      "Yes, immediately",
+      "After 1 year",
+      "After 3 years",
+      "After 5 years",
+      "Not allowed at all"
+    ],
+    "answer": 3,
+    "difficulty": "Medium",
+    "explanation": "RBI allows conversion only after a Payment Bank has completed a minimum of 5 years of operations."
+  },
+  {
+    "question": "What is the promoter holding requirement for institutions applying for conversion into SFBs?",
+    "options": [
+      "At least 10%",
+      "At least 20%",
+      "At least 40%",
+      "At least 50%",
+      "At least 75%"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Promoters must hold at least 40% of the paid-up equity capital at the time of conversion application."
+  },
+  {
+    "question": "Which legal structure is mandatory for an entity post-conversion into an SFB?",
+    "options": [
+      "Public Charitable Trust",
+      "Limited Liability Partnership",
+      "Private Limited Company",
+      "Public Company under Companies Act",
+      "Sole Proprietorship"
+    ],
+    "answer": 3,
+    "difficulty": "Medium",
+    "explanation": "Post-conversion, the entity must be registered as a Public Company under the Companies Act."
+  },
+  {
+    "question": "Which of these criteria is NOT part of RBI's eligibility conditions for conversion into SFBs?",
+    "options": [
+      "Financial soundness",
+      "Minimum number of employees",
+      "Regulatory compliance",
+      "Minimum net worth",
+      "Capital Adequacy Ratio"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "While financial health is important, RBI does not mandate a specific minimum number of employees for conversion."
+  }
+]

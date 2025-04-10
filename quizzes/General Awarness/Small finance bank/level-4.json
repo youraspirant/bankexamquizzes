@@ -1,0 +1,132 @@
+[
+  {
+    "question": "What is a core feature of Small Finance Banks (SFBs)?",
+    "options": [
+      "Only provide insurance services",
+      "Offer international remittances only",
+      "Provide basic banking services to underserved sections",
+      "Invest only in government bonds",
+      "Operate only in urban areas"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs are designed to offer essential banking services to small businesses, low-income households, and underserved populations."
+  },
+  {
+    "question": "Which type of loans do SFBs primarily provide?",
+    "options": [
+      "Large-scale infrastructure loans",
+      "Unsecured international loans",
+      "Small ticket loans to priority sectors",
+      "Corporate bonds",
+      "Foreign exchange loans"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs primarily focus on small ticket loans to priority sectors like agriculture, small businesses, and the informal sector."
+  },
+  {
+    "question": "Are Small Finance Banks allowed to accept deposits?",
+    "options": [
+      "No",
+      "Yes, but only from corporates",
+      "Yes, including savings and fixed deposits",
+      "Only recurring deposits",
+      "Only demand deposits"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs are allowed to accept all types of deposits including savings, current, and term deposits."
+  },
+  {
+    "question": "Which customer segment is the main target for SFBs?",
+    "options": [
+      "High-income individuals",
+      "Large corporates",
+      "Unbanked and underserved populations",
+      "Foreign tourists",
+      "Export-import traders"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs aim to serve segments that are typically excluded from the formal banking system."
+  },
+  {
+    "question": "Which type of banking activities are SFBs allowed to perform?",
+    "options": [
+      "Issuing credit cards internationally",
+      "Investment banking",
+      "Basic banking functions like accepting deposits and lending",
+      "Currency trading",
+      "Insurance underwriting"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs are allowed to carry out basic banking activities like accepting deposits and lending to priority sectors."
+  },
+  {
+    "question": "Do Small Finance Banks need to meet RBI’s CRR and SLR requirements?",
+    "options": [
+      "No",
+      "Yes, only SLR",
+      "Yes, only CRR",
+      "Yes, both CRR and SLR",
+      "Only if located in rural areas"
+    ],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "SFBs must comply with the same Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR) requirements as other banks."
+  },
+  {
+    "question": "Are SFBs required to maintain priority sector lending norms?",
+    "options": [
+      "No, they are exempt",
+      "Yes, but only for agricultural loans",
+      "Yes, at least 75% of their loans should go to priority sectors",
+      "Yes, but only for export loans",
+      "Only in urban areas"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs are required to lend at least 75% of their Adjusted Net Bank Credit to priority sectors."
+  },
+  {
+    "question": "Can SFBs offer internet and mobile banking services?",
+    "options": [
+      "No",
+      "Only to high-income clients",
+      "Yes, as per RBI approval",
+      "Only in urban areas",
+      "Yes, but only for deposits"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs can provide internet and mobile banking services, subject to RBI guidelines and technological readiness."
+  },
+  {
+    "question": "Are SFBs allowed to become scheduled banks?",
+    "options": [
+      "No",
+      "Yes, immediately after licensing",
+      "Yes, once they meet certain conditions",
+      "Only if they operate internationally",
+      "Only private SFBs can become scheduled banks"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs can be included in the Second Schedule of the RBI Act, 1934 after fulfilling certain regulatory requirements."
+  },
+  {
+    "question": "What is the minimum capital adequacy ratio (CAR) SFBs are required to maintain?",
+    "options": [
+      "7%",
+      "9%",
+      "10%",
+      "15%",
+      "18%"
+    ],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "SFBs are required to maintain a minimum Capital Adequacy Ratio (CAR) of 15% of their risk-weighted assets."
+  }
+]

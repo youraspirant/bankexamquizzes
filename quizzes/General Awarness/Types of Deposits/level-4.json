@@ -1,0 +1,132 @@
+[
+  {
+    "question": "What is a key difference between demand and time deposits?",
+    "options": [
+      "Time deposits can be withdrawn anytime; demand deposits cannot",
+      "Demand deposits require a fixed maturity period",
+      "Demand deposits can be withdrawn anytime; time deposits have a lock-in period",
+      "Both offer high interest rates",
+      "Both are only used by businesses"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Demand deposits allow immediate withdrawal, while time deposits require a fixed holding period."
+  },
+  {
+    "question": "Which deposit type typically offers higher interest rates?",
+    "options": [
+      "Demand deposits",
+      "Time deposits",
+      "Savings deposits",
+      "Zero balance accounts",
+      "Current accounts"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Time deposits usually offer higher interest because the funds are locked for a specific period."
+  },
+  {
+    "question": "Which of the following is a time deposit?",
+    "options": [
+      "Savings account",
+      "Current account",
+      "Fixed deposit",
+      "Zero balance account",
+      "Cheque account"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Fixed deposits are a form of time deposit where money is kept for a predetermined duration."
+  },
+  {
+    "question": "What happens if you withdraw a time deposit before maturity?",
+    "options": [
+      "You receive a bonus",
+      "There is no penalty",
+      "You earn extra interest",
+      "You may incur a penalty or reduced interest",
+      "The bank cancels your account"
+    ],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "Premature withdrawal of time deposits often leads to lower interest or penalties."
+  },
+  {
+    "question": "Which account is best for frequent daily transactions?",
+    "options": [
+      "Fixed deposit",
+      "Recurring deposit",
+      "Current account",
+      "Public Provident Fund",
+      "Tax-saving FD"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Current accounts are ideal for businesses or individuals needing frequent access to funds."
+  },
+  {
+    "question": "Which of these is a common example of a demand deposit?",
+    "options": [
+      "Tax-saving fixed deposit",
+      "Recurring deposit",
+      "Savings account",
+      "Senior citizen FD",
+      "Post office TD"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Savings accounts are considered demand deposits because money can be withdrawn on request."
+  },
+  {
+    "question": "Which deposit type helps in better liquidity management?",
+    "options": [
+      "Time deposits",
+      "Recurring deposits",
+      "Demand deposits",
+      "Monthly Income Scheme",
+      "Senior Citizen Savings Scheme"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Demand deposits provide easy access to funds, helping individuals manage liquidity."
+  },
+  {
+    "question": "Can time deposits be auto-renewed upon maturity?",
+    "options": [
+      "No, they must be closed",
+      "Yes, with customer approval",
+      "Only for senior citizens",
+      "Only once in a year",
+      "Not allowed in India"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Most banks offer the option to auto-renew time deposits if the customer agrees."
+  },
+  {
+    "question": "Why are time deposits considered more stable for banks?",
+    "options": [
+      "They can be used instantly",
+      "They offer high risk",
+      "They remain in the bank for a fixed duration",
+      "They are always in foreign currency",
+      "They can be transferred freely"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Time deposits provide a predictable source of funds for banks, useful for lending and investments."
+  },
+  {
+    "question": "Which of the following best defines a demand deposit?",
+    "options": [
+      "Money locked in a deposit for 5 years",
+      "Funds available on demand without notice",
+      "A long-term investment tool",
+      "Non-interest bearing funds",
+      "A post office scheme"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Demand deposits can be withdrawn by the depositor at any time without advance notice."
+  }
+]

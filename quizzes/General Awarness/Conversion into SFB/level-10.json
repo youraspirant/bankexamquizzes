@@ -1,0 +1,132 @@
+[
+  {
+    "question": "How does the conversion of payment banks to small finance banks enhance financial inclusion?",
+    "options": [
+      "By focusing only on urban clients",
+      "By discontinuing rural operations",
+      "By expanding their lending capabilities to underserved areas",
+      "By reducing branch presence",
+      "By limiting account types"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Small finance banks can offer loans and credit services, especially to rural and underserved populations, which promotes financial inclusion."
+  },
+  {
+    "question": "Which type of customer base benefits the most from the conversion of UCBs to small finance banks?",
+    "options": [
+      "Large corporations",
+      "Urban salaried professionals",
+      "Unbanked and underbanked rural populations",
+      "High Net-Worth Individuals (HNIs)",
+      "Foreign investors"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Underbanked and rural populations gain access to formal credit and banking facilities after UCBs become small finance banks."
+  },
+  {
+    "question": "What is a major improvement in banking services after conversion?",
+    "options": [
+      "Limited ATM access",
+      "Restricted account types",
+      "Full-service banking including savings, loans, and insurance",
+      "Only mobile wallet operations",
+      "Paper-based transactions only"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "After conversion, the institution can provide a complete range of banking services, improving financial access."
+  },
+  {
+    "question": "Which of the following services can newly converted small finance banks offer that payment banks cannot?",
+    "options": [
+      "Issue debit cards",
+      "Accept fixed deposits",
+      "Offer loans and credit products",
+      "Mobile banking",
+      "Digital wallets"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Payment banks are not allowed to lend money, while SFBs can offer credit and loans, significantly enhancing their utility."
+  },
+  {
+    "question": "How does the conversion contribute to deeper penetration of formal banking?",
+    "options": [
+      "By serving only government institutions",
+      "By reducing operational locations",
+      "By reaching marginalized and low-income groups",
+      "By focusing only on metro cities",
+      "By limiting the number of services"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "SFBs are mandated to focus on unserved and underserved segments, deepening the penetration of formal banking."
+  },
+  {
+    "question": "Which government initiative aligns with the conversion strategy of banks to small finance banks?",
+    "options": [
+      "Make in India",
+      "Startup India",
+      "Digital India",
+      "Jan Dhan Yojana",
+      "Swachh Bharat"
+    ],
+    "answer": 3,
+    "difficulty": "Medium",
+    "explanation": "The Jan Dhan Yojana aims to increase financial inclusion, and SFBs support this through expanded services to rural areas."
+  },
+  {
+    "question": "What happens to the deposit insurance of customers after conversion to SFB?",
+    "options": [
+      "It is discontinued",
+      "It is reduced",
+      "It remains under DICGC coverage",
+      "It is taken over by SEBI",
+      "Only fixed deposits are insured"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Small finance banks are covered by the Deposit Insurance and Credit Guarantee Corporation (DICGC), ensuring safety for depositors."
+  },
+  {
+    "question": "How do converted SFBs improve access to micro and small enterprises?",
+    "options": [
+      "By offering long-term corporate bonds",
+      "By launching IPOs",
+      "By offering small-ticket loans tailored for MSMEs",
+      "By becoming investment banks",
+      "By focusing on export financing only"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "SFBs support financial inclusion by offering loans to MSMEs and small borrowers who lack access to traditional credit channels."
+  },
+  {
+    "question": "Why is digital banking a key aspect after conversion?",
+    "options": [
+      "To avoid physical infrastructure costs",
+      "To replace customer service",
+      "To serve high-income individuals only",
+      "To avoid RBI oversight",
+      "To promote cryptocurrency"
+    ],
+    "answer": 0,
+    "difficulty": "Medium",
+    "explanation": "Digital banking enhances reach and reduces costs, allowing SFBs to serve low-income and remote populations efficiently."
+  },
+  {
+    "question": "Which customer group gains improved credit access after a bank's conversion to SFB?",
+    "options": [
+      "NRIs",
+      "Large exporters",
+      "Government departments",
+      "Small farmers and women entrepreneurs",
+      "Defense contractors"
+    ],
+    "answer": 3,
+    "difficulty": "Medium",
+    "explanation": "SFBs target small farmers, women entrepreneurs, and other financially excluded groups, increasing credit access for them."
+  }
+]

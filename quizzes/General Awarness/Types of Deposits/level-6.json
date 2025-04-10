@@ -1,0 +1,132 @@
+[
+  {
+    "question": "What is the primary purpose of a current account?",
+    "options": [
+      "To earn high interest",
+      "To facilitate frequent business transactions",
+      "To save money for retirement",
+      "To invest in the stock market",
+      "To earn compound interest monthly"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Current accounts are designed to allow frequent transactions, making them ideal for businesses."
+  },
+  {
+    "question": "Who typically uses a current account?",
+    "options": [
+      "Students",
+      "Senior citizens",
+      "Employees",
+      "Businesses and traders",
+      "Homemakers"
+    ],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "Businesses and traders prefer current accounts for handling large numbers of daily transactions."
+  },
+  {
+    "question": "Do current accounts usually offer interest on deposits?",
+    "options": [
+      "Yes, same as savings accounts",
+      "No, they usually do not offer interest",
+      "Only for amounts over ₹10 lakh",
+      "Only during festive seasons",
+      "Only for government accounts"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Current accounts typically do not offer interest on balances."
+  },
+  {
+    "question": "Is there a limit to the number of transactions in a current account?",
+    "options": [
+      "Yes, only 3 per month",
+      "Yes, only 5 per month",
+      "No, unlimited transactions are allowed",
+      "Only cheque payments are allowed",
+      "Only ATM transactions are allowed"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Current accounts allow unlimited transactions, which suits business needs."
+  },
+  {
+    "question": "Which of the following is a common feature of a current account?",
+    "options": [
+      "High interest earnings",
+      "Long-term savings option",
+      "Overdraft facility",
+      "Tax exemption",
+      "Monthly bonus"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Many current accounts offer an overdraft facility, allowing users to withdraw more than their balance."
+  },
+  {
+    "question": "What is a major disadvantage of a current account?",
+    "options": [
+      "Limited fund access",
+      "Low transaction limit",
+      "No interest on deposits",
+      "Cannot deposit cash",
+      "Only one withdrawal allowed"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "A main drawback of current accounts is that they typically do not earn interest on deposits."
+  },
+  {
+    "question": "What type of balance is generally required to maintain a current account?",
+    "options": [
+      "No balance required",
+      "Only ₹500",
+      "A higher minimum balance compared to savings accounts",
+      "Zero balance only for students",
+      "Minimum ₹1 lakh mandatory"
+    ],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "Current accounts usually require a higher minimum balance due to the nature of frequent transactions."
+  },
+  {
+    "question": "Which facility is usually offered with a current account?",
+    "options": [
+      "Life insurance",
+      "Loan against deposit",
+      "Cheque book facility",
+      "Mutual fund investment",
+      "Tax returns filing"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Cheque book facility is a common feature with current accounts for easy payment and transactions."
+  },
+  {
+    "question": "Why are current accounts considered non-interest-bearing?",
+    "options": [
+      "To promote savings",
+      "Due to frequent withdrawals and deposits",
+      "Because they are closed quickly",
+      "To avoid taxation",
+      "Because they are illegal"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Due to their transactional nature and frequent fund movement, interest is generally not paid on current accounts."
+  },
+  {
+    "question": "Can current account holders avail of an overdraft facility?",
+    "options": [
+      "No, only savings accounts can",
+      "Yes, it's a key feature of current accounts",
+      "Only after 5 years",
+      "Only if the account is inactive",
+      "Only in government banks"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Overdraft is a common facility offered with current accounts, allowing users to withdraw more than their balance."
+  }
+]

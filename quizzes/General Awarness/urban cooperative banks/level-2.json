@@ -1,0 +1,132 @@
+[
+  {
+    "question": "When was the first Urban Cooperative Bank in India established?",
+    "options": [
+      "1889",
+      "1904",
+      "1912",
+      "1925",
+      "1949"
+    ],
+    "answer": 0,
+    "difficulty": "Easy",
+    "explanation": "The first UCB in India was established in 1889 in Kanjivaram, Tamil Nadu."
+  },
+  {
+    "question": "Which Act provided legal recognition to cooperative societies in India?",
+    "options": [
+      "Banking Regulation Act, 1949",
+      "Companies Act, 1956",
+      "Cooperative Societies Act, 1904",
+      "Indian Contract Act, 1872",
+      "Reserve Bank of India Act, 1934"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "The Cooperative Societies Act, 1904 provided the first legal framework for cooperative societies in India."
+  },
+  {
+    "question": "Which Indian leader promoted the idea of cooperative banks during British rule?",
+    "options": [
+      "Jawaharlal Nehru",
+      "B.R. Ambedkar",
+      "Mahatma Gandhi",
+      "Lord Curzon",
+      "Sir Frederick Nicholson"
+    ],
+    "answer": 4,
+    "difficulty": "Medium",
+    "explanation": "Sir Frederick Nicholson advocated the idea of cooperative credit societies in India under British rule."
+  },
+  {
+    "question": "What major change occurred in 1966 regarding UCBs?",
+    "options": [
+      "They were nationalized",
+      "They were brought under the Companies Act",
+      "They came under the Banking Regulation Act",
+      "They were merged with commercial banks",
+      "They began issuing credit cards"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "In 1966, UCBs were brought under the purview of the Banking Regulation Act, 1949, giving RBI authority over them."
+  },
+  {
+    "question": "Which year did RBI start regulating Urban Cooperative Banks?",
+    "options": [
+      "1949",
+      "1955",
+      "1966",
+      "1975",
+      "1991"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "RBI started regulating UCBs in 1966 under the Banking Regulation Act."
+  },
+  {
+    "question": "What was the primary purpose of establishing UCBs during their early development?",
+    "options": [
+      "International remittances",
+      "Financing export businesses",
+      "Providing credit to urban poor and middle class",
+      "Buying foreign banks",
+      "Financing military operations"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "UCBs were founded to provide banking and credit services to urban middle and lower-income groups."
+  },
+  {
+    "question": "Which financial sector committee highlighted the importance of UCBs in the 1990s?",
+    "options": [
+      "Kelkar Committee",
+      "Tarapore Committee",
+      "Narasimham Committee",
+      "Verma Committee",
+      "Nachiket Mor Committee"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "The Narasimham Committee recognized UCBs as an important part of financial inclusion during the banking sector reforms."
+  },
+  {
+    "question": "In the evolution of UCBs, what trend was seen post-economic liberalization in the 1990s?",
+    "options": [
+      "Decline in deposits",
+      "Rapid expansion of UCBs",
+      "Withdrawal of licenses",
+      "Ban on lending",
+      "Shift to rural banking only"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "Post-liberalization, UCBs experienced rapid growth due to increased financial activity in urban areas."
+  },
+  {
+    "question": "What led to stricter regulation and supervision of UCBs in the 2000s?",
+    "options": [
+      "Global financial crisis",
+      "Increase in cooperative education",
+      "Failures and frauds in some UCBs",
+      "Union budget reforms",
+      "High export-import imbalance"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Several failures and frauds involving UCBs prompted RBI to impose stricter regulations and improve oversight."
+  },
+  {
+    "question": "What is the dual control system in UCBs’ regulatory history?",
+    "options": [
+      "Shared control by RBI and SEBI",
+      "Control by central and international banks",
+      "Joint regulation by RBI and State Governments",
+      "Shared governance by banks and stock exchanges",
+      "Managed by Ministry of Corporate Affairs"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "UCBs have been regulated by both the RBI (for banking functions) and state governments (for management and registration)."
+  }
+]

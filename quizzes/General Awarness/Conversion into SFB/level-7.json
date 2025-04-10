@@ -1,0 +1,132 @@
+[
+  {
+    "question": "Which payment bank was the first to receive in-principle approval from RBI for conversion into a Small Finance Bank in India?",
+    "options": [
+      "India Post Payments Bank",
+      "Paytm Payments Bank",
+      "FINO Payments Bank",
+      "Airtel Payments Bank",
+      "NSDL Payments Bank"
+    ],
+    "answer": 0,
+    "difficulty": "Medium",
+    "explanation": "India Post Payments Bank was among the first to explore conversion into a Small Finance Bank after receiving in-principle approval from the RBI."
+  },
+  {
+    "question": "What was one of the primary motivations for India Post Payments Bank to seek conversion to an SFB?",
+    "options": [
+      "To issue credit cards",
+      "To increase capital reserves",
+      "To offer a full range of banking services, including credit",
+      "To acquire smaller payment banks",
+      "To merge with a commercial bank"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "The motivation was to offer full-service banking, including credit facilities, which payment banks are not allowed to provide."
+  },
+  {
+    "question": "Which regulator provides approval for the conversion of a payments bank to a small finance bank?",
+    "options": [
+      "SEBI",
+      "IRDAI",
+      "RBI",
+      "Ministry of Finance",
+      "NABARD"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "The Reserve Bank of India is the regulatory authority that grants conversion licenses."
+  },
+  {
+    "question": "What key service limitation of Payment Banks motivates them to convert to SFBs?",
+    "options": [
+      "Inability to open accounts",
+      "Lack of digital banking features",
+      "Prohibition on lending",
+      "High-interest rates",
+      "Inability to accept deposits"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Payment Banks are not allowed to lend money, which limits their revenue and service range."
+  },
+  {
+    "question": "As of 2024, has Paytm Payments Bank received approval to convert to an SFB?",
+    "options": [
+      "Yes, fully operational",
+      "No, still under evaluation",
+      "Approval denied by RBI",
+      "In process of merger",
+      "Converted and listed"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "Paytm Payments Bank had not received final approval to convert into an SFB as of 2024 and remained under evaluation."
+  },
+  {
+    "question": "Which of the following banks initiated discussions with RBI about converting from a Payment Bank to a Small Finance Bank?",
+    "options": [
+      "FINO Payments Bank",
+      "Jio Payments Bank",
+      "NSDL Payments Bank",
+      "Google Pay",
+      "Freecharge Bank"
+    ],
+    "answer": 0,
+    "difficulty": "Medium",
+    "explanation": "FINO Payments Bank expressed interest in the conversion route to offer loans and increase product offerings."
+  },
+  {
+    "question": "Which of these was a major challenge faced by payment banks while seeking conversion to SFBs?",
+    "options": [
+      "Lack of customer base",
+      "Limited capital and infrastructure for full banking operations",
+      "Inability to offer digital services",
+      "Resistance from telecom partners",
+      "No access to core banking platforms"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "Most payment banks lacked the financial strength and physical infrastructure required for full-scale SFB operations."
+  },
+  {
+    "question": "India Post Payments Bank operates under which larger governmental department?",
+    "options": [
+      "Ministry of Finance",
+      "Ministry of Home Affairs",
+      "Department of Financial Services",
+      "Department of Posts",
+      "Ministry of IT"
+    ],
+    "answer": 3,
+    "difficulty": "Medium",
+    "explanation": "IPPB functions under the Department of Posts, Ministry of Communications."
+  },
+  {
+    "question": "Which technological initiative by India Post Payments Bank supports its conversion goal?",
+    "options": [
+      "UPI-only transactions",
+      "QR code billers",
+      "Doorstep banking services",
+      "Credit card schemes",
+      "Blockchain-based savings"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Doorstep banking through postal networks helps reach rural and underserved areas, supporting financial inclusion and potential for SFB services."
+  },
+  {
+    "question": "What distinguishes India Post Payments Bank’s customer outreach strategy?",
+    "options": [
+      "Mobile app-only model",
+      "Exclusive urban operations",
+      "Dependence on digital wallets",
+      "Use of postmen for banking delivery",
+      "Operating only on weekends"
+    ],
+    "answer": 3,
+    "difficulty": "Medium",
+    "explanation": "India Post Payments Bank uses postmen and Grameen Dak Sevaks to deliver banking services to customers’ doorsteps."
+  }
+]

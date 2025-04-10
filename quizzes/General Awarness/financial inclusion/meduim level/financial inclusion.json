@@ -1,0 +1,73 @@
+[
+    {
+      "question": "Which initiative by the Reserve Bank of India focuses on creating financial literacy among rural populations?",
+      "options": ["Jan Dhan Yojana", "Financial Literacy Week", "Swachh Bharat Abhiyan", "Startup India", "Skill India Mission"],
+      "answer": 1,
+      "difficulty": "Medium",
+      "explanation": "RBI's Financial Literacy Week promotes awareness about financial products and services in rural and semi-urban areas."
+    },
+    {
+      "question": "What role does Aadhaar play in financial inclusion in India?",
+      "options": ["Tax exemption", "Digital movie streaming", "Identity verification for financial access", "Land record digitization", "Currency printing"],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Aadhaar is used to authenticate identity and link individuals to bank accounts, enabling easier access to financial services."
+    },
+    {
+      "question": "Which microfinance principle is central to financial inclusion?",
+      "options": ["High-interest loans", "Collateral-based lending", "Group lending without collateral", "Stock market trading", "Subsidized urban housing"],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Group lending without collateral is a key feature of microfinance that promotes inclusion for low-income individuals."
+    },
+    {
+      "question": "Which of the following is a major barrier to financial inclusion in India?",
+      "options": ["Overpopulation", "Lack of entertainment", "Low financial literacy", "Too many banks", "Advanced technology access"],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Low financial literacy makes it difficult for people to understand and use formal financial services effectively."
+    },
+    {
+      "question": "What does the term 'Jan Dhan' in PMJDY stand for?",
+      "options": ["Public Savings", "People’s Account", "Money for All", "Public Wealth", "People’s Property"],
+      "answer": 3,
+      "difficulty": "Medium",
+      "explanation": "‘Jan Dhan’ translates to 'Public Wealth,' signifying inclusive financial prosperity for every citizen."
+    },
+    {
+      "question": "Which institution supports rural financial inclusion through refinancing and development programs?",
+      "options": ["SEBI", "IRDAI", "NABARD", "LIC", "NPCI"],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "NABARD plays a key role in supporting rural financial inclusion through credit, refinancing, and infrastructure programs."
+    },
+    {
+      "question": "Which platform launched by NPCI facilitates digital payments to promote inclusion?",
+      "options": ["BHIM", "Flipkart", "Tally", "IRCTC", "Zoom"],
+      "answer": 0,
+      "difficulty": "Medium",
+      "explanation": "BHIM (Bharat Interface for Money) is a UPI-based payment app launched by NPCI to promote digital financial inclusion."
+    },
+    {
+      "question": "Which gender-focused initiative under financial inclusion supports women-led SHGs (Self Help Groups)?",
+      "options": ["Mudra Yojana", "Sukanya Samriddhi", "Mahila E-Haat", "National Rural Livelihoods Mission", "Khelo India"],
+      "answer": 3,
+      "difficulty": "Medium",
+      "explanation": "NRLM empowers women by providing financial support and training to Self Help Groups in rural India."
+    },
+    {
+      "question": "How does the Direct Benefit Transfer (DBT) scheme support financial inclusion?",
+      "options": ["By reducing subsidies", "By linking Aadhaar to ration cards", "By delivering subsidies directly to bank accounts", "By digitizing ration shops", "By tracking income tax returns"],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "DBT ensures subsidies and welfare payments are directly transferred to the bank accounts of beneficiaries, promoting inclusion."
+    },
+    {
+      "question": "Which of the following best describes the term 'financially excluded'?",
+      "options": ["People with multiple credit cards", "People who only use online payments", "People without access to formal banking services", "High-income corporate investors", "People with foreign bank accounts"],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "The financially excluded are individuals who do not have access to basic banking services like savings, loans, and insurance."
+    }
+  ]
+  

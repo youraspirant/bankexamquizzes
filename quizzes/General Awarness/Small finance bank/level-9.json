@@ -1,0 +1,132 @@
+[
+  {
+    "question": "What is one key difference between Small Finance Banks (SFBs) and Payment Banks?",
+    "options": [
+      "SFBs cannot accept deposits",
+      "Payment Banks offer large corporate loans",
+      "SFBs can provide credit facilities, Payment Banks cannot",
+      "SFBs do not operate in rural areas",
+      "Payment Banks have international branches"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs are allowed to offer credit products like loans, while Payment Banks are restricted from doing so."
+  },
+  {
+    "question": "Which of the following is a service offered by Commercial Banks but not by Payment Banks?",
+    "options": [
+      "Savings accounts",
+      "Fixed deposits",
+      "Cash withdrawals",
+      "Mobile banking",
+      "Debit card services"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Payment Banks are not allowed to offer fixed deposits, while Commercial and SFBs can."
+  },
+  {
+    "question": "What is a similarity between Small Finance Banks and Commercial Banks?",
+    "options": [
+      "Both can lend to large corporates",
+      "Both are required to follow RBI’s CRR and SLR norms",
+      "Both operate only in urban regions",
+      "Both provide foreign exchange services",
+      "Both are restricted from issuing credit cards"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Both SFBs and Commercial Banks must adhere to regulatory norms such as CRR (Cash Reserve Ratio) and SLR (Statutory Liquidity Ratio)."
+  },
+  {
+    "question": "Which of these banks has the most freedom in terms of product offerings?",
+    "options": [
+      "Payment Banks",
+      "Small Finance Banks",
+      "Cooperative Banks",
+      "Commercial Banks",
+      "Regional Rural Banks"
+    ],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "Commercial Banks offer a full suite of banking services including loans, deposits, and investment options."
+  },
+  {
+    "question": "What limits the customer segment for Payment Banks compared to SFBs?",
+    "options": [
+      "They only serve corporates",
+      "They do not offer loans or credit services",
+      "They cannot accept deposits",
+      "They work only in foreign countries",
+      "They only offer insurance products"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Payment Banks are not allowed to lend, limiting their services primarily to deposits and remittances."
+  },
+  {
+    "question": "Which of the following is a distinguishing feature of SFBs over Commercial Banks?",
+    "options": [
+      "Lower interest rates on savings",
+      "Higher focus on underserved and unbanked segments",
+      "International operations",
+      "Issuing forex cards",
+      "High-value corporate services"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "SFBs are specifically designed to serve low-income and underserved groups, unlike Commercial Banks that serve all segments."
+  },
+  {
+    "question": "Which bank type is required to lend at least 75% of its credit to priority sectors?",
+    "options": [
+      "Commercial Banks",
+      "Payment Banks",
+      "Foreign Banks",
+      "Small Finance Banks",
+      "Private Banks"
+    ],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "As per RBI guidelines, Small Finance Banks must direct at least 75% of their credit toward priority sector lending."
+  },
+  {
+    "question": "Which of these banks has restrictions on accepting more than ₹2 lakh per customer?",
+    "options": [
+      "SFBs",
+      "Commercial Banks",
+      "Foreign Banks",
+      "Payment Banks",
+      "Cooperative Banks"
+    ],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "Payment Banks can accept only up to ₹2 lakh per individual customer as per RBI norms."
+  },
+  {
+    "question": "Which bank type is best suited for providing microloans and supporting SHGs?",
+    "options": [
+      "Commercial Banks",
+      "Payment Banks",
+      "Small Finance Banks",
+      "Foreign Banks",
+      "Private Sector Banks"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs specialize in offering microfinance and supporting Self-Help Groups to promote financial inclusion."
+  },
+  {
+    "question": "What is a shared feature of both Payment Banks and SFBs?",
+    "options": [
+      "Providing international investment services",
+      "Operating under RBI’s license and guidelines",
+      "Offering unsecured corporate loans",
+      "Providing full-service banking",
+      "Investing in stock markets"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Both Payment Banks and SFBs operate under RBI supervision and must follow RBI licensing conditions."
+  }
+]

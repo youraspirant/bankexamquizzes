@@ -1,0 +1,132 @@
+[
+  {
+    "question": "Which of the following is a broad classification of UCBs?",
+    "options": [
+      "Tier I and Tier II",
+      "Private and Public",
+      "Scheduled and Non-Scheduled",
+      "Commercial and Industrial",
+      "Large and Small"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Urban Cooperative Banks are classified as Scheduled and Non-Scheduled based on their inclusion in the Second Schedule of the RBI Act, 1934."
+  },
+  {
+    "question": "What is the major difference between Scheduled and Non-Scheduled UCBs?",
+    "options": [
+      "Scheduled UCBs are allowed to accept foreign deposits",
+      "Scheduled UCBs are listed on the stock market",
+      "Scheduled UCBs are included in the RBI Act’s Second Schedule",
+      "Non-Scheduled UCBs can issue government bonds",
+      "Scheduled UCBs don’t follow RBI regulations"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Scheduled UCBs are included in the Second Schedule of the RBI Act, allowing them to access certain banking facilities from the RBI."
+  },
+  {
+    "question": "Which institution defines the tier-wise classification of UCBs?",
+    "options": [
+      "NABARD",
+      "IRDAI",
+      "SEBI",
+      "RBI",
+      "Ministry of Finance"
+    ],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "The Reserve Bank of India classifies UCBs into different tiers based on deposit size and area of operation."
+  },
+  {
+    "question": "How many tiers are UCBs typically classified into by RBI?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "UCBs are broadly classified into four tiers (Tier 1 to Tier 4) based on deposit size and operational scope."
+  },
+  {
+    "question": "Which tier of UCBs includes those with the smallest deposit base?",
+    "options": [
+      "Tier I",
+      "Tier II",
+      "Tier III",
+      "Tier IV",
+      "None"
+    ],
+    "answer": 0,
+    "difficulty": "Easy",
+    "explanation": "Tier I UCBs are the smallest in terms of deposit base and area of operation, usually operating within a single district."
+  },
+  {
+    "question": "What is the geographical restriction for Tier I UCBs?",
+    "options": [
+      "No restrictions",
+      "Only rural areas",
+      "Only within a single district",
+      "Pan-India operations",
+      "Only international operations"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Tier I UCBs are restricted to operations within a single district to limit risk and ensure local service."
+  },
+  {
+    "question": "Which UCBs are eligible for becoming Scheduled Banks?",
+    "options": [
+      "Tier I only",
+      "Tier II only",
+      "Only those meeting RBI’s specific criteria",
+      "All UCBs automatically",
+      "Private UCBs only"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "UCBs must meet certain financial and operational criteria set by the RBI to qualify for Scheduled status."
+  },
+  {
+    "question": "What type of banking license is required by all UCBs to operate?",
+    "options": [
+      "NBFC License",
+      "Money Lender License",
+      "Banking License under Banking Regulation Act",
+      "Foreign Exchange License",
+      "SEBI License"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "All UCBs need a banking license under the Banking Regulation Act, 1949 to perform banking activities."
+  },
+  {
+    "question": "Which factor is NOT used for classifying UCBs?",
+    "options": [
+      "Deposit size",
+      "Area of operation",
+      "Loan default ratio",
+      "Inclusion in RBI schedule",
+      "Membership base"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "While loan default ratio is monitored, it is not used as a primary factor for classifying UCBs."
+  },
+  {
+    "question": "What role does the multi-state classification play for UCBs?",
+    "options": [
+      "Allows them to open stock exchanges",
+      "Permits operation across multiple districts or states",
+      "Limits their operations to one town",
+      "Gives them Scheduled status automatically",
+      "Exempts them from RBI guidelines"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "Multi-state UCBs can operate in more than one state and are regulated by the Central Registrar of Cooperative Societies."
+  }
+]

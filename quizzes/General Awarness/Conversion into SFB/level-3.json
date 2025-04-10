@@ -1,0 +1,132 @@
+[
+  {
+    "question": "What is one of the key reasons UCBs are converting into Small Finance Banks?",
+    "options": [
+      "To become foreign banks",
+      "To avoid government audits",
+      "To improve governance and access capital",
+      "To stop lending activities",
+      "To focus only on urban customers"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "UCBs often face governance and capital constraints. Conversion to SFBs helps strengthen regulation and improve capital access."
+  },
+  {
+    "question": "Why is RBI encouraging UCBs to convert into SFBs?",
+    "options": [
+      "To reduce rural banking",
+      "To promote private sector banking",
+      "To ensure stronger regulatory oversight and professional management",
+      "To eliminate cooperative societies",
+      "To merge all banks"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "RBI aims to improve the functioning of UCBs through better governance and regulation, possible with SFB conversion."
+  },
+  {
+    "question": "Which financial limitation is often faced by UCBs?",
+    "options": [
+      "Too much international business",
+      "Excessive profitability",
+      "Inadequate capital base",
+      "Over-reliance on agriculture",
+      "High share prices"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "UCBs often lack adequate capital for expansion and compliance; conversion to SFBs allows them to raise equity."
+  },
+  {
+    "question": "How does converting to SFB benefit UCBs in terms of technology?",
+    "options": [
+      "Enables international ATMs",
+      "Allows investment in entertainment",
+      "Improves banking technology adoption",
+      "Reduces need for digital banking",
+      "Focuses on cash-only transactions"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "SFBs are expected to adopt advanced technology, helping UCBs modernize their banking services post-conversion."
+  },
+  {
+    "question": "Which customer service improvement is expected after a UCB converts to an SFB?",
+    "options": [
+      "Limited customer support",
+      "Free online gaming",
+      "Better credit services and outreach",
+      "No mobile banking",
+      "Reduction in account types"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "SFBs offer better credit facilities and services, helping reach underserved customers more effectively."
+  },
+  {
+    "question": "What structural advantage do SFBs have over UCBs?",
+    "options": [
+      "They are run by political parties",
+      "They offer fewer services",
+      "They have a for-profit corporate structure",
+      "They can't open branches",
+      "They don’t require audits"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Unlike cooperative societies, SFBs have a corporate structure that supports capital raising and profit orientation."
+  },
+  {
+    "question": "How does SFB conversion help UCBs in governance?",
+    "options": [
+      "Reduces transparency",
+      "Encourages non-compliance",
+      "Introduces professional board structures",
+      "Eliminates RBI oversight",
+      "Removes board requirements"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "SFBs are governed by professional boards, unlike many UCBs where governance is influenced by members or politics."
+  },
+  {
+    "question": "Which reform encourages UCBs to convert into SFBs?",
+    "options": [
+      "SEBI’s investment rule",
+      "RBI’s voluntary transition scheme",
+      "GST rule on finance",
+      "Income Tax Amendment",
+      "FDI rule change"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "RBI introduced a voluntary transition scheme to allow eligible UCBs to convert into SFBs for better functioning."
+  },
+  {
+    "question": "What is a challenge that conversion to SFBs can help UCBs overcome?",
+    "options": [
+      "Overregulation by international banks",
+      "Too many deposit accounts",
+      "Political interference and weak governance",
+      "No access to WhatsApp banking",
+      "Shortage of physical cash"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Political influence and poor governance structures in UCBs can be addressed through SFBs’ professional setup."
+  },
+  {
+    "question": "How does conversion into SFBs help UCBs with capital needs?",
+    "options": [
+      "By removing the need for reserves",
+      "By allowing them to issue shares and raise equity",
+      "By canceling all old debts",
+      "By enabling them to become NBFCs",
+      "By eliminating competition"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "Unlike cooperative banks, SFBs can issue equity shares and raise capital from the market or investors."
+  }
+]

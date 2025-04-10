@@ -1,0 +1,132 @@
+[
+  {
+    "question": "What is the main purpose of Small Finance Banks (SFBs)?",
+    "options": [
+      "To provide loans to large corporations",
+      "To facilitate foreign exchange trading",
+      "To offer basic banking services to underserved sections",
+      "To regulate commercial banks",
+      "To invest in the stock market"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Small Finance Banks aim to provide basic banking services to the underserved and unbanked sections of society."
+  },
+  {
+    "question": "Which institution is responsible for regulating Small Finance Banks in India?",
+    "options": [
+      "SEBI",
+      "NABARD",
+      "IRDAI",
+      "RBI",
+      "SIDBI"
+    ],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "The Reserve Bank of India (RBI) regulates and supervises Small Finance Banks."
+  },
+  {
+    "question": "When were Small Finance Banks introduced in India?",
+    "options": [
+      "1991",
+      "2001",
+      "2015",
+      "2020",
+      "1985"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "The concept of Small Finance Banks was introduced by RBI in 2015 to improve financial inclusion."
+  },
+  {
+    "question": "Which of the following is a key target group for Small Finance Banks?",
+    "options": [
+      "Urban salaried professionals",
+      "Large corporate houses",
+      "Small business units and marginal farmers",
+      "Foreign investors",
+      "Government institutions"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Small Finance Banks target small businesses, marginal farmers, micro industries, and unorganized sector entities."
+  },
+  {
+    "question": "What type of banking license is granted to Small Finance Banks?",
+    "options": [
+      "Limited banking license",
+      "Cooperative banking license",
+      "Universal banking license",
+      "Special category license",
+      "Small-scale trade license"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs operate under a universal banking license with restrictions focused on small ticket banking."
+  },
+  {
+    "question": "Which committee recommended the formation of Small Finance Banks?",
+    "options": [
+      "Malhotra Committee",
+      "Rangarajan Committee",
+      "Nachiket Mor Committee",
+      "Kelkar Committee",
+      "Tarapore Committee"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "The Nachiket Mor Committee recommended the establishment of Small Finance Banks."
+  },
+  {
+    "question": "Which one of these is an example of a Small Finance Bank?",
+    "options": [
+      "HDFC Bank",
+      "Equitas Small Finance Bank",
+      "Bank of Baroda",
+      "State Bank of India",
+      "Yes Bank"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Equitas Small Finance Bank is one of the licensed Small Finance Banks in India."
+  },
+  {
+    "question": "What is a distinguishing feature of Small Finance Banks?",
+    "options": [
+      "They cannot accept deposits",
+      "They operate only in rural areas",
+      "They are focused on financial inclusion",
+      "They do not follow RBI regulations",
+      "They issue credit cards to corporates"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs are focused on financial inclusion by providing affordable banking services to small businesses and low-income groups."
+  },
+  {
+    "question": "Are Small Finance Banks allowed to offer both deposit and credit products?",
+    "options": [
+      "No, only deposits",
+      "No, only credit",
+      "Yes, but only to large corporations",
+      "Yes, they can offer both",
+      "Only foreign banks can do this"
+    ],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "SFBs are permitted to accept deposits and provide credit services, especially to underserved sectors."
+  },
+  {
+    "question": "What is one of the major goals of Small Finance Banks?",
+    "options": [
+      "To compete with foreign banks",
+      "To provide digital wallets",
+      "To serve low-income and unbanked populations",
+      "To offer stock broking services",
+      "To invest in real estate"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs were created to serve low-income individuals and promote financial inclusion."
+  }
+]

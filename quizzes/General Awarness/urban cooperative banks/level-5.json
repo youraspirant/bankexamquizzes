@@ -1,0 +1,132 @@
+[
+  {
+    "question": "What is the primary function of Urban Cooperative Banks?",
+    "options": [
+      "Conducting foreign exchange operations",
+      "Providing long-term industrial loans",
+      "Offering banking services to urban and semi-urban areas",
+      "Supervising rural development programs",
+      "Issuing government bonds"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "UCBs mainly provide banking services to the urban and semi-urban population, especially to small borrowers and businesses."
+  },
+  {
+    "question": "Which of the following is a deposit service offered by UCBs?",
+    "options": [
+      "Mutual funds",
+      "Insurance underwriting",
+      "Fixed Deposits",
+      "Equity trading",
+      "Derivatives"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "UCBs offer deposit services like savings accounts, current accounts, and fixed deposits."
+  },
+  {
+    "question": "UCBs primarily provide loans to which category of people?",
+    "options": [
+      "Large multinational corporations",
+      "High Net-Worth Individuals",
+      "Self-employed individuals and small businesses",
+      "Foreign investors",
+      "Government officials"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "UCBs cater mostly to self-employed individuals, small traders, and businesses who may not have easy access to commercial banks."
+  },
+  {
+    "question": "Which of the following services is typically NOT offered by UCBs?",
+    "options": [
+      "Savings account",
+      "Home loans",
+      "Corporate investment banking",
+      "Personal loans",
+      "Fixed deposits"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "UCBs do not typically engage in large-scale corporate investment banking, which is the domain of commercial banks."
+  },
+  {
+    "question": "Do UCBs offer ATM and mobile banking facilities?",
+    "options": [
+      "Yes, in most cases",
+      "No, they are not allowed",
+      "Only in rural areas",
+      "Only to senior citizens",
+      "Only for international customers"
+    ],
+    "answer": 0,
+    "difficulty": "Easy",
+    "explanation": "Many UCBs now offer modern services like ATMs, mobile banking, and internet banking to stay competitive."
+  },
+  {
+    "question": "Which of the following best describes the lending activity of UCBs?",
+    "options": [
+      "Lending to large industries",
+      "Lending to agriculture only",
+      "Priority sector lending",
+      "Foreign currency loans",
+      "Stock market margin loans"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "UCBs focus on priority sector lending like housing, education, small business loans, etc."
+  },
+  {
+    "question": "Can Urban Cooperative Banks issue debit cards to their customers?",
+    "options": [
+      "No, they are not permitted",
+      "Only with RBI approval",
+      "Yes, if they have core banking facilities",
+      "Only for senior citizens",
+      "Only for loan customers"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "UCBs with necessary infrastructure and RBI approval can issue debit cards."
+  },
+  {
+    "question": "Do UCBs offer locker facilities to their customers?",
+    "options": [
+      "No",
+      "Yes, if they have space",
+      "Only for VIP customers",
+      "Only in metro cities",
+      "Only for cooperative society members"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "UCBs often provide locker facilities as a customer service, subject to space and infrastructure."
+  },
+  {
+    "question": "Which type of account is commonly provided by UCBs to salaried individuals?",
+    "options": [
+      "Recurring Deposit Account",
+      "Fixed Deposit Account",
+      "Current Account",
+      "Savings Bank Account",
+      "Overdraft Account"
+    ],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "Savings bank accounts are commonly used by salaried individuals and are widely offered by UCBs."
+  },
+  {
+    "question": "Which of these services has become increasingly important for UCBs to retain customers?",
+    "options": [
+      "Manual ledger management",
+      "Microfilm records",
+      "Digital banking services",
+      "Cheque writing only",
+      "Offline branch visits"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Digital banking services such as mobile apps, internet banking, and UPI are crucial for UCBs to stay competitive."
+  }
+]

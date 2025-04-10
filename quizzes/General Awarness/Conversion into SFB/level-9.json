@@ -1,0 +1,132 @@
+[
+  {
+    "question": "What is a major regulatory challenge faced during the conversion of a UCB into a Small Finance Bank?",
+    "options": [
+      "Lack of customer base",
+      "Difficulty in obtaining SEBI approval",
+      "Complying with RBI's net worth and CRAR norms",
+      "Low ATM penetration",
+      "Issues with agricultural loan waivers"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Urban Cooperative Banks must comply with stringent RBI guidelines on minimum net worth and capital adequacy to convert into SFBs."
+  },
+  {
+    "question": "Why is IT infrastructure a challenge during the conversion to a Small Finance Bank?",
+    "options": [
+      "Outdated legal documentation",
+      "Lack of RBI cooperation",
+      "Requirement of advanced digital banking systems",
+      "No need for ATM networks",
+      "Focus on cryptocurrency support"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Converting banks must upgrade their IT infrastructure to meet the operational and compliance needs of a full-fledged bank."
+  },
+  {
+    "question": "What challenge do converted banks face in terms of human resources?",
+    "options": [
+      "Staff going on strike",
+      "Need to recruit staff with commercial banking expertise",
+      "Compulsory retirement of existing staff",
+      "Mandatory relocation of staff",
+      "Government employee reservation rules"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "Newly converted SFBs often need to upskill or recruit new staff experienced in commercial banking operations."
+  },
+  {
+    "question": "Which of the following is a financial challenge in the conversion process?",
+    "options": [
+      "High taxation rates",
+      "Increased operational costs and funding requirements",
+      "Limited banking hours",
+      "Declining deposit rates",
+      "Removal from NEFT system"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "Conversion involves cost-intensive activities like IT upgrades, regulatory compliance, and operational expansion."
+  },
+  {
+    "question": "What makes customer transition a challenge during bank conversion?",
+    "options": [
+      "Customers require new Aadhaar cards",
+      "Migration of customer accounts and services",
+      "Customers refuse to upgrade passbooks",
+      "Legal constraints on PAN usage",
+      "Limited mobile coverage"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "Migrating accounts, reissuing debit cards, and onboarding existing cooperative customers into a new banking model are challenging."
+  },
+  {
+    "question": "Which challenge is related to the change in institutional identity?",
+    "options": [
+      "Trademark infringement issues",
+      "Loss of cooperative status and trust",
+      "Rebranding to a foreign name",
+      "Shift to crypto-backed models",
+      "Demonetization effects"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "Customers and stakeholders may resist the loss of 'cooperative' identity, affecting trust and customer retention."
+  },
+  {
+    "question": "What legal process is essential for conversion but poses a challenge?",
+    "options": [
+      "Supreme Court verification",
+      "Central government licensing",
+      "Approval under the Banking Regulation Act, 1949",
+      "New insurance clearance",
+      "GST transition"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "The converted entity must obtain RBI approval under the Banking Regulation Act, which involves a detailed scrutiny process."
+  },
+  {
+    "question": "Which external stakeholder's support is often critical and sometimes lacking during conversion?",
+    "options": [
+      "International Monetary Fund",
+      "Local municipal authorities",
+      "Cooperative department of state governments",
+      "Income Tax Department",
+      "National Housing Bank"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "UCBs are also regulated by state cooperative departments whose cooperation is vital but not always assured during conversion."
+  },
+  {
+    "question": "How does asset quality become a challenge during conversion?",
+    "options": [
+      "Lack of fixed deposits",
+      "Difficulty in disposing of cash reserves",
+      "High level of NPAs in cooperative portfolios",
+      "Insufficient gold reserves",
+      "No insurance on assets"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "High non-performing assets (NPAs) in the cooperative banking structure can impact the eligibility for conversion."
+  },
+  {
+    "question": "What is one reputational challenge during the conversion process?",
+    "options": [
+      "Public protests",
+      "Brand confusion during rebranding",
+      "Celebrity endorsements",
+      "Massive layoffs",
+      "Negative SEBI reports"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "Renaming or rebranding the institution may cause confusion and reduce customer confidence during the transition."
+  }
+]

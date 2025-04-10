@@ -1,0 +1,133 @@
+[
+    {
+      "question": "Which of the following services is commonly offered by Payment Banks?",
+      "options": [
+        "Loan disbursement",
+        "Acceptance of demand deposits",
+        "Credit card issuance",
+        "Fixed deposit investment",
+        "Stock trading"
+      ],
+      "answer": 1,
+      "difficulty": "Medium",
+      "explanation": "Payment Banks can accept demand deposits (savings and current accounts) but are not allowed to lend."
+    },
+    {
+      "question": "Payment Banks are allowed to issue which of the following?",
+      "options": [
+        "Debit Cards",
+        "Credit Cards",
+        "Mutual Funds",
+        "Loans",
+        "Overdraft facilities"
+      ],
+      "answer": 0,
+      "difficulty": "Medium",
+      "explanation": "Payment Banks can provide debit cards but not credit cards or lending services."
+    },
+    {
+      "question": "Which utility is most commonly facilitated by Payment Banks?",
+      "options": [
+        "Electric vehicle loans",
+        "International trade financing",
+        "Bill payments and recharges",
+        "Insurance claim processing",
+        "IPO applications"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Most Payment Banks enable mobile recharges, utility bill payments, and DTH recharges."
+    },
+    {
+      "question": "What type of accounts can Payment Banks open?",
+      "options": [
+        "Savings and Current accounts",
+        "Recurring deposit accounts",
+        "Fixed deposit accounts",
+        "Loan accounts",
+        "Demat accounts"
+      ],
+      "answer": 0,
+      "difficulty": "Medium",
+      "explanation": "Payment Banks are permitted to open both savings and current accounts."
+    },
+    {
+      "question": "Are Payment Banks allowed to provide remittance services?",
+      "options": [
+        "No, only commercial banks can",
+        "Yes, domestic remittances only",
+        "Only for government beneficiaries",
+        "Yes, including international transfers",
+        "Only via UPI"
+      ],
+      "answer": 1,
+      "difficulty": "Medium",
+      "explanation": "Payment Banks are allowed to provide domestic remittance services but not cross-border transfers."
+    },
+    {
+      "question": "Which of the following is not a service typically offered by Payment Banks?",
+      "options": [
+        "Mobile banking",
+        "Insurance distribution",
+        "Foreign currency exchange",
+        "Debit card issuance",
+        "UPI transactions"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Payment Banks are not authorized to deal in foreign exchange services."
+    },
+    {
+      "question": "Through which platforms do Payment Banks usually offer their services?",
+      "options": [
+        "Brick-and-mortar branches only",
+        "Online portals and mobile apps",
+        "Only via telephonic banking",
+        "Physical kiosks only",
+        "Government-run centers"
+      ],
+      "answer": 1,
+      "difficulty": "Medium",
+      "explanation": "Payment Banks typically operate through digital platforms like mobile apps and websites."
+    },
+    {
+      "question": "What is the maximum deposit limit for customers in a Payment Bank as per RBI's latest guidelines (2024)?",
+      "options": [
+        "₹1 lakh",
+        "₹2 lakh",
+        "₹5 lakh",
+        "₹10 lakh",
+        "No limit"
+      ],
+      "answer": 1,
+      "difficulty": "Medium",
+      "explanation": "As of 2024, RBI has allowed Payment Banks to accept up to ₹2 lakh per customer."
+    },
+    {
+      "question": "Which service offered by Payment Banks helps the government deliver subsidies directly to citizens?",
+      "options": [
+        "Loan processing",
+        "Credit cards",
+        "Direct Benefit Transfer (DBT)",
+        "Currency exchange",
+        "Cheque clearing"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Payment Banks support DBT schemes by enabling digital transfer of subsidies and benefits."
+    },
+    {
+      "question": "Can Payment Banks distribute third-party financial products?",
+      "options": [
+        "No, only full-service banks can",
+        "Yes, including insurance and mutual funds",
+        "Only through government channels",
+        "Yes, but only insurance products",
+        "Only on RBI approval"
+      ],
+      "answer": 1,
+      "difficulty": "Medium",
+      "explanation": "Payment Banks are allowed to distribute third-party financial products like insurance and mutual funds."
+    }
+  ]
+  

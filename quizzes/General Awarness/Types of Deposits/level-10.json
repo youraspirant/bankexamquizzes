@@ -1,0 +1,132 @@
+[
+  {
+    "question": "Why are deposits important to the banking system?",
+    "options": [
+      "They help banks earn foreign exchange",
+      "They are used for paying salaries",
+      "They provide banks with funds to lend and invest",
+      "They reduce the bank's operating expenses",
+      "They increase the cost of banking operations"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Deposits are a key source of funds for banks, which they use to provide loans and make investments."
+  },
+  {
+    "question": "How do banks use public deposits?",
+    "options": [
+      "Only to pay interest to depositors",
+      "To finance advertisements",
+      "To grant loans and earn interest",
+      "To pay taxes",
+      "To manage social security schemes"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Banks primarily use public deposits to provide loans to individuals and businesses, earning interest in return."
+  },
+  {
+    "question": "What percentage of a bank’s funding typically comes from customer deposits?",
+    "options": [
+      "Less than 10%",
+      "Around 25%",
+      "About 50%",
+      "Over 70%",
+      "100%"
+    ],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "In most commercial banks, over 70% of the funds come from customer deposits."
+  },
+  {
+    "question": "What is the impact of high deposit inflow on a bank’s lending capacity?",
+    "options": [
+      "It decreases the lending capacity",
+      "It increases the lending capacity",
+      "It has no effect",
+      "It causes inflation",
+      "It leads to currency depreciation"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "High deposit inflow increases a bank’s capacity to lend, supporting credit growth in the economy."
+  },
+  {
+    "question": "Which of the following ensures the safety of deposits in Indian banks?",
+    "options": [
+      "IRDAI",
+      "NABARD",
+      "SEBI",
+      "DICGC",
+      "UIDAI"
+    ],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "The Deposit Insurance and Credit Guarantee Corporation (DICGC) insures deposits up to ₹5 lakh in Indian banks."
+  },
+  {
+    "question": "What role do deposits play in interest rate determination?",
+    "options": [
+      "They increase inflation rates",
+      "They decide the repo rate",
+      "They influence the interest banks can offer and charge",
+      "They determine GDP",
+      "They control tax slabs"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Deposits impact the cost of funds for banks, affecting the interest rates banks offer to depositors and borrowers."
+  },
+  {
+    "question": "What happens when depositors lose confidence in a bank?",
+    "options": [
+      "The bank's deposits increase",
+      "The RBI increases deposit rates",
+      "A bank run may occur",
+      "The bank automatically closes",
+      "The bank earns more profits"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Loss of depositor confidence can lead to a bank run, where many customers withdraw funds simultaneously."
+  },
+  {
+    "question": "How do fixed deposits help in banking stability?",
+    "options": [
+      "They are always tax-free",
+      "They reduce bank profits",
+      "They provide predictable and stable funding",
+      "They are insured more than savings accounts",
+      "They allow unlimited withdrawals"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Fixed deposits are long-term, helping banks maintain a stable funding base for lending."
+  },
+  {
+    "question": "Which economic activity is most directly supported by bank deposits?",
+    "options": [
+      "Foreign trade",
+      "Credit creation",
+      "Government borrowing",
+      "Tax collection",
+      "Import control"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Deposits allow banks to create credit by issuing loans, a key function of the banking system."
+  },
+  {
+    "question": "Which of the following deposit types best supports long-term investment planning by banks?",
+    "options": [
+      "Savings Deposits",
+      "Recurring Deposits",
+      "Current Accounts",
+      "Fixed Deposits",
+      "Call Money Deposits"
+    ],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "Fixed Deposits, with their longer tenure and stability, help banks plan long-term investments and loans."
+  }
+]

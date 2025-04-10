@@ -1,0 +1,133 @@
+[
+    {
+      "question": "What is one major challenge faced by payment banks in India?",
+      "options": [
+        "High profitability from loans",
+        "Full-service banking capabilities",
+        "Inability to offer credit products",
+        "International banking rights",
+        "No requirement for compliance"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Payment banks cannot offer credit, which limits their revenue-generating potential and competitiveness."
+    },
+    {
+      "question": "Which of the following restricts the profitability of payment banks?",
+      "options": [
+        "Charging ATM fees",
+        "Access to foreign markets",
+        "Limited income sources due to deposit and lending restrictions",
+        "Selling insurance products",
+        "Operating in rural areas"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Their inability to lend and limits on deposit amounts restrict their income-generating capacity."
+    },
+    {
+      "question": "What is a regulatory cap on deposits for payment banks?",
+      "options": [
+        "Rs. 5,000 per customer",
+        "Rs. 10,000 per customer",
+        "Rs. 2 lakh per customer",
+        "Unlimited deposits",
+        "No minimum limit"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "The RBI limits deposits in payment banks to Rs. 2 lakh per customer, which caps their growth."
+    },
+    {
+      "question": "Which challenge often leads to the shutdown or conversion of payment banks?",
+      "options": [
+        "Excess demand for loans",
+        "Too many branches",
+        "Sustainability due to low margins and high compliance costs",
+        "RBI support",
+        "Global expansion"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Low margins and high compliance burdens often make it hard for payment banks to survive."
+    },
+    {
+      "question": "Which factor can help improve the future of payment banks?",
+      "options": [
+        "Increasing credit limits",
+        "Reducing technology use",
+        "Relaxing regulations on lending and deposits",
+        "Avoiding digital platforms",
+        "Focusing only on cities"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Allowing limited credit or raising deposit caps could enhance the financial viability of payment banks."
+    },
+    {
+      "question": "How can partnerships with fintech companies shape the future of payment banks?",
+      "options": [
+        "By avoiding digital services",
+        "By reducing innovation",
+        "By enhancing service offerings and customer reach",
+        "By increasing physical paperwork",
+        "By limiting customer access"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Collaboration with fintech firms can bring in innovation, technology, and wider reach for payment banks."
+    },
+    {
+      "question": "Which technological advancement can improve the customer experience in payment banks?",
+      "options": [
+        "Manual ledger entries",
+        "In-person only transactions",
+        "Artificial Intelligence and automation",
+        "Lack of mobile apps",
+        "Offline-only services"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "AI and automation can enhance user experience and streamline banking services digitally."
+    },
+    {
+      "question": "What government initiative can support the growth of payment banks?",
+      "options": [
+        "Start-up funding for corporates",
+        "Foreign Direct Investment control",
+        "Digital financial inclusion programs",
+        "Tourism schemes",
+        "Import-export duty reduction"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Digital financial inclusion programs help increase the reach and adoption of payment banks."
+    },
+    {
+      "question": "Why is customer trust a challenge for payment banks?",
+      "options": [
+        "Because they operate offline",
+        "Due to limited physical branches and lack of credit services",
+        "They offer too many loans",
+        "They compete with insurance providers",
+        "They have monopoly status"
+      ],
+      "answer": 1,
+      "difficulty": "Medium",
+      "explanation": "Limited services and physical presence often lead customers to prefer traditional banks."
+    },
+    {
+      "question": "What future trend may influence the survival of payment banks?",
+      "options": [
+        "Increased manual processes",
+        "Less mobile phone penetration",
+        "Greater demand for cash-based banking",
+        "Rise in digital payments and inclusive banking policies",
+        "Shutdown of mobile apps"
+      ],
+      "answer": 3,
+      "difficulty": "Medium",
+      "explanation": "The shift toward digital banking and financial inclusion aligns well with the model of payment banks."
+    }
+  ]
+  

@@ -1,0 +1,132 @@
+[
+  {
+    "question": "Which authority is responsible for granting licenses for conversion into Small Finance Banks in India?",
+    "options": [
+      "SEBI",
+      "IRDAI",
+      "RBI",
+      "NABARD",
+      "Finance Ministry"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "The Reserve Bank of India (RBI) is the sole authority for granting licenses for conversion into Small Finance Banks."
+  },
+  {
+    "question": "Under which section of the Banking Regulation Act is a Small Finance Bank licensed?",
+    "options": [
+      "Section 22",
+      "Section 35",
+      "Section 12",
+      "Section 17",
+      "Section 27"
+    ],
+    "answer": 0,
+    "difficulty": "Medium",
+    "explanation": "Small Finance Banks are licensed under Section 22 of the Banking Regulation Act, 1949."
+  },
+  {
+    "question": "What is the minimum capital requirement set by RBI for Small Finance Banks?",
+    "options": [
+      "₹50 crore",
+      "₹100 crore",
+      "₹200 crore",
+      "₹300 crore",
+      "₹500 crore"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "RBI mandates a minimum paid-up capital of ₹200 crore for setting up a Small Finance Bank."
+  },
+  {
+    "question": "Which RBI committee laid down the guidelines for licensing of Small Finance Banks?",
+    "options": [
+      "Raghuram Rajan Committee",
+      "Nachiket Mor Committee",
+      "Usha Thorat Committee",
+      "Bimal Jalan Committee",
+      "Tarapore Committee"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "The Nachiket Mor Committee recommended the creation of Small Finance Banks to promote financial inclusion."
+  },
+  {
+    "question": "Which of the following is a key regulatory requirement for SFBs regarding priority sector lending?",
+    "options": [
+      "25% of total loans",
+      "40% of total loans",
+      "50% of total loans",
+      "60% of total loans",
+      "75% of total loans"
+    ],
+    "answer": 4,
+    "difficulty": "Medium",
+    "explanation": "Small Finance Banks are required to allocate at least 75% of their total adjusted net bank credit to priority sector lending."
+  },
+  {
+    "question": "How long is the initial promoter lock-in period for holding equity in an SFB?",
+    "options": [
+      "3 years",
+      "5 years",
+      "7 years",
+      "10 years",
+      "15 years"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Promoters must maintain a minimum 40% stake with a lock-in period of 5 years from the date of commencement of business."
+  },
+  {
+    "question": "What is the maximum foreign shareholding allowed in Small Finance Banks under the automatic route?",
+    "options": [
+      "49%",
+      "51%",
+      "74%",
+      "100%",
+      "25%"
+    ],
+    "answer": 3,
+    "difficulty": "Medium",
+    "explanation": "Up to 74% FDI is allowed under the automatic route for SFBs; beyond this requires government approval."
+  },
+  {
+    "question": "Which type of promoter is not allowed to hold more than 10% stake in an SFB post-conversion?",
+    "options": [
+      "Individual Promoter",
+      "Financial Institution",
+      "Private Equity Fund",
+      "Non-Banking Financial Company",
+      "Small Retail Investor"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Private equity funds and large corporate/industrial houses are generally not permitted to hold more than 10% stake in SFBs."
+  },
+  {
+    "question": "Which regulatory document outlines the operational and prudential norms for Small Finance Banks?",
+    "options": [
+      "Master Circular on Commercial Banks",
+      "Master Direction on SFBs",
+      "Banking Regulation Act Schedule 3",
+      "Companies Act Section 135",
+      "Income Tax Circular"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "The RBI's Master Direction on Small Finance Banks specifies the detailed norms and operational guidelines for SFBs."
+  },
+  {
+    "question": "Are Small Finance Banks allowed to be listed on stock exchanges?",
+    "options": [
+      "Yes, after 1 year of operation",
+      "Yes, after reaching ₹500 crore net worth",
+      "No, listing is not allowed",
+      "Only after RBI permits specifically",
+      "Yes, after 3 years or reaching ₹500 crore net worth, whichever is earlier"
+    ],
+    "answer": 4,
+    "difficulty": "Medium",
+    "explanation": "SFBs are required to be listed within 3 years of reaching a net worth of ₹500 crore, as per RBI guidelines."
+  }
+]

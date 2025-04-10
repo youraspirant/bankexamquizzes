@@ -1,0 +1,132 @@
+[
+  {
+    "question": "What is the primary reason for Payment Banks converting to Small Finance Banks?",
+    "options": [
+      "To expand globally",
+      "To get tax exemptions",
+      "To enable credit and lending services",
+      "To avoid RBI regulation",
+      "To reduce employee count"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Payment Banks cannot lend; converting to Small Finance Banks allows them to offer credit and lending facilities."
+  },
+  {
+    "question": "Why do Payment Banks face limitations in revenue generation?",
+    "options": [
+      "They are not allowed to open bank branches",
+      "They don't have access to internet banking",
+      "They cannot provide credit services",
+      "They can't operate in rural areas",
+      "They don’t accept deposits"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Without the ability to lend, Payment Banks rely mainly on transaction fees, limiting their revenue potential."
+  },
+  {
+    "question": "Which financial service is not permitted for Payment Banks under current RBI regulations?",
+    "options": [
+      "Savings account opening",
+      "Bill payments",
+      "Money transfers",
+      "Issuing loans",
+      "Mobile banking"
+    ],
+    "answer": 3,
+    "difficulty": "Medium",
+    "explanation": "Payment Banks are prohibited from issuing loans or credit cards under their current operating license."
+  },
+  {
+    "question": "How can becoming an SFB help Payment Banks in enhancing financial inclusion?",
+    "options": [
+      "By offering entertainment services",
+      "By enabling access to credit in underserved areas",
+      "By increasing advertisement campaigns",
+      "By reducing transaction limits",
+      "By limiting operations to urban areas only"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "Converting to an SFB allows Payment Banks to offer credit, which helps in expanding financial services in rural and semi-urban regions."
+  },
+  {
+    "question": "Which Payment Bank has expressed interest in becoming a Small Finance Bank?",
+    "options": [
+      "Paytm Payments Bank",
+      "NSDL Payments Bank",
+      "Airtel Payments Bank",
+      "India Post Payments Bank",
+      "Jio Payments Bank"
+    ],
+    "answer": 0,
+    "difficulty": "Medium",
+    "explanation": "Paytm Payments Bank has shown interest in becoming an SFB to expand its service offerings including credit."
+  },
+  {
+    "question": "What is a major strategic advantage of converting into a Small Finance Bank?",
+    "options": [
+      "Reduced compliance",
+      "Freedom from CRR requirements",
+      "Access to multiple income streams including lending",
+      "Exemption from KYC rules",
+      "Government subsidy"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Small Finance Banks can lend, allowing them to diversify their income sources and improve profitability."
+  },
+  {
+    "question": "Which service becomes accessible to Payment Banks only after conversion to SFBs?",
+    "options": [
+      "Insurance selling",
+      "Account opening",
+      "ATM deployment",
+      "Issuing credit cards and loans",
+      "Bill payments"
+    ],
+    "answer": 3,
+    "difficulty": "Medium",
+    "explanation": "Payment Banks are not allowed to issue credit cards or loans unless they convert into a Small Finance Bank."
+  },
+  {
+    "question": "How can conversion improve the long-term sustainability of Payment Banks?",
+    "options": [
+      "By closing rural branches",
+      "By increasing digital ads",
+      "By expanding lending capabilities and customer base",
+      "By offering free services",
+      "By removing service charges"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Lending is a key source of revenue for banks; conversion allows Payment Banks to sustain their operations better."
+  },
+  {
+    "question": "Which regulatory restriction is lifted after conversion to SFB?",
+    "options": [
+      "Deposit limits",
+      "Branch limits",
+      "Lending prohibition",
+      "Mobile app restriction",
+      "Use of biometric data"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "The prohibition on lending is lifted when a Payment Bank becomes a Small Finance Bank."
+  },
+  {
+    "question": "What impact does conversion have on customer offerings by Payment Banks?",
+    "options": [
+      "Reduces available services",
+      "Enables full-service banking including loans and deposits",
+      "Restricts account openings",
+      "Removes UPI facility",
+      "Limits usage of ATMs"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "Conversion expands service offerings from basic payments to full banking services including loans, deposits, and savings products."
+  }
+]

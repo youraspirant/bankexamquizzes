@@ -1,0 +1,132 @@
+[
+  {
+    "question": "What is the main goal of Small Finance Banks in the context of financial inclusion?",
+    "options": [
+      "Providing investment banking services",
+      "Serving urban high-net-worth individuals",
+      "Bringing banking services to the underserved population",
+      "Increasing foreign investment",
+      "Creating luxury banking experiences"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Small Finance Banks aim to provide banking facilities to unbanked and underbanked segments to promote financial inclusion."
+  },
+  {
+    "question": "Which segment is a primary focus of Small Finance Banks for lending and deposit services?",
+    "options": [
+      "Large corporate clients",
+      "Urban salaried class",
+      "Low-income households and small businesses",
+      "Foreign multinational companies",
+      "Government departments"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs target low-income households, small businesses, and priority sectors to improve financial access."
+  },
+  {
+    "question": "How do Small Finance Banks support women entrepreneurs?",
+    "options": [
+      "By offering high-interest corporate loans",
+      "By avoiding rural areas",
+      "By providing microloans and small credit facilities",
+      "By providing export loans",
+      "By offering free financial advisory services"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs offer small loans and microfinance to women entrepreneurs, enhancing their access to credit and promoting self-reliance."
+  },
+  {
+    "question": "Which of the following services provided by SFBs help achieve financial inclusion?",
+    "options": [
+      "Luxury credit cards",
+      "Mobile banking in rural areas",
+      "Offshore banking",
+      "Corporate mergers",
+      "Foreign exchange derivatives"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Mobile and digital banking services in remote and rural areas help connect people to formal banking systems."
+  },
+  {
+    "question": "Why are Small Finance Banks important in rural India?",
+    "options": [
+      "They offer tax-saving mutual funds",
+      "They invest in foreign markets",
+      "They bring formal banking services closer to rural areas",
+      "They offer digital stock trading",
+      "They manage large investment portfolios"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs play a critical role in making banking accessible to people in remote and rural regions."
+  },
+  {
+    "question": "What is the minimum percentage of loans that SFBs must provide to priority sectors?",
+    "options": [
+      "20%",
+      "30%",
+      "50%",
+      "75%",
+      "90%"
+    ],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "SFBs are required by RBI to lend at least 75% of their Adjusted Net Bank Credit (ANBC) to priority sectors."
+  },
+  {
+    "question": "How do SFBs promote savings habits among the financially excluded?",
+    "options": [
+      "By offering credit cards only",
+      "By charging high account maintenance fees",
+      "By providing no-frills savings accounts",
+      "By selling insurance products only",
+      "By investing in stock markets"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "No-frills savings accounts encourage low-income individuals to start saving money in a formal system."
+  },
+  {
+    "question": "What digital feature of SFBs aids financial inclusion?",
+    "options": [
+      "AI-based trading bots",
+      "Mobile wallet and UPI integration",
+      "International forex accounts",
+      "Cryptocurrency trading",
+      "Wealth management services"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Mobile wallets and UPI-based transactions offered by SFBs help bridge the digital divide in banking access."
+  },
+  {
+    "question": "Which of these is an example of SFBs' impact on financial inclusion?",
+    "options": [
+      "Providing hedge fund services",
+      "Increasing ATM access in remote areas",
+      "Opening overseas branches",
+      "Merging with large private banks",
+      "Funding corporate takeovers"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "SFBs expand ATM and branch networks in remote areas to ensure better access to banking services."
+  },
+  {
+    "question": "How do SFBs support small farmers and artisans?",
+    "options": [
+      "By offering international equity investments",
+      "By providing tailored micro-credit and savings plans",
+      "By opening branches only in urban areas",
+      "By providing IPO investment advice",
+      "By promoting mutual funds"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "SFBs provide micro-loans and savings products that cater specifically to the needs of farmers and artisans."
+  }
+]

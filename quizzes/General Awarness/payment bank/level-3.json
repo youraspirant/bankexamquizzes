@@ -1,0 +1,103 @@
+[
+    {
+      "question": "Which authority is responsible for issuing licenses to Payment Banks in India?",
+      "options": [
+        "Securities and Exchange Board of India (SEBI)",
+        "Ministry of Finance",
+        "Reserve Bank of India (RBI)",
+        "National Payments Corporation of India (NPCI)",
+        "NITI Aayog"
+      ],
+      "answer": 2,
+      "difficulty": "Easy",
+      "explanation": "The Reserve Bank of India (RBI) is the sole authority responsible for licensing Payment Banks in India."
+    },
+    {
+      "question": "In which year did RBI grant in-principle approval to 11 entities to launch Payment Banks?",
+      "options": ["2013", "2014", "2015", "2016", "2018"],
+      "answer": 2,
+      "difficulty": "Easy",
+      "explanation": "RBI gave in-principle approval to 11 entities in 2015 to set up Payment Banks under the guidelines issued."
+    },
+    {
+      "question": "Which document provides the legal foundation for RBI to regulate Payment Banks?",
+      "options": [
+        "Banking Regulation Act, 1949",
+        "Companies Act, 2013",
+        "Negotiable Instruments Act, 1881",
+        "SEBI Act, 1992",
+        "Payment and Settlement Systems Act, 2007"
+      ],
+      "answer": 0,
+      "difficulty": "Medium",
+      "explanation": "The Banking Regulation Act, 1949 empowers the RBI to issue guidelines and regulate Payment Banks."
+    },
+    {
+      "question": "How long is the validity of the in-principle approval given by RBI for Payment Banks to start operations?",
+      "options": ["6 months", "1 year", "18 months", "2 years", "Indefinite"],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "RBI grants in-principle approval valid for 18 months during which the entity must fulfill requirements to begin operations."
+    },
+    {
+      "question": "What is the minimum paid-up capital required to set up a Payment Bank in India?",
+      "options": ["₹50 crore", "₹75 crore", "₹100 crore", "₹150 crore", "₹200 crore"],
+      "answer": 2,
+      "difficulty": "Easy",
+      "explanation": "As per RBI guidelines, a minimum paid-up capital of ₹100 crore is required to start a Payment Bank."
+    },
+    {
+      "question": "What percentage of the Payment Bank’s demand deposit balance must be invested in government securities?",
+      "options": ["15%", "25%", "40%", "50%", "75%"],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Payment Banks must invest at least 40% of their demand deposit balances in government-approved SLR securities."
+    },
+    {
+      "question": "Which of the following is a promoter eligibility criterion set by RBI for establishing a Payment Bank?",
+      "options": [
+        "Only government bodies can apply",
+        "Only foreign companies can apply",
+        "Individuals/entities with experience in telecom, retail, and financial services",
+        "Only scheduled commercial banks",
+        "Only cooperative societies"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "RBI allows individuals or entities with experience in areas like telecom, retail, or financial services to promote Payment Banks."
+    },
+    {
+      "question": "What is the foreign shareholding limit in a Payment Bank as per RBI guidelines?",
+      "options": ["26%", "49%", "74%", "100%", "No foreign investment allowed"],
+      "answer": 3,
+      "difficulty": "Medium",
+      "explanation": "RBI allows up to 100% foreign direct investment (FDI) in Payment Banks, subject to the approval process."
+    },
+    {
+      "question": "Which of the following must Payment Banks comply with under RBI’s operating guidelines?",
+      "options": [
+        "Basel III norms",
+        "Only SEBI regulations",
+        "Only state government rules",
+        "CRR and SLR requirements as applicable",
+        "Customs Act provisions"
+      ],
+      "answer": 3,
+      "difficulty": "Medium",
+      "explanation": "Payment Banks must adhere to CRR (Cash Reserve Ratio) and SLR (Statutory Liquidity Ratio) rules as prescribed by RBI."
+    },
+    {
+      "question": "How often must Payment Banks submit compliance reports to the RBI?",
+      "options": [
+        "Monthly",
+        "Quarterly",
+        "Bi-annually",
+        "Annually",
+        "Only on request"
+      ],
+      "answer": 1,
+      "difficulty": "Medium",
+      "explanation": "Payment Banks are required to submit compliance reports quarterly to the RBI to ensure they meet all regulatory requirements."
+    }
+  ]
+  

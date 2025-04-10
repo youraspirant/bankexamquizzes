@@ -1,0 +1,121 @@
+[
+    {
+      "question": "What is a Payment Bank?",
+      "options": [
+        "A bank that offers loans and credit cards",
+        "A bank that only handles international transactions",
+        "A bank that provides basic banking services like deposits and payments without lending",
+        "A cooperative society offering financial services",
+        "A private investment fund"
+      ],
+      "answer": 2,
+      "difficulty": "Easy",
+      "explanation": "Payment Banks are specialized banks that provide basic banking services like deposits, remittances, and payments but cannot lend money."
+    },
+    {
+      "question": "In which year did the Reserve Bank of India introduce the concept of Payment Banks?",
+      "options": ["2008", "2010", "2014", "2015", "2017"],
+      "answer": 3,
+      "difficulty": "Easy",
+      "explanation": "RBI introduced the concept of Payment Banks in 2015 to enhance financial inclusion."
+    },
+    {
+      "question": "What is the maximum deposit limit for Payment Banks as of 2023?",
+      "options": ["₹1 lakh", "₹2 lakh", "₹5 lakh", "₹10 lakh", "No limit"],
+      "answer": 1,
+      "difficulty": "Easy",
+      "explanation": "The RBI increased the maximum deposit limit for Payment Banks to ₹2 lakh per individual customer."
+    },
+    {
+      "question": "Which committee recommended the establishment of Payment Banks in India?",
+      "options": [
+        "Rangarajan Committee",
+        "Nachiket Mor Committee",
+        "Narasimham Committee",
+        "Kelkar Committee",
+        "Deepak Mohanty Committee"
+      ],
+      "answer": 1,
+      "difficulty": "Medium",
+      "explanation": "The Nachiket Mor Committee, formed by RBI, recommended setting up Payment Banks for financial inclusion."
+    },
+    {
+      "question": "Payment Banks in India are allowed to accept which of the following?",
+      "options": [
+        "Fixed deposits",
+        "Recurring deposits",
+        "Demand deposits",
+        "Corporate bonds",
+        "Equity investments"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Payment Banks can accept demand deposits (savings and current accounts) but not fixed or recurring deposits."
+    },
+    {
+      "question": "Which of the following is NOT a permitted activity for Payment Banks?",
+      "options": [
+        "Issuing debit cards",
+        "Accepting deposits",
+        "Offering internet banking",
+        "Issuing credit cards",
+        "Mobile banking services"
+      ],
+      "answer": 3,
+      "difficulty": "Easy",
+      "explanation": "Payment Banks are not permitted to issue credit cards or lend money."
+    },
+    {
+      "question": "What is the main goal behind launching Payment Banks?",
+      "options": [
+        "To replace traditional banks",
+        "To manage foreign exchange reserves",
+        "To provide digital payments and promote financial inclusion",
+        "To regulate capital markets",
+        "To issue insurance policies"
+      ],
+      "answer": 2,
+      "difficulty": "Easy",
+      "explanation": "The main objective of Payment Banks is to offer digital financial services and increase financial inclusion."
+    },
+    {
+      "question": "Which of the following sectors were primarily targeted by Payment Banks?",
+      "options": [
+        "Large-scale industries",
+        "Foreign investors",
+        "Unbanked and underbanked population",
+        "Stock market traders",
+        "Urban elite"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Payment Banks focus on providing services to those who lack access to traditional banking, especially in rural areas."
+    },
+    {
+      "question": "Which of these services are NOT offered by Payment Banks?",
+      "options": [
+        "ATM services",
+        "Mobile wallet services",
+        "Loan disbursement",
+        "Utility bill payments",
+        "UPI transfers"
+      ],
+      "answer": 2,
+      "difficulty": "Easy",
+      "explanation": "Payment Banks are not allowed to disburse loans or offer any lending service."
+    },
+    {
+      "question": "Which one of the following is a core function of Payment Banks?",
+      "options": [
+        "Issuing insurance",
+        "Providing overdraft facility",
+        "Accepting small deposits and enabling digital payments",
+        "Managing mutual funds",
+        "Stock broking"
+      ],
+      "answer": 2,
+      "difficulty": "Easy",
+      "explanation": "The core function of Payment Banks is to accept small deposits and provide digital payment and remittance services."
+    }
+  ]
+  

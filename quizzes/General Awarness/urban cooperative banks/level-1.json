@@ -1,0 +1,132 @@
+[
+  {
+    "question": "What does UCB stand for in the Indian banking system?",
+    "options": [
+      "Union Credit Bank",
+      "United Cooperative Board",
+      "Urban Cooperative Bank",
+      "Universal Currency Bank",
+      "Urban Credit Bureau"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "UCB stands for Urban Cooperative Bank, which is a cooperative banking institution located in urban and semi-urban areas."
+  },
+  {
+    "question": "What is the primary objective of Urban Cooperative Banks?",
+    "options": [
+      "Serve large corporations",
+      "Provide housing loans only",
+      "Promote financial inclusion among urban communities",
+      "Manage foreign exchange",
+      "Issue government bonds"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "UCBs aim to serve the banking needs of lower and middle-income groups in urban and semi-urban areas."
+  },
+  {
+    "question": "Urban Cooperative Banks operate under which banking principle?",
+    "options": [
+      "Monopoly",
+      "Private ownership",
+      "Profit maximization",
+      "Cooperation and mutual benefit",
+      "Stock trading"
+    ],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "UCBs are cooperative banks, so they operate on the principle of mutual assistance and community cooperation."
+  },
+  {
+    "question": "Which of the following groups were the original target customers of UCBs?",
+    "options": [
+      "Large IT companies",
+      "Rural farmers",
+      "Urban middle and lower-income segments",
+      "Foreign investors",
+      "Government employees only"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "UCBs were established to cater to the financial needs of the urban poor and middle-income populations."
+  },
+  {
+    "question": "Which Act originally governed Urban Cooperative Banks?",
+    "options": [
+      "Banking Regulation Act, 1949",
+      "Companies Act, 1956",
+      "Cooperative Societies Act, 1904",
+      "RBI Act, 1934",
+      "Negotiable Instruments Act, 1881"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "UCBs were initially governed by the Cooperative Societies Act, 1904, and later came under dual regulation including RBI norms."
+  },
+  {
+    "question": "Urban Cooperative Banks are typically located in:",
+    "options": [
+      "Remote tribal areas",
+      "Metropolitan and semi-urban regions",
+      "Offshore banking centers",
+      "Agricultural zones",
+      "International finance zones"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "UCBs are set up in urban and semi-urban regions to support people in those areas."
+  },
+  {
+    "question": "Urban Cooperative Banks in India are registered under:",
+    "options": [
+      "SEBI guidelines",
+      "Companies Act",
+      "Respective State Cooperative Societies Acts",
+      "Indian Contract Act",
+      "Consumer Protection Act"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "UCBs are registered under the respective State Cooperative Societies Acts and are governed by both RBI and state authorities."
+  },
+  {
+    "question": "Which authority regulates the banking activities of UCBs?",
+    "options": [
+      "SEBI",
+      "IRDAI",
+      "RBI",
+      "Ministry of Commerce",
+      "Income Tax Department"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "The Reserve Bank of India regulates the banking operations of Urban Cooperative Banks."
+  },
+  {
+    "question": "Urban Cooperative Banks were primarily established to:",
+    "options": [
+      "Fund startups",
+      "Offer gold loans",
+      "Encourage community-based banking and thrift",
+      "Control currency exchange",
+      "Regulate the stock market"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "UCBs were created to promote savings and provide credit facilities to urban communities through a cooperative framework."
+  },
+  {
+    "question": "What distinguishes UCBs from commercial banks?",
+    "options": [
+      "They only provide insurance services",
+      "They are managed by private individuals",
+      "They operate under a cooperative structure with member ownership",
+      "They are foreign-owned",
+      "They do not accept deposits"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "UCBs differ from commercial banks in their structure and objectives — they are cooperatives owned and operated by their members."
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "question": "Which was the first Urban Cooperative Bank in India to receive RBI approval to convert into a Small Finance Bank?",
+    "options": [
+      "Shamrao Vithal Co-operative Bank",
+      "Capital Small Finance Bank",
+      "Shivalik Mercantile Co-operative Bank",
+      "Saraswat Co-operative Bank",
+      "Apna Sahakari Bank"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Shivalik Mercantile Co-operative Bank became the first UCB in India to receive RBI approval for conversion into a Small Finance Bank."
+  },
+  {
+    "question": "In which year did Shivalik Bank receive the license to operate as a Small Finance Bank?",
+    "options": [
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022"
+    ],
+    "answer": 3,
+    "difficulty": "Medium",
+    "explanation": "Shivalik Small Finance Bank commenced operations in 2021 after receiving the final approval from the RBI."
+  },
+  {
+    "question": "Which of the following regulatory steps did Shivalik Mercantile Co-operative Bank undergo for conversion?",
+    "options": [
+      "NABARD audit",
+      "Voluntary amalgamation",
+      "RBI Scheme for Voluntary Transition",
+      "Digital banking sandbox trial",
+      "SEBI clearance"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Shivalik Bank converted under the RBI’s Scheme for Voluntary Transition of Urban Cooperative Banks into Small Finance Banks."
+  },
+  {
+    "question": "What was one major challenge for Shivalik Bank during the conversion process?",
+    "options": [
+      "Digital platform development",
+      "Changing brand name",
+      "Meeting net worth requirements",
+      "Staff resistance",
+      "Lack of rural branches"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Shivalik needed to meet the net worth and capital adequacy norms prescribed by the RBI for SFBs."
+  },
+  {
+    "question": "Which city is the headquarters of Shivalik Small Finance Bank?",
+    "options": [
+      "Delhi",
+      "Mumbai",
+      "Hyderabad",
+      "Noida",
+      "Indore"
+    ],
+    "answer": 3,
+    "difficulty": "Medium",
+    "explanation": "Shivalik Small Finance Bank is headquartered in Noida, Uttar Pradesh."
+  },
+  {
+    "question": "What was the primary goal behind Shivalik Bank's conversion into a Small Finance Bank?",
+    "options": [
+      "Expand internationally",
+      "Offer credit cards",
+      "Provide credit services and grow customer base",
+      "Focus on fintech partnerships",
+      "Enter mutual fund business"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "The conversion aimed at expanding services, especially offering credit facilities to a wider segment."
+  },
+  {
+    "question": "How did Shivalik Bank manage its cooperative society shareholders during conversion?",
+    "options": [
+      "Bought them out",
+      "Converted into public shareholders",
+      "Merged with another cooperative",
+      "Transferred membership to trust",
+      "No change in structure"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "Shareholders were transitioned into equity holders as the bank moved from cooperative to corporate form."
+  },
+  {
+    "question": "Which RBI scheme enabled UCBs like Shivalik to transition to Small Finance Banks?",
+    "options": [
+      "Unified Banking Transition Plan",
+      "UCB Modernization Scheme",
+      "Voluntary Transition Scheme",
+      "Urban Bank Digital Plan",
+      "New Bank License Scheme"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "RBI launched the Scheme for Voluntary Transition of UCBs into SFBs to strengthen the sector."
+  },
+  {
+    "question": "What new services did Shivalik SFB offer after conversion?",
+    "options": [
+      "Personal loans and MSME credit",
+      "Crypto trading",
+      "Forex trading",
+      "Only digital wallets",
+      "Credit union formation"
+    ],
+    "answer": 0,
+    "difficulty": "Medium",
+    "explanation": "Shivalik SFB offered loans to individuals and MSMEs, which was restricted under the UCB model."
+  },
+  {
+    "question": "What was one digital transformation achieved by Shivalik after becoming an SFB?",
+    "options": [
+      "Rural banking via ATMs",
+      "Blockchain-based remittances",
+      "Completely paperless onboarding",
+      "Exclusive WhatsApp banking",
+      "Biometric-only transactions"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Shivalik SFB focused on a digital-first strategy with paperless onboarding for its customers."
+  }
+]

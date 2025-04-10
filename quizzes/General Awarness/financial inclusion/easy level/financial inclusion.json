@@ -1,0 +1,72 @@
+[
+  {
+    "question": "What is the primary goal of financial inclusion?",
+    "options": ["Increase taxation", "Provide access to formal financial services", "Privatize public banks", "Support only urban development", "Promote luxury banking"],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "The main goal of financial inclusion is to provide access to useful and affordable financial services to all, especially the underserved."
+  },
+  {
+    "question": "Which organization launched the Pradhan Mantri Jan Dhan Yojana (PMJDY)?",
+    "options": ["Reserve Bank of India", "State Bank of India", "Ministry of Finance, Government of India", "NITI Aayog", "SEBI"],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "PMJDY was launched by the Ministry of Finance under the Government of India in 2014 to expand affordable access to financial services."
+  },
+  {
+    "question": "Which of the following is not a component of financial inclusion?",
+    "options": ["Savings accounts", "Insurance services", "Microcredit", "Speculative stock trading", "Digital payments"],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "Speculative stock trading is not considered a basic component of financial inclusion."
+  },
+  {
+    "question": "Which bank is primarily responsible for regulating financial inclusion in India?",
+    "options": ["State Bank of India", "Ministry of Commerce", "Reserve Bank of India", "Punjab National Bank", "NABARD"],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "The Reserve Bank of India is the key regulator ensuring financial inclusion policies are implemented across banking institutions."
+  },
+  {
+    "question": "What is the role of Business Correspondents (BCs) in financial inclusion?",
+    "options": ["They conduct bank audits", "They provide legal advice", "They help extend banking services in remote areas", "They manage RBI policies", "They approve large loans"],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Business Correspondents act as agents of banks to provide financial services in rural and remote areas."
+  },
+  {
+    "question": "What is a zero-balance account in the context of financial inclusion?",
+    "options": ["An account with no savings limit", "An account for businesses only", "A bank account that does not require a minimum balance", "A loan account with zero interest", "An NRI-only account"],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Zero-balance accounts are accounts that can be opened without the requirement of maintaining a minimum balance."
+  },
+  {
+    "question": "Which of the following is a digital platform that promotes financial inclusion in India?",
+    "options": ["Paytm", "Amazon", "Flipkart", "Netflix", "Zomato"],
+    "answer": 0,
+    "difficulty": "Easy",
+    "explanation": "Paytm is a digital payment and financial services platform that supports financial inclusion by providing accessible financial tools."
+  },
+  {
+    "question": "Which international day promotes awareness about financial inclusion?",
+    "options": ["World Bank Day", "Financial Literacy Day", "World Savings Day", "World Inclusion Day", "Global Money Week"],
+    "answer": 4,
+    "difficulty": "Easy",
+    "explanation": "Global Money Week is an international initiative that promotes financial education and inclusion, especially among youth."
+  },
+  {
+    "question": "Which demographic group is a key focus of financial inclusion programs?",
+    "options": ["Urban elite", "Corporate investors", "Marginalized and low-income groups", "NRIs", "Wealth managers"],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Financial inclusion targets those who have been excluded from the formal financial system, such as the poor and marginalized."
+  },
+  {
+    "question": "Which of the following is a benefit of financial inclusion?",
+    "options": ["Increased informal lending", "Reduced economic growth", "Improved access to savings and credit", "Less regulation", "Higher taxes"],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Financial inclusion improves access to formal savings and credit, which empowers individuals and stimulates economic growth."
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "question": "What is a Recurring Deposit (RD)?",
+    "options": [
+      "A one-time investment account",
+      "A loan scheme for salaried employees",
+      "A scheme to deposit a fixed amount monthly for a fixed period",
+      "A zero-balance account for businesses",
+      "A government-sponsored pension plan"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "A Recurring Deposit (RD) involves depositing a fixed amount every month for a fixed period to earn interest."
+  },
+  {
+    "question": "What is the main purpose of an RD account?",
+    "options": [
+      "To enable lump sum investments",
+      "To earn tax-free income",
+      "To encourage regular monthly savings",
+      "To fund daily expenses",
+      "To earn commission on transactions"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "RDs are meant to develop a habit of regular saving among individuals by investing monthly."
+  },
+  {
+    "question": "What is the minimum tenure for most RD accounts in India?",
+    "options": [
+      "1 month",
+      "3 months",
+      "6 months",
+      "12 months",
+      "24 months"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "The minimum tenure for an RD is generally 6 months, though it may vary by bank."
+  },
+  {
+    "question": "Are premature withdrawals allowed in RDs?",
+    "options": [
+      "Yes, without any charges",
+      "No, not allowed",
+      "Yes, but with a penalty or reduced interest",
+      "Only with RBI permission",
+      "Only after 5 years"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Premature withdrawals from RDs are allowed but may attract a penalty or lower interest rate."
+  },
+  {
+    "question": "How is interest on RDs generally calculated?",
+    "options": [
+      "Simple interest annually",
+      "Fixed at time of maturity",
+      "Quarterly compounding",
+      "Daily compounding",
+      "Weekly updates"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Interest on RDs is usually compounded quarterly, similar to Fixed Deposits."
+  },
+  {
+    "question": "Who is most likely to benefit from an RD account?",
+    "options": [
+      "Business owners needing frequent transactions",
+      "Investors seeking high-risk, high-return plans",
+      "Individuals looking for disciplined monthly savings",
+      "People who want credit card benefits",
+      "Frequent travelers looking for forex"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "RDs are ideal for individuals who want to develop a savings habit by depositing a fixed amount monthly."
+  },
+  {
+    "question": "Is there any tax on interest earned from RDs?",
+    "options": [
+      "No, it is tax-free",
+      "Yes, TDS is applicable if interest exceeds threshold",
+      "Only for government employees",
+      "Only on maturity",
+      "Only on deposits above ₹10 lakh"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Interest earned on RDs is taxable, and TDS may be deducted if it exceeds a certain limit."
+  },
+  {
+    "question": "Can senior citizens earn a higher interest rate on RDs?",
+    "options": [
+      "No, same for all",
+      "Yes, slightly higher than regular rates",
+      "Only on joint accounts",
+      "Only in private banks",
+      "Only if invested for more than 10 years"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Most banks offer higher interest rates on RDs to senior citizens, similar to FDs."
+  },
+  {
+    "question": "Can RDs be opened jointly?",
+    "options": [
+      "No, only individual accounts are allowed",
+      "Yes, but only for minors",
+      "Yes, joint RD accounts are allowed",
+      "Only if both are senior citizens",
+      "Only with employer's approval"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Recurring Deposits can be opened jointly by two or more individuals."
+  },
+  {
+    "question": "What happens if a depositor misses a monthly RD installment?",
+    "options": [
+      "Account is closed immediately",
+      "Interest rate increases",
+      "A penalty may be charged by the bank",
+      "Deposit gets doubled",
+      "TDS is waived"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Banks usually charge a small penalty if a depositor misses a monthly RD installment."
+  }
+]

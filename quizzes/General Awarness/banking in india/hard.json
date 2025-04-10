@@ -1,0 +1,73 @@
+[
+    {
+      "question": "Which section of the Banking Regulation Act, 1949, empowers the RBI to inspect books of a bank?",
+      "options": ["Section 21", "Section 35", "Section 29", "Section 42", "Section 45"],
+      "answer": 1,
+      "difficulty": "Hard",
+      "explanation": "Section 35 of the Banking Regulation Act empowers RBI to inspect books of accounts of banking companies."
+    },
+    {
+      "question": "Which bank was nationalized in the second phase of bank nationalization in 1980?",
+      "options": ["State Bank of India", "Canara Bank", "Vijaya Bank", "ICICI Bank", "HDFC Bank"],
+      "answer": 1,
+      "difficulty": "Hard",
+      "explanation": "In 1980, six banks were nationalized including Canara Bank to expand banking coverage."
+    },
+    {
+      "question": "Which act established the legal foundation for Negotiable Instruments like cheques in Indian banking?",
+      "options": ["Banking Regulation Act, 1949", "RBI Act, 1934", "Negotiable Instruments Act, 1881", "Indian Contract Act, 1872", "Companies Act, 2013"],
+      "answer": 2,
+      "difficulty": "Hard",
+      "explanation": "The Negotiable Instruments Act, 1881 governs promissory notes, bills of exchange, and cheques."
+    },
+    {
+      "question": "What is the role of the Board for Financial Supervision (BFS) under the RBI?",
+      "options": ["Oversee monetary policy", "Regulate cooperative banks only", "Supervise all commercial banks, financial institutions, and NBFCs", "Set fiscal deficit limits", "Monitor public sector bank mergers"],
+      "answer": 2,
+      "difficulty": "Hard",
+      "explanation": "BFS was set up by RBI in 1994 to supervise banks, NBFCs, and other financial institutions."
+    },
+    {
+      "question": "Which international standard is followed for risk-weighted asset calculations in Indian banking?",
+      "options": ["BASEL I", "BASEL II", "BASEL III", "IFRS", "SOX Compliance"],
+      "answer": 2,
+      "difficulty": "Hard",
+      "explanation": "India follows Basel III norms to calculate risk-weighted assets and maintain capital adequacy."
+    },
+    {
+      "question": "What does PCA stand for in Indian banking regulation?",
+      "options": ["Priority Credit Allocation", "Prompt Corrective Action", "Public Compliance Act", "Portfolio Credit Analysis", "Periodic Compliance Assessment"],
+      "answer": 1,
+      "difficulty": "Hard",
+      "explanation": "Prompt Corrective Action is imposed by RBI on weak banks to prevent further deterioration."
+    },
+    {
+      "question": "Which bank was amalgamated into State Bank of India in 2017 along with its subsidiaries?",
+      "options": ["Indian Bank", "Allahabad Bank", "State Bank of Bikaner and Jaipur", "UCO Bank", "Punjab & Sind Bank"],
+      "answer": 2,
+      "difficulty": "Hard",
+      "explanation": "State Bank of Bikaner and Jaipur was one of the five associate banks merged into SBI in 2017."
+    },
+    {
+      "question": "What is the name of the framework launched by RBI in 2022 to regulate digital lending?",
+      "options": ["Digital Lending Control Code", "Responsible Lending Norms", "Guidelines on Digital Lending", "Digital Lending Framework", "Fair Lending Guidelines"],
+      "answer": 2,
+      "difficulty": "Hard",
+      "explanation": "RBI introduced 'Guidelines on Digital Lending' in 2022 to ensure transparency and customer protection."
+    },
+    {
+      "question": "Which statutory body insures bank deposits in India?",
+      "options": ["IRDAI", "SEBI", "NABARD", "DICGC", "SIDBI"],
+      "answer": 3,
+      "difficulty": "Hard",
+      "explanation": "The Deposit Insurance and Credit Guarantee Corporation (DICGC), a subsidiary of RBI, insures bank deposits up to ₹5 lakh."
+    },
+    {
+      "question": "Which banking term refers to a bank’s ability to meet its long-term obligations?",
+      "options": ["Liquidity", "Solvency", "Capital Adequacy", "Asset Quality", "Provisioning Coverage"],
+      "answer": 1,
+      "difficulty": "Hard",
+      "explanation": "Solvency refers to a bank's capacity to meet its long-term debts and financial obligations."
+    }
+  ]
+  

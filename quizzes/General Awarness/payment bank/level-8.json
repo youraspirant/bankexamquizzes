@@ -1,0 +1,133 @@
+[
+    {
+      "question": "What is a key objective of payment banks in promoting financial inclusion?",
+      "options": [
+        "Issuing business loans to corporates",
+        "Offering investment banking services",
+        "Providing banking access to the unbanked population",
+        "Serving only urban customers",
+        "Conducting foreign exchange operations"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Payment banks are designed to offer banking services like savings accounts and digital payments to underserved and unbanked sections of the population."
+    },
+    {
+      "question": "Which population group benefits the most from payment banks’ financial inclusion efforts?",
+      "options": [
+        "High net-worth individuals",
+        "Multinational corporations",
+        "Rural and low-income communities",
+        "Foreign investors",
+        "Government agencies"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Rural and low-income individuals benefit the most, as payment banks focus on affordable and accessible banking services."
+    },
+    {
+      "question": "How do payment banks contribute to the digital financial ecosystem?",
+      "options": [
+        "By reducing online transactions",
+        "By avoiding technology",
+        "By offering mobile-based banking and digital wallets",
+        "By only operating in physical branches",
+        "By providing physical gold deposits"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "They promote digital inclusion through mobile apps, online banking, and e-wallet services."
+    },
+    {
+      "question": "Which service offered by payment banks is crucial for financial inclusion?",
+      "options": [
+        "High-interest investment plans",
+        "Corporate credit issuance",
+        "Bill payment and fund transfer services",
+        "Equity trading services",
+        "Loan underwriting"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Bill payments and easy digital fund transfers help people who previously had no access to banking services."
+    },
+    {
+      "question": "What is one major advantage of payment banks in rural outreach?",
+      "options": [
+        "They charge high service fees",
+        "They require customers to visit metro cities",
+        "They use mobile technology for banking access",
+        "They operate only through physical branches",
+        "They deal only with businesses"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Payment banks use mobile platforms and digital technology to reach rural customers cost-effectively."
+    },
+    {
+      "question": "How do payment banks reduce the dependency on cash-based transactions?",
+      "options": [
+        "By not allowing deposits",
+        "By encouraging digital wallets and UPI",
+        "By promoting physical cash hoarding",
+        "By removing mobile access",
+        "By focusing only on ATM withdrawals"
+      ],
+      "answer": 1,
+      "difficulty": "Medium",
+      "explanation": "They promote a cashless economy by encouraging digital transactions via mobile apps and UPI."
+    },
+    {
+      "question": "What key financial inclusion metric is improved through payment banks?",
+      "options": [
+        "Corporate loan disbursement",
+        "ATM density in cities",
+        "Banking access ratio in remote regions",
+        "Import-export turnover",
+        "High-value cheque clearing"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Payment banks help improve access to basic banking services in previously unbanked or underbanked areas."
+    },
+    {
+      "question": "What role do payment banks play in government subsidy delivery?",
+      "options": [
+        "They issue tax exemptions",
+        "They act as intermediaries in DBT (Direct Benefit Transfers)",
+        "They collect income tax",
+        "They offer agricultural loans",
+        "They register new businesses"
+      ],
+      "answer": 1,
+      "difficulty": "Medium",
+      "explanation": "Payment banks support the Direct Benefit Transfer system, ensuring subsidies reach beneficiaries efficiently."
+    },
+    {
+      "question": "Which of the following supports financial literacy through payment banks?",
+      "options": [
+        "Offering only complex financial products",
+        "Operating exclusively in metros",
+        "Providing simplified mobile-based services",
+        "Avoiding customer support",
+        "Focusing on investment banking"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "User-friendly interfaces and simplified services help promote financial awareness among less educated users."
+    },
+    {
+      "question": "Which government mission is aligned with the purpose of payment banks?",
+      "options": [
+        "Startup India",
+        "Skill India",
+        "Make in India",
+        "Digital India",
+        "National Health Mission"
+      ],
+      "answer": 3,
+      "difficulty": "Medium",
+      "explanation": "Digital India aims to empower citizens with digital infrastructure, and payment banks play a vital role in digital financial inclusion."
+    }
+  ]
+  

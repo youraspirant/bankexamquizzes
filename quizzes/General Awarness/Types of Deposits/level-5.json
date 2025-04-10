@@ -1,0 +1,132 @@
+[
+  {
+    "question": "What is the primary purpose of a savings account?",
+    "options": [
+      "For business transactions",
+      "For frequent fund transfers",
+      "To save money and earn interest",
+      "To store foreign currency",
+      "To apply for loans"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "A savings account is mainly used to deposit and save money while earning interest on the balance."
+  },
+  {
+    "question": "Which feature is common in savings accounts?",
+    "options": [
+      "Overdraft facility by default",
+      "Unlimited cash withdrawal",
+      "Cheque book facility",
+      "Higher interest than fixed deposits",
+      "Only online access"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Savings accounts often provide cheque book facilities for easy withdrawals and payments."
+  },
+  {
+    "question": "Which of the following is true about interest in savings accounts?",
+    "options": [
+      "Interest is paid yearly in cash",
+      "Interest is not applicable",
+      "Interest is usually calculated on a daily basis and credited quarterly",
+      "Interest is higher than mutual funds",
+      "Interest is deducted monthly"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Interest in savings accounts is generally calculated daily and credited quarterly."
+  },
+  {
+    "question": "What is one major restriction of savings accounts?",
+    "options": [
+      "No ATM access",
+      "No cheque deposit facility",
+      "Limited number of monthly withdrawals",
+      "No online banking",
+      "No passbook provided"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Banks often place limits on the number of free withdrawals per month for savings accounts."
+  },
+  {
+    "question": "Can a savings account be held jointly by two individuals?",
+    "options": [
+      "No, it's only for individuals",
+      "Yes, but only for businesses",
+      "Yes, it can be held jointly",
+      "Only NRIs can hold jointly",
+      "Only minors can have joint accounts"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Savings accounts can be operated jointly, such as by spouses or family members."
+  },
+  {
+    "question": "Which of the following facilities is generally offered with a savings account?",
+    "options": [
+      "Forex trading",
+      "Locker access only",
+      "ATM/debit card",
+      "Loan against property",
+      "Stock market investment"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Most savings accounts come with ATM or debit card facilities for easy withdrawals and payments."
+  },
+  {
+    "question": "Are savings accounts insured by any authority in India?",
+    "options": [
+      "No, banks do not offer insurance",
+      "Yes, up to ₹5 lakh by DICGC",
+      "Yes, by LIC",
+      "Only for senior citizens",
+      "Only for government employees"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "DICGC insures deposits, including savings accounts, up to ₹5 lakh per depositor per bank."
+  },
+  {
+    "question": "Which customer group most commonly uses savings accounts?",
+    "options": [
+      "Large corporations",
+      "Foreign investors",
+      "General public/individuals",
+      "Stock brokers",
+      "Government ministries"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Savings accounts are primarily designed for individuals to save money and earn interest."
+  },
+  {
+    "question": "Can a minor open a savings account in India?",
+    "options": [
+      "No, only adults can",
+      "Yes, but only with court approval",
+      "Yes, with a guardian",
+      "Only after age 18",
+      "Only NRIs can open for minors"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Minors can open savings accounts with the assistance of a parent or legal guardian."
+  },
+  {
+    "question": "Which of the following is NOT a feature of savings accounts?",
+    "options": [
+      "ATM card issuance",
+      "Interest on balance",
+      "Loan facility by default",
+      "Cheque issuance",
+      "Online fund transfer"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Savings accounts typically do not come with a default loan facility like current accounts might."
+  }
+]

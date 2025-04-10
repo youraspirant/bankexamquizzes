@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Competitive Quiz Tool</title>
+  <link rel="stylesheet" href="./css files/quiz.css">
+  <style>
+    /* Toggle Button */
+    #darkModeToggle {
+      position: fixed;
+      bottom: 1rem;
+      right: 1rem;
+      z-index: 999;
+      padding: 0.6rem 1rem;
+      font-size: 1.2rem;
+      background-color: #3b82f6;
+      color: #000;
+      border: none;
+      border-radius: 9999px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      cursor: pointer;
+      transition: background-color 0.3s, color 0.3s;
+    }
+    body.dark-mode #darkModeToggle {
+      background-color: #1e40af;
+      color: #fff;
+    }
+
+    /* Dark Mode Styles */
+    body.dark-mode {
+      background-color: #1a202c;
+      /* color: #f1f5f9; */
+    }
+    body.dark-mode .quiz-container {
+      background-color: #2d3748;
+    }
+    body.dark-mode .quiz-header h1 {
+      color: #e2e8f0;
+    }
+    /* body.dark-mode .timer {
+      color: #e2e8f0;
+    } */
+    body.dark-mode .question-box p
+    {
+      color: #e2e8f0;
+    }
+    body.dark-mode .footer {
+      color: #e2e8f0;
+    }
+    body.dark-mode .options li {
+      background-color: #4a5568;
+      color: #f1f5f9;
+    }
+    body.dark-mode .actions button {
+      background-color: #3b82f6;
+      color: white;
+    }
+
+    .options li {
+      cursor: pointer;
+      transition: background-color 0.3s, color 0.3s;
+    }
+    .options li.correct {
+      background-color: #28a745 !important;
+      color: white !important;
+    }
+    .options li.wrong {
+      background-color: #dc3545 !important;
+      color: white !important;
+    }
+
+    /* Explanation Section */
+    #explanationText {
+      display: none;
+      margin-top: 1rem;
+      padding: 0.75rem 1rem;
+      background-color: #f1f5f9;
+      border-left: 4px solid #3b82f6;
+      color: #1a202c;
+      border-radius: 0.5rem;
+      font-size: 0.95rem;
+      line-height: 1.5;
+      animation: fadeInUp 0.4s ease forwards;
+      transition: background-color 0.3s ease, color 0.3s ease;
+    }
+    body.dark-mode #explanationText {
+      background-color: #2d3748;
+      border-left-color: #60a5fa;
+      color: #e2e8f0;
+    }
+
+    @keyframes fadeInUp {
+      from {
+        opacity: 0;
+        transform: translateY(10px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    /* Keep <details> styling same in dark mode */
+    body.dark-mode details,
+    body.dark-mode details summary,
+    body.dark-mode details * {
+      background-color: #ffffff !important;
+      /* color: #000000 !important; */
+    }
+    body.dark-mode details strong,em, details p{
+      background-color: #ffffff !important;
+      color: #000000 !important;
+    }
+
+
+    /* answer coloring in th detailed section of the final section */
+    
+  </style>
+</head>
+<body>
+  <div class="quiz-container">
+    <div class="quiz-header">
+      <h1>Quiz Time!</h1>
+      <div class="timer">Time Left: <span id="time">30</span>s</div>
+    </div>
+
+    <div class="question-box">
+      <p id="question">Loading question...</p>
+      <ul class="options" id="options"></ul>
+    </div>
+
+    <div class="actions">
+      <button id="prevBtn">Previous</button>
+      <button id="nextBtn">Next</button>
+      <button id="retryBtn" style="display:none;">Retry Quiz</button>
+      <button id="nextQuizBtn" style="display:none;">Next Quiz</button>
+    </div>
+
+    <div class="footer" id="footerText">
+      Question <b><span style="color: #ff3e3e;">1</span> of 3</b> |
+      Accuracy: <b style="color: #28a745;">0%</b>
+    </div>
+
+    <!-- Explanation Section -->
+    <div id="explanationText">
+      💡 <strong>Explanation:</strong> The correct answer is Option B because...
+    </div>
+
+    <!-- Optional <details> Tag Example -->
+    <details style="margin-top: 1rem;">
+      <summary>Need Help Understanding?</summary>
+      <p>This quiz tests your understanding of basic concepts. Review explanations and retry.</p>
+    </details>
+  </div>
+
+  <!-- 🌙 Dark Mode Toggle -->
+  <button id="darkModeToggle" aria-label="Toggle Dark Mode">🌙</button>
+
+  <script>
+    const toggleBtn = document.getElementById('darkModeToggle');
+    const body = document.body;
+    const isDark = localStorage.getItem('darkMode') === 'enabled';
+    if (isDark) {
+      body.classList.add('dark-mode');
+    }
+    updateIcon(isDark);
+
+    toggleBtn.addEventListener('click', () => {
+      const enabled = body.classList.toggle('dark-mode');
+      localStorage.setItem('darkMode', enabled ? 'enabled' : 'disabled');
+      updateIcon(enabled);
+    });
+
+    function updateIcon(isDark) {
+      toggleBtn.textContent = isDark ? '☀️' : '🌙';
+    }
+
+    // Example: Show explanation dynamically (you can call this in quiz.js)
+    function showExplanation(text) {
+      const exp = document.getElementById("explanationText");
+      exp.innerHTML = `💡 <strong>Explanation:</strong> ${text}`;
+      exp.style.display = "block";
+    }
+
+    // Just for demo - remove this in actual
+    // showExplanation("The correct answer is Option B because it matches the logic.");
+  </script>
+
+  <script src="./javascript/quiz.js"></script>
+</body>
+</html>

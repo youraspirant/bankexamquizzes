@@ -1,0 +1,132 @@
+[
+  {
+    "question": "Which organization provides guidelines for conversion into Small Finance Banks (SFBs) in India?",
+    "options": [
+      "SEBI",
+      "Ministry of Finance",
+      "RBI",
+      "IRDAI",
+      "NABARD"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "The Reserve Bank of India (RBI) is responsible for issuing guidelines for the licensing and conversion into SFBs."
+  },
+  {
+    "question": "What is the minimum paid-up capital requirement to convert into an SFB as per RBI guidelines?",
+    "options": [
+      "Rs. 25 crore",
+      "Rs. 50 crore",
+      "Rs. 100 crore",
+      "Rs. 200 crore",
+      "Rs. 500 crore"
+    ],
+    "answer": 3,
+    "difficulty": "Medium",
+    "explanation": "RBI mandates a minimum paid-up capital of Rs. 200 crore for setting up or converting into an SFB."
+  },
+  {
+    "question": "As per RBI, promoters of an SFB must hold at least what percentage of the paid-up capital initially?",
+    "options": [
+      "15%",
+      "20%",
+      "25%",
+      "30%",
+      "40%"
+    ],
+    "answer": 4,
+    "difficulty": "Medium",
+    "explanation": "RBI requires the promoters to hold a minimum of 40% of the paid-up capital initially, which can be diluted later."
+  },
+  {
+    "question": "Which type of banks can apply for voluntary conversion to SFBs under RBI’s scheme?",
+    "options": [
+      "Only foreign banks",
+      "Only private sector banks",
+      "Only public sector banks",
+      "Eligible Urban Cooperative Banks and Payment Banks",
+      "Regional Rural Banks"
+    ],
+    "answer": 3,
+    "difficulty": "Medium",
+    "explanation": "RBI allows eligible UCBs and Payment Banks to apply voluntarily for conversion into SFBs."
+  },
+  {
+    "question": "According to RBI, what is the lock-in period for promoter shareholding in SFBs?",
+    "options": [
+      "1 year",
+      "3 years",
+      "5 years",
+      "10 years",
+      "15 years"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "RBI mandates a lock-in period of 5 years for promoter shareholding in SFBs post-conversion."
+  },
+  {
+    "question": "What type of governance structure is required by RBI for Small Finance Banks?",
+    "options": [
+      "Family-based board",
+      "Politically nominated board",
+      "Professional and independent board",
+      "No board required",
+      "Community-based governance"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "RBI requires SFBs to have a professional and independent board for better governance and compliance."
+  },
+  {
+    "question": "What is the priority sector lending (PSL) requirement for SFBs under RBI norms?",
+    "options": [
+      "30% of adjusted net bank credit",
+      "40% of adjusted net bank credit",
+      "50% of adjusted net bank credit",
+      "60% of adjusted net bank credit",
+      "75% of adjusted net bank credit"
+    ],
+    "answer": 4,
+    "difficulty": "Medium",
+    "explanation": "RBI mandates that 75% of adjusted net bank credit of SFBs must be lent to the priority sector."
+  },
+  {
+    "question": "What is the maximum stake allowed for promoters in SFBs after 15 years as per RBI guidelines?",
+    "options": [
+      "15%",
+      "26%",
+      "40%",
+      "51%",
+      "75%"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "After 15 years, promoter shareholding must be reduced to a maximum of 15% as per RBI's licensing conditions."
+  },
+  {
+    "question": "Which document must be submitted by banks applying for conversion to SFBs as per RBI?",
+    "options": [
+      "Annual newspaper article",
+      "Memorandum of Understanding",
+      "Detailed Business Plan",
+      "Government Resolution",
+      "Union Budget Copy"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "RBI requires a comprehensive Business Plan to assess the sustainability and objectives of the converting bank."
+  },
+  {
+    "question": "How often must converted SFBs report compliance to RBI post-licensing?",
+    "options": [
+      "Every 5 years",
+      "Every 2 years",
+      "Annually",
+      "Half-yearly and as per RBI instructions",
+      "No reporting is required"
+    ],
+    "answer": 3,
+    "difficulty": "Medium",
+    "explanation": "SFBs are required to report compliance on a regular basis as per RBI's prescribed timelines and formats."
+  }
+]

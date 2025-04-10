@@ -1,0 +1,132 @@
+[
+  {
+    "question": "What is the primary objective of Urban Cooperative Banks in promoting financial inclusion?",
+    "options": [
+      "Maximizing profits",
+      "Serving corporate clients",
+      "Providing banking services to underserved populations",
+      "Maintaining foreign reserves",
+      "Engaging in international trade"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "UCBs aim to bring the unbanked and underbanked sections of society into the formal banking system."
+  },
+  {
+    "question": "Which of the following groups do UCBs mainly cater to for financial inclusion?",
+    "options": [
+      "Large industries",
+      "Government agencies",
+      "Urban poor and middle-income groups",
+      "Foreign investors",
+      "Export-import businesses"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "UCBs serve the urban poor and middle-income populations who often lack access to mainstream banking services."
+  },
+  {
+    "question": "How do UCBs support financial inclusion through credit?",
+    "options": [
+      "By offering only large loans",
+      "By investing in the stock market",
+      "By providing small loans to individuals and small businesses",
+      "By funding only government projects",
+      "By issuing foreign exchange services"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "UCBs extend credit facilities such as small loans, thereby empowering individuals and local businesses."
+  },
+  {
+    "question": "What is one of the major advantages of UCBs in promoting financial inclusion?",
+    "options": [
+      "Limited branch network",
+      "Complex procedures",
+      "Personalized banking with community engagement",
+      "Focus on high-risk lending",
+      "Exclusive urban operations"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Their community-based approach and personalized service help build trust among local populations."
+  },
+  {
+    "question": "Which technology initiative has enhanced the role of UCBs in financial inclusion?",
+    "options": [
+      "Blockchain remittances",
+      "Core Banking Solutions (CBS)",
+      "Digital wallets by NBFCs",
+      "Robo-advisory services",
+      "Investment in cryptocurrencies"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "CBS implementation helps UCBs provide efficient and transparent banking services to underserved customers."
+  },
+  {
+    "question": "What is one financial inclusion activity commonly conducted by UCBs?",
+    "options": [
+      "Stock market trading",
+      "Large corporate lending",
+      "Opening zero balance savings accounts",
+      "Issuing bonds",
+      "Providing foreign exchange services"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "UCBs help financially excluded populations by offering basic banking services like no-frills savings accounts."
+  },
+  {
+    "question": "How do UCBs contribute to local economic development?",
+    "options": [
+      "By offering multinational banking services",
+      "By financing local MSMEs and self-help groups",
+      "By trading in international commodities",
+      "By investing in government bonds",
+      "By encouraging FDI"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "They provide credit and financial services to MSMEs and self-help groups, promoting local economic activity."
+  },
+  {
+    "question": "Why are UCBs considered important for inclusive growth in urban areas?",
+    "options": [
+      "They cater exclusively to the elite",
+      "They invest heavily in global markets",
+      "They provide accessible banking to marginalized urban populations",
+      "They regulate commercial banks",
+      "They fund major infrastructure projects"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "UCBs bridge the gap for populations in urban areas who are not covered by traditional commercial banks."
+  },
+  {
+    "question": "Which government initiative aligns with UCBs’ role in financial inclusion?",
+    "options": [
+      "Skill India",
+      "Digital India",
+      "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+      "Start-Up India",
+      "Make in India"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "PMJDY aims to provide universal banking access, a goal shared by UCBs in their operations."
+  },
+  {
+    "question": "What is a key limitation affecting UCBs' contribution to financial inclusion?",
+    "options": [
+      "Limited community presence",
+      "Strong international presence",
+      "Low customer trust",
+      "Restricted geographical and operational scope",
+      "Abundant capital"
+    ],
+    "answer": 3,
+    "difficulty": "Medium",
+    "explanation": "Regulatory restrictions and limited scalability sometimes hinder their ability to expand services broadly."
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "question": "What is the primary purpose of bank deposits?",
+    "options": [
+      "To provide loans to other banks",
+      "To store money securely and earn interest",
+      "To exchange foreign currency",
+      "To buy government bonds",
+      "To increase national income"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Bank deposits allow individuals and businesses to store money safely while earning interest in some cases."
+  },
+  {
+    "question": "Which of the following best defines a bank deposit?",
+    "options": [
+      "A loan taken by a customer",
+      "A payment made using a cheque",
+      "Money kept in a bank account by a customer",
+      "A service offered by the post office",
+      "A currency exchange transaction"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "A bank deposit is money placed into a banking institution for safekeeping."
+  },
+  {
+    "question": "Who can make a bank deposit?",
+    "options": [
+      "Only government employees",
+      "Only business owners",
+      "Anyone with a bank account",
+      "Only foreign nationals",
+      "Only government banks"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Any individual or business with a bank account can make a deposit."
+  },
+  {
+    "question": "What is one benefit of depositing money in a bank?",
+    "options": [
+      "Unlimited loan approval",
+      "Foreign citizenship",
+      "Safety and potential interest earnings",
+      "Tax exemption without documentation",
+      "Automatic job guarantee"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Depositing money in a bank ensures security and may offer interest on the deposited amount."
+  },
+  {
+    "question": "Which institution typically accepts deposits from the public?",
+    "options": [
+      "Hospitals",
+      "Banks",
+      "Schools",
+      "Theatres",
+      "Post offices only"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Banks are financial institutions that accept deposits from individuals and businesses."
+  },
+  {
+    "question": "How are deposit accounts beneficial for banks?",
+    "options": [
+      "They reduce bank profits",
+      "They increase taxes",
+      "They provide funds for lending to others",
+      "They reduce the need for technology",
+      "They eliminate the need for loans"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Deposits give banks the capital they use to provide loans and generate income."
+  },
+  {
+    "question": "Which of the following is NOT a type of bank deposit?",
+    "options": [
+      "Fixed deposit",
+      "Current account deposit",
+      "Credit card payment",
+      "Recurring deposit",
+      "Savings account deposit"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Credit card payments are liabilities or expenses, not bank deposits."
+  },
+  {
+    "question": "What happens when a customer deposits money into a bank account?",
+    "options": [
+      "The bank charges a fee",
+      "The money is transferred to another customer",
+      "The bank records it as a liability",
+      "The deposit becomes the customer’s loan",
+      "The bank converts it to shares"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "The bank records deposits as liabilities because it owes that amount to the customer."
+  },
+  {
+    "question": "Which of the following can be used to deposit money into a bank?",
+    "options": [
+      "ATM machine",
+      "Cheque",
+      "Mobile banking",
+      "Cash counter",
+      "All of the above"
+    ],
+    "answer": 4,
+    "difficulty": "Easy",
+    "explanation": "Bank deposits can be made using cash, cheques, ATMs, or online/mobile banking."
+  },
+  {
+    "question": "Which organization regulates bank deposits in India?",
+    "options": [
+      "Ministry of Education",
+      "RBI (Reserve Bank of India)",
+      "SEBI",
+      "IRDAI",
+      "Indian Post"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "The Reserve Bank of India is the central banking authority that regulates deposits in India."
+  }
+]

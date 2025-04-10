@@ -1,0 +1,132 @@
+[
+  {
+    "question": "Which of the following services is offered by Small Finance Banks (SFBs)?",
+    "options": [
+      "Investment banking",
+      "Corporate merger advisory",
+      "Basic savings and deposit services",
+      "Foreign currency trading",
+      "Stockbroking services"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs offer fundamental banking services such as savings and deposit accounts to the underserved population."
+  },
+  {
+    "question": "Do Small Finance Banks offer loan services?",
+    "options": [
+      "No, they are only deposit-taking institutions",
+      "Yes, mainly large corporate loans",
+      "Yes, especially small loans to MSMEs and low-income households",
+      "Only for agricultural purposes",
+      "Only for housing"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs provide small-sized loans, especially to micro, small and medium enterprises (MSMEs) and low-income groups."
+  },
+  {
+    "question": "Which digital services are typically offered by Small Finance Banks?",
+    "options": [
+      "Cryptocurrency wallets",
+      "Mobile and internet banking",
+      "Offshore account creation",
+      "Credit rating services",
+      "Custom stock analysis tools"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "SFBs provide digital banking services like mobile and internet banking to improve financial inclusion."
+  },
+  {
+    "question": "Are current accounts provided by Small Finance Banks?",
+    "options": [
+      "No",
+      "Yes, but only to salaried individuals",
+      "Yes, to individuals and businesses",
+      "Only to government employees",
+      "Only in metro cities"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs can offer current accounts to both individuals and businesses for transactional purposes."
+  },
+  {
+    "question": "Can Small Finance Banks provide remittance services?",
+    "options": [
+      "No, only large banks are allowed",
+      "Yes, including domestic money transfers",
+      "Only international remittances",
+      "Only government-approved transfers",
+      "Only digital wallets"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "SFBs facilitate domestic remittance services, which help people send money across regions easily."
+  },
+  {
+    "question": "Which types of deposits do SFBs accept?",
+    "options": [
+      "Only fixed deposits",
+      "Only savings accounts",
+      "Savings, current, fixed, and recurring deposits",
+      "Only recurring deposits",
+      "Only deposits above ₹1 lakh"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs accept various types of deposits including savings, current, fixed, and recurring deposits."
+  },
+  {
+    "question": "Are ATM and debit card services available at Small Finance Banks?",
+    "options": [
+      "No",
+      "Only for current account holders",
+      "Yes, for both savings and current account holders",
+      "Only during banking hours",
+      "Only in rural areas"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs offer ATM and debit card facilities to account holders as part of their service offerings."
+  },
+  {
+    "question": "Which sector is primarily targeted by the loan services of SFBs?",
+    "options": [
+      "Large corporates",
+      "Stock market investors",
+      "Priority sector and low-income groups",
+      "Foreign investment firms",
+      "Tourism companies"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs focus on lending to priority sectors like agriculture, micro enterprises, and low-income individuals."
+  },
+  {
+    "question": "Do Small Finance Banks offer doorstep banking services?",
+    "options": [
+      "No, they operate only through branches",
+      "Yes, in selected areas to enhance access",
+      "Only for corporate clients",
+      "Only for government schemes",
+      "Only through online platforms"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Some SFBs offer doorstep banking, especially in rural and semi-urban areas, to increase accessibility."
+  },
+  {
+    "question": "Which of the following is a key purpose of offering services through Small Finance Banks?",
+    "options": [
+      "Profit maximization",
+      "Financial inclusion",
+      "Attracting foreign investors",
+      "Government tax collection",
+      "Providing high-yield investments"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "The primary goal of SFBs is to promote financial inclusion by delivering essential banking services to underserved segments."
+  }
+]

@@ -1,0 +1,133 @@
+[
+    {
+      "question": "Which of the following services is offered by traditional banks but not by payment banks?",
+      "options": [
+        "Savings account opening",
+        "Mobile banking",
+        "Loan and credit services",
+        "Bill payment",
+        "Debit card issuance"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Traditional banks provide loans and credit services, whereas payment banks are not allowed to lend money."
+    },
+    {
+      "question": "What is the maximum deposit limit in a payment bank as per RBI's current guidelines (2024)?",
+      "options": [
+        "₹1 lakh",
+        "₹1.5 lakh",
+        "₹2 lakh",
+        "₹5 lakh",
+        "No limit"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Payment banks can accept deposits up to ₹2 lakh per customer as per RBI guidelines."
+    },
+    {
+      "question": "Which type of bank can offer fixed and recurring deposit accounts?",
+      "options": [
+        "Payment Banks",
+        "Only Private Banks",
+        "Traditional Commercial Banks",
+        "Only Cooperative Banks",
+        "Foreign Banks"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Traditional banks can offer fixed and recurring deposits, but payment banks are not allowed to do so."
+    },
+    {
+      "question": "Which type of bank has a broader range of financial products?",
+      "options": [
+        "Payment Banks",
+        "Traditional Banks",
+        "Only Rural Banks",
+        "Only Foreign Banks",
+        "Only Cooperative Banks"
+      ],
+      "answer": 1,
+      "difficulty": "Medium",
+      "explanation": "Traditional banks offer a wide range of financial services such as loans, deposits, investments, and insurance."
+    },
+    {
+      "question": "Which of these is a key similarity between payment banks and traditional banks?",
+      "options": [
+        "Both can lend money",
+        "Both can accept savings account deposits",
+        "Both can issue credit cards",
+        "Both can invest in equities",
+        "Both offer overdraft facilities"
+      ],
+      "answer": 1,
+      "difficulty": "Medium",
+      "explanation": "Both types of banks can accept savings account deposits from customers."
+    },
+    {
+      "question": "In terms of physical presence, what distinguishes traditional banks from payment banks?",
+      "options": [
+        "Payment banks have more branches",
+        "Payment banks have no branches",
+        "Traditional banks have a widespread branch network",
+        "Traditional banks operate only online",
+        "Payment banks only operate overseas"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Traditional banks have an extensive network of branches and ATMs, unlike payment banks which operate digitally or via limited physical points."
+    },
+    {
+      "question": "Which type of bank plays a greater role in infrastructure and industrial financing?",
+      "options": [
+        "Payment Banks",
+        "Traditional Banks",
+        "Small Finance Banks",
+        "Foreign Banks",
+        "Regional Rural Banks"
+      ],
+      "answer": 1,
+      "difficulty": "Medium",
+      "explanation": "Traditional banks provide long-term loans and credit facilities essential for infrastructure development."
+    },
+    {
+      "question": "Why do traditional banks have more diversified revenue streams than payment banks?",
+      "options": [
+        "They charge more fees",
+        "They offer only one service",
+        "They can earn interest from lending, investments, and services",
+        "They depend only on government support",
+        "They don’t pay taxes"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Traditional banks can generate revenue through interest, fees, and investments, unlike payment banks which are restricted."
+    },
+    {
+      "question": "Which of the following is true about payment banks but not traditional banks?",
+      "options": [
+        "They serve only rural areas",
+        "They operate without credit risk",
+        "They focus only on large corporations",
+        "They handle foreign exchange",
+        "They offer locker facilities"
+      ],
+      "answer": 1,
+      "difficulty": "Medium",
+      "explanation": "Since payment banks are not allowed to lend, they operate without the credit risk traditional banks face."
+    },
+    {
+      "question": "Which banks are more suitable for customers seeking comprehensive financial services?",
+      "options": [
+        "Payment Banks",
+        "Traditional Commercial Banks",
+        "Only Cooperative Banks",
+        "Only RRBs",
+        "None of the above"
+      ],
+      "answer": 1,
+      "difficulty": "Medium",
+      "explanation": "Traditional commercial banks offer a full suite of services including deposits, loans, investments, and more."
+    }
+  ]
+  

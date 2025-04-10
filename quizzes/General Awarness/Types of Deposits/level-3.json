@@ -1,0 +1,132 @@
+[
+  {
+    "question": "What is a time deposit?",
+    "options": [
+      "A deposit that can be withdrawn at any time",
+      "A deposit for a fixed period earning interest",
+      "A type of demand deposit",
+      "A deposit made in foreign currency",
+      "A tax-free deposit account"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Time deposits are held in the bank for a fixed term and offer interest over that period."
+  },
+  {
+    "question": "Which of the following is a type of time deposit?",
+    "options": [
+      "Current Account",
+      "Savings Account",
+      "Fixed Deposit",
+      "Nostro Account",
+      "Overdraft Account"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Fixed Deposits are a common form of time deposits where funds are locked in for a specific term."
+  },
+  {
+    "question": "What is the main difference between recurring and fixed deposits?",
+    "options": [
+      "FDs accept monthly deposits, RDs do not",
+      "FDs require a lump sum, RDs allow regular installments",
+      "FDs earn no interest, RDs earn more",
+      "FDs are only for senior citizens",
+      "RDs are offered only by cooperative banks"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "In fixed deposits, a lump sum is deposited at once; recurring deposits involve monthly payments."
+  },
+  {
+    "question": "Which is a benefit of time deposits?",
+    "options": [
+      "High liquidity",
+      "Daily withdrawals",
+      "Guaranteed returns after maturity",
+      "No interest earned",
+      "Tax-free maturity amount"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Time deposits offer guaranteed interest returns at the end of a fixed term."
+  },
+  {
+    "question": "Can a customer withdraw money from a time deposit before maturity?",
+    "options": [
+      "Yes, with a penalty",
+      "Only after 10 years",
+      "No, under any circumstances",
+      "Yes, with bonus interest",
+      "Only through cheque"
+    ],
+    "answer": 0,
+    "difficulty": "Easy",
+    "explanation": "Premature withdrawal is allowed in most banks but usually attracts a penalty or lower interest rate."
+  },
+  {
+    "question": "Which of these accounts is suitable for a person who wants to save monthly for a future goal?",
+    "options": [
+      "Fixed Deposit",
+      "Current Account",
+      "Recurring Deposit",
+      "Demand Deposit",
+      "Savings Account"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Recurring Deposits allow regular monthly savings and are ideal for planning future expenses."
+  },
+  {
+    "question": "What is typically higher in a time deposit compared to a savings account?",
+    "options": [
+      "Withdrawal limit",
+      "Cheque facility",
+      "Interest rate",
+      "Transaction frequency",
+      "Loan limit"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Time deposits usually offer higher interest rates than savings accounts."
+  },
+  {
+    "question": "Which of these is generally required to open a time deposit?",
+    "options": [
+      "A recurring payment card",
+      "A one-time lump sum or monthly deposit instruction",
+      "A digital wallet",
+      "Proof of export/import",
+      "PAN card only"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Opening a time deposit typically requires a lump sum or regular deposit instruction (as in RDs)."
+  },
+  {
+    "question": "How is interest paid in most fixed deposits?",
+    "options": [
+      "Every day",
+      "Only when demanded by the customer",
+      "At maturity or periodically as chosen",
+      "Never paid",
+      "Only to senior citizens"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Interest on FDs is paid either at maturity or on a periodic basis depending on the bank and customer's choice."
+  },
+  {
+    "question": "Which regulatory body governs time deposits in India?",
+    "options": [
+      "SEBI",
+      "IRDAI",
+      "RBI",
+      "NABARD",
+      "Ministry of Home Affairs"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "The Reserve Bank of India (RBI) regulates all deposit-related activities in banks across India."
+  }
+]

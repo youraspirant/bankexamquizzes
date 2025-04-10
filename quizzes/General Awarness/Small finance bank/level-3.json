@@ -1,0 +1,132 @@
+[
+  {
+    "question": "Which authority is responsible for issuing licenses to Small Finance Banks in India?",
+    "options": [
+      "SEBI",
+      "NABARD",
+      "Ministry of Finance",
+      "RBI",
+      "IRDAI"
+    ],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "The Reserve Bank of India (RBI) is the licensing authority for Small Finance Banks."
+  },
+  {
+    "question": "What minimum paid-up capital is required to set up a Small Finance Bank as per RBI guidelines?",
+    "options": [
+      "₹50 crore",
+      "₹100 crore",
+      "₹200 crore",
+      "₹500 crore",
+      "₹10 crore"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "As per RBI norms, the minimum paid-up capital requirement for a Small Finance Bank is ₹200 crore."
+  },
+  {
+    "question": "In which year did RBI release the guidelines for setting up Small Finance Banks?",
+    "options": [
+      "2012",
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "RBI released the final guidelines for Small Finance Banks in 2014."
+  },
+  {
+    "question": "Under which act are Small Finance Banks registered?",
+    "options": [
+      "Companies Act, 1956",
+      "RBI Act, 1934",
+      "Banking Regulation Act, 1949",
+      "SEBI Act, 1992",
+      "NABARD Act, 1981"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Small Finance Banks are governed by the provisions of the Banking Regulation Act, 1949."
+  },
+  {
+    "question": "What is the promoter’s minimum initial contribution to the paid-up capital of a Small Finance Bank as per RBI?",
+    "options": [
+      "10%",
+      "25%",
+      "40%",
+      "51%",
+      "100%"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "The promoters are required to contribute at least 40% of the paid-up equity capital initially."
+  },
+  {
+    "question": "After how many years is the promoter required to bring down their stake to 26% in a Small Finance Bank?",
+    "options": [
+      "5 years",
+      "10 years",
+      "12 years",
+      "15 years",
+      "20 years"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Promoters are required to reduce their shareholding to 26% within 10 years of commencement."
+  },
+  {
+    "question": "Which of the following is a key regulatory requirement for SFBs as per RBI guidelines?",
+    "options": [
+      "They must maintain a CRR of 20%",
+      "They cannot provide ATM services",
+      "They must adhere to priority sector lending norms",
+      "They are exempt from audit",
+      "They do not need a license"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs must comply with the RBI’s priority sector lending norms, lending at least 75% of their Adjusted Net Bank Credit to priority sectors."
+  },
+  {
+    "question": "What is the maximum foreign shareholding allowed in Small Finance Banks under FDI policy?",
+    "options": [
+      "26%",
+      "49%",
+      "74%",
+      "100%",
+      "60%"
+    ],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "FDI up to 74% is allowed in Small Finance Banks under the automatic route as per current policy."
+  },
+  {
+    "question": "Who is eligible to apply for a Small Finance Bank license according to RBI?",
+    "options": [
+      "Only large corporates",
+      "Only public sector undertakings",
+      "Resident individuals or professionals with experience in banking/finance",
+      "Foreign nationals only",
+      "Non-Banking Finance Companies from outside India"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Resident individuals or professionals with 10 years’ experience in banking/finance can apply, along with NBFCs and Micro Finance Institutions."
+  },
+  {
+    "question": "What is one key difference in regulation between SFBs and commercial banks under RBI norms?",
+    "options": [
+      "SFBs are not required to maintain capital adequacy",
+      "SFBs can operate without RBI supervision",
+      "SFBs have stricter lending limits to large corporates",
+      "SFBs can issue unlimited credit cards",
+      "SFBs are allowed to function internationally"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "SFBs face restrictions on lending to large corporates and focus primarily on priority sectors, unlike commercial banks."
+  }
+]

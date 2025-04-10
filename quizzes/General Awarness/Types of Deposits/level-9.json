@@ -1,0 +1,132 @@
+[
+  {
+    "question": "What is a key feature of Tax-saving Fixed Deposits (FDs)?",
+    "options": [
+      "They allow premature withdrawals",
+      "They offer a fixed tenure of 10 years",
+      "They provide income tax deduction under Section 80C",
+      "They offer variable interest rates",
+      "They are only for government employees"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Tax-saving FDs allow income tax deduction up to ₹1.5 lakh under Section 80C of the Income Tax Act."
+  },
+  {
+    "question": "What is the lock-in period for Tax-saving Fixed Deposits?",
+    "options": [
+      "1 year",
+      "2 years",
+      "3 years",
+      "5 years",
+      "10 years"
+    ],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "Tax-saving FDs come with a mandatory lock-in period of 5 years during which premature withdrawal is not allowed."
+  },
+  {
+    "question": "Who is eligible to open a Senior Citizen FD account?",
+    "options": [
+      "Anyone above 18 years",
+      "Only persons above 60 years of age",
+      "Only bank employees",
+      "Students and minors",
+      "Women account holders only"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Senior Citizen FDs are exclusively for individuals aged 60 years and above."
+  },
+  {
+    "question": "How do Senior Citizen FDs differ from regular FDs?",
+    "options": [
+      "They offer lower interest rates",
+      "They have no maturity period",
+      "They offer higher interest rates to senior citizens",
+      "They allow daily withdrawals",
+      "They are tax-exempt"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Senior Citizen FDs provide a slightly higher interest rate (generally 0.25%–0.50%) compared to regular FDs."
+  },
+  {
+    "question": "Can Tax-saving FDs be opened jointly?",
+    "options": [
+      "Yes, and both holders get tax benefits",
+      "Yes, but only the first holder gets the tax benefit",
+      "No, they cannot be opened jointly",
+      "Only NRIs can open joint FDs",
+      "Only for husband and wife"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Tax-saving FDs can be opened jointly, but the tax benefit under Section 80C is available only to the first account holder."
+  },
+  {
+    "question": "Which of the following is NOT allowed with Tax-saving FDs?",
+    "options": [
+      "Online opening",
+      "Premature withdrawal",
+      "Nomination facility",
+      "Fixed interest rate",
+      "5-year maturity"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Premature withdrawal is not permitted for Tax-saving FDs during the 5-year lock-in period."
+  },
+  {
+    "question": "What is the minimum investment amount for most Tax-saving FDs?",
+    "options": [
+      "₹500",
+      "₹1,000",
+      "₹10,000",
+      "₹50,000",
+      "₹1 lakh"
+    ],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Most banks allow Tax-saving FDs to be opened with a minimum deposit of ₹1,000."
+  },
+  {
+    "question": "Is the interest earned on Tax-saving FDs exempt from tax?",
+    "options": [
+      "Yes, fully tax-free",
+      "Only for senior citizens",
+      "No, it is taxable",
+      "Only if under ₹10,000",
+      "Only if FD is renewed"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Although the principal amount invested in Tax-saving FDs is tax-deductible, the interest earned is fully taxable."
+  },
+  {
+    "question": "What is the maximum investment limit in Tax-saving FDs to claim Section 80C benefit?",
+    "options": [
+      "₹1 lakh",
+      "₹1.25 lakh",
+      "₹1.5 lakh",
+      "₹2 lakh",
+      "₹5 lakh"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Under Section 80C, up to ₹1.5 lakh invested in Tax-saving FDs qualifies for income tax deduction."
+  },
+  {
+    "question": "Which bank customers are eligible for special FD schemes like the SBI 'WeCare' deposit?",
+    "options": [
+      "Young professionals",
+      "Self-employed individuals",
+      "Senior citizens",
+      "NRIs only",
+      "Students"
+    ],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "Schemes like SBI 'WeCare' are tailored for senior citizens, offering additional interest on fixed deposits."
+  }
+]

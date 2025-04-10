@@ -1,0 +1,73 @@
+[
+    {
+      "question": "Which committee is associated with banking sector reforms in India during the 1990s?",
+      "options": ["Kelkar Committee", "Narasimham Committee", "Verma Committee", "Mundra Committee", "Rajadhyaksha Committee"],
+      "answer": 1,
+      "difficulty": "Medium",
+      "explanation": "The Narasimham Committee recommended major banking sector reforms including liberalization and capital adequacy norms."
+    },
+    {
+      "question": "What is the minimum capital requirement for a Small Finance Bank in India?",
+      "options": ["₹50 crore", "₹100 crore", "₹200 crore", "₹300 crore", "₹500 crore"],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "The minimum paid-up capital requirement for a Small Finance Bank in India is ₹200 crore as per RBI guidelines."
+    },
+    {
+      "question": "Which Indian bank was merged with Bank of Baroda in 2019?",
+      "options": ["Dena Bank", "Indian Overseas Bank", "Syndicate Bank", "IDBI Bank", "Axis Bank"],
+      "answer": 0,
+      "difficulty": "Medium",
+      "explanation": "Dena Bank and Vijaya Bank were merged with Bank of Baroda in 2019 to create a stronger entity."
+    },
+    {
+      "question": "Which RBI tool is used to control liquidity in the banking system?",
+      "options": ["SLR", "CRR", "Repo Rate", "Reverse Repo Rate", "All of the above"],
+      "answer": 4,
+      "difficulty": "Medium",
+      "explanation": "All these tools—SLR, CRR, Repo, and Reverse Repo—are used by the RBI to manage liquidity and inflation."
+    },
+    {
+      "question": "Which act governs banking companies in India?",
+      "options": ["Banking Companies Act, 1949", "Companies Act, 2013", "RBI Act, 1934", "Banking Regulation Act, 1949", "Negotiable Instruments Act, 1881"],
+      "answer": 3,
+      "difficulty": "Medium",
+      "explanation": "The Banking Regulation Act, 1949 governs the functioning and regulation of banking companies in India."
+    },
+    {
+      "question": "What is the meaning of 'priority sector lending' in Indian banking?",
+      "options": ["Lending to high-income groups", "Lending for foreign investments", "Lending to specified sectors like agriculture and MSMEs", "Lending only in urban areas", "Lending to large corporates"],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Priority Sector Lending includes loans to sectors such as agriculture, MSMEs, education, and housing to promote inclusive growth."
+    },
+    {
+      "question": "Which bank was set up as India’s first private sector bank after liberalization?",
+      "options": ["Axis Bank", "ICICI Bank", "HDFC Bank", "Yes Bank", "Kotak Mahindra Bank"],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "HDFC Bank was the first private sector bank to receive approval from the RBI in 1994 after the liberalization policy."
+    },
+    {
+      "question": "Which of the following is NOT a function of the Reserve Bank of India?",
+      "options": ["Monetary policy implementation", "Currency issuance", "Maintaining foreign exchange reserves", "Granting insurance licenses", "Bankers to the Government"],
+      "answer": 3,
+      "difficulty": "Medium",
+      "explanation": "Granting insurance licenses is the function of IRDAI, not the RBI."
+    },
+    {
+      "question": "What does ‘Basel Norms’ refer to in the context of banking?",
+      "options": ["Bank employee guidelines", "Capital adequacy standards", "Loan classification system", "Banking tax regulation", "Rural banking norms"],
+      "answer": 1,
+      "difficulty": "Medium",
+      "explanation": "Basel Norms are international standards that determine how much capital banks need to hold to cover their risks."
+    },
+    {
+      "question": "What is the main objective of setting up the Payments Bank model in India?",
+      "options": ["Issue credit cards", "Serve high-net-worth individuals", "Provide digital payments and financial inclusion", "Manage forex transactions", "Provide long-term loans"],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Payments Banks aim to offer small savings and digital transactions, especially to people without access to full-service banking."
+    }
+  ]
+  

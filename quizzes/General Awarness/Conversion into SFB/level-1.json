@@ -1,0 +1,132 @@
+[
+  {
+    "question": "What does 'conversion of banks' generally refer to in the Indian banking context?",
+    "options": [
+      "Changing bank name",
+      "Changing bank ownership",
+      "Transforming from one category of bank to another",
+      "Merging with a foreign bank",
+      "Only providing digital services"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "In India, 'conversion of banks' means transforming an existing bank like a payment bank or cooperative bank into another form, such as a Small Finance Bank."
+  },
+  {
+    "question": "Which authority oversees the process of converting banks in India?",
+    "options": [
+      "SEBI",
+      "Finance Ministry",
+      "NITI Aayog",
+      "RBI",
+      "IRDAI"
+    ],
+    "answer": 3,
+    "difficulty": "Medium",
+    "explanation": "The Reserve Bank of India (RBI) is the regulatory body responsible for authorizing and monitoring conversions of banks."
+  },
+  {
+    "question": "Which two types of banks are being considered for conversion into Small Finance Banks in India?",
+    "options": [
+      "Commercial Banks and RRBs",
+      "Foreign Banks and Cooperative Banks",
+      "Urban Cooperative Banks and Payment Banks",
+      "Development Banks and Private Banks",
+      "Only Commercial Banks"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Both Urban Cooperative Banks (UCBs) and Payment Banks are being encouraged by the RBI to convert into Small Finance Banks for greater financial inclusion and regulatory clarity."
+  },
+  {
+    "question": "What is the primary aim of converting existing banks into Small Finance Banks?",
+    "options": [
+      "To reduce banking competition",
+      "To expand global presence",
+      "To improve service charges",
+      "To enhance financial inclusion and credit access",
+      "To reduce bank branches"
+    ],
+    "answer": 3,
+    "difficulty": "Medium",
+    "explanation": "The conversion helps improve financial inclusion by allowing banks to offer a full range of credit and deposit services."
+  },
+  {
+    "question": "Which committee recommended conversion of UCBs to Small Finance Banks?",
+    "options": [
+      "Kelkar Committee",
+      "Usha Thorat Committee",
+      "Narasimham Committee",
+      "Gopalakrishna Committee",
+      "Nachiket Mor Committee"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "The Usha Thorat Committee suggested that well-run Urban Cooperative Banks should be allowed to convert to Small Finance Banks."
+  },
+  {
+    "question": "What benefit does a Payment Bank gain after conversion into a Small Finance Bank?",
+    "options": [
+      "Unlimited international banking rights",
+      "Right to lend and offer credit products",
+      "Complete freedom from RBI regulation",
+      "Becoming a cooperative bank",
+      "Reduced customer base"
+    ],
+    "answer": 1,
+    "difficulty": "Medium",
+    "explanation": "Payment Banks cannot lend, but upon conversion into Small Finance Banks, they are allowed to provide credit and loan services."
+  },
+  {
+    "question": "Which year did RBI release guidelines allowing voluntary transition of UCBs to SFBs?",
+    "options": [
+      "2015",
+      "2018",
+      "2021",
+      "2023",
+      "2020"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "In 2021, the RBI released guidelines allowing voluntary transition of eligible Urban Cooperative Banks into Small Finance Banks."
+  },
+  {
+    "question": "Why is conversion from UCB to SFB seen as a reform measure?",
+    "options": [
+      "To introduce new bank logos",
+      "To merge rural and urban banks",
+      "To improve governance, capital adequacy and services",
+      "To increase advertising",
+      "To reduce employee count"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "UCBs face structural and regulatory limitations; conversion improves governance, compliance, and lending capacities."
+  },
+  {
+    "question": "What is one major limitation of Payment Banks that conversion helps overcome?",
+    "options": [
+      "High taxation",
+      "Limited currency distribution",
+      "Inability to offer loans and credit facilities",
+      "Limited use of internet",
+      "No banking apps"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "Payment Banks are not allowed to lend money, and conversion into SFBs enables them to offer full banking services including loans."
+  },
+  {
+    "question": "What role does RBI play in the conversion of banks?",
+    "options": [
+      "It invests in the banks",
+      "It manages the banks",
+      "It provides guidelines, licenses and regulatory supervision",
+      "It appoints bank managers",
+      "It opens new branches"
+    ],
+    "answer": 2,
+    "difficulty": "Medium",
+    "explanation": "RBI provides a regulatory framework, issues conversion licenses, and ensures that converted banks meet the required standards."
+  }
+]

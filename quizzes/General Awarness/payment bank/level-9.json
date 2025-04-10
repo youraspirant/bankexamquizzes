@@ -1,0 +1,133 @@
+[
+    {
+      "question": "Which technology is most commonly used by payment banks to provide banking services?",
+      "options": [
+        "Satellite communication",
+        "Mobile and internet platforms",
+        "Fax services",
+        "Radio transmission",
+        "Landline telephony"
+      ],
+      "answer": 1,
+      "difficulty": "Medium",
+      "explanation": "Payment banks leverage mobile and internet platforms to deliver cost-effective and accessible banking services."
+    },
+    {
+      "question": "How does biometric authentication improve the security of payment bank transactions?",
+      "options": [
+        "By avoiding passwords completely",
+        "By replacing internet banking",
+        "By enabling identity verification using fingerprints or iris scans",
+        "By allowing unlimited access to accounts",
+        "By removing user authentication"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Biometric authentication provides a secure and convenient way to verify user identity in digital banking."
+    },
+    {
+      "question": "Which digital platform is widely integrated by payment banks for real-time money transfers?",
+      "options": [
+        "SWIFT",
+        "RTGS",
+        "NEFT",
+        "UPI",
+        "Cheque clearing system"
+      ],
+      "answer": 3,
+      "difficulty": "Medium",
+      "explanation": "UPI (Unified Payments Interface) allows for instant fund transfers and is commonly used by payment banks."
+    },
+    {
+      "question": "What role does Artificial Intelligence (AI) play in payment bank operations?",
+      "options": [
+        "Sending physical mail to customers",
+        "Handling cash deposits",
+        "Enhancing customer service through chatbots and fraud detection",
+        "Managing warehouse logistics",
+        "Issuing business loans"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "AI helps automate customer support and detect fraud in digital transactions."
+    },
+    {
+      "question": "Which of the following technologies supports remote account opening in payment banks?",
+      "options": [
+        "Satellite imaging",
+        "Blockchain",
+        "Video KYC",
+        "Paper-based forms",
+        "Voice modulation"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Video KYC (Know Your Customer) enables customers to open accounts remotely using secure video calls."
+    },
+    {
+      "question": "How do payment banks use cloud computing?",
+      "options": [
+        "To store physical records",
+        "To minimize digital services",
+        "To offer scalable and secure digital infrastructure",
+        "To track customer location",
+        "To conduct in-person banking"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Cloud computing helps payment banks manage customer data and transactions securely and cost-effectively."
+    },
+    {
+      "question": "What is the use of QR codes in payment bank services?",
+      "options": [
+        "To print receipts",
+        "To verify physical currency",
+        "To enable quick and contactless payments",
+        "To store bank account numbers",
+        "To scan paper cheques"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "QR codes facilitate digital payments by allowing users to scan and pay instantly."
+    },
+    {
+      "question": "Which cybersecurity tool is essential for protecting payment bank apps?",
+      "options": [
+        "Firewalls",
+        "Projectors",
+        "Barcode scanners",
+        "Cash counting machines",
+        "Printers"
+      ],
+      "answer": 0,
+      "difficulty": "Medium",
+      "explanation": "Firewalls protect the digital infrastructure of payment banks from cyberattacks and unauthorized access."
+    },
+    {
+      "question": "What is the purpose of digital wallets in payment banks?",
+      "options": [
+        "To store documents",
+        "To provide loans",
+        "To enable easy and fast transactions using smartphones",
+        "To print statements",
+        "To withdraw cash offline"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Digital wallets let users store money electronically and make payments quickly via mobile devices."
+    },
+    {
+      "question": "Which government initiative has promoted the technological advancement of payment banks?",
+      "options": [
+        "Ayushman Bharat",
+        "Beti Bachao Beti Padhao",
+        "Digital India",
+        "Fit India Movement",
+        "Swachh Bharat Mission"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "The Digital India mission has significantly supported the growth of digital infrastructure for payment banks."
+    }
+  ]
+  

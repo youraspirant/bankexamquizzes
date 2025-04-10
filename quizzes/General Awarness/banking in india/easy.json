@@ -1,0 +1,73 @@
+[
+    {
+      "question": "Which is the central bank of India?",
+      "options": ["State Bank of India", "Punjab National Bank", "Reserve Bank of India", "Canara Bank", "Union Bank of India"],
+      "answer": 2,
+      "difficulty": "Easy",
+      "explanation": "The Reserve Bank of India (RBI) is the central banking institution of India, responsible for controlling the monetary policy."
+    },
+    {
+      "question": "In which year was the Reserve Bank of India established?",
+      "options": ["1935", "1947", "1950", "1969", "1980"],
+      "answer": 0,
+      "difficulty": "Easy",
+      "explanation": "The Reserve Bank of India was established on April 1, 1935."
+    },
+    {
+      "question": "Which bank is the largest public sector bank in India?",
+      "options": ["Bank of Baroda", "Punjab National Bank", "State Bank of India", "Canara Bank", "Indian Bank"],
+      "answer": 2,
+      "difficulty": "Easy",
+      "explanation": "State Bank of India (SBI) is the largest public sector bank in India in terms of assets and customer base."
+    },
+    {
+      "question": "What does ATM stand for in banking?",
+      "options": ["Automatic Transfer Machine", "Automated Teller Machine", "Account Tracking Method", "Any Time Money", "Auto Transaction Mode"],
+      "answer": 1,
+      "difficulty": "Easy",
+      "explanation": "ATM stands for Automated Teller Machine, which allows customers to perform basic banking activities without visiting a branch."
+    },
+    {
+      "question": "Which bank was the first to be nationalized in India?",
+      "options": ["Punjab National Bank", "Bank of Baroda", "State Bank of India", "Allahabad Bank", "Canara Bank"],
+      "answer": 2,
+      "difficulty": "Easy",
+      "explanation": "State Bank of India was nationalized in 1955 and is considered the first major nationalized bank."
+    },
+    {
+      "question": "How many public sector banks are there in India as of 2023?",
+      "options": ["10", "12", "14", "20", "28"],
+      "answer": 1,
+      "difficulty": "Easy",
+      "explanation": "As of 2023, there are 12 public sector banks in India after a series of mergers and consolidations."
+    },
+    {
+      "question": "Which of the following is a private sector bank in India?",
+      "options": ["Bank of India", "State Bank of India", "Canara Bank", "HDFC Bank", "Union Bank of India"],
+      "answer": 3,
+      "difficulty": "Easy",
+      "explanation": "HDFC Bank is one of the leading private sector banks in India."
+    },
+    {
+      "question": "Who is the regulator of banks in India?",
+      "options": ["SEBI", "IRDAI", "RBI", "Ministry of Finance", "NABARD"],
+      "answer": 2,
+      "difficulty": "Easy",
+      "explanation": "The Reserve Bank of India (RBI) regulates the banking sector in India."
+    },
+    {
+      "question": "What is the full form of IFSC in banking?",
+      "options": ["Indian Finance Service Code", "International Funds Standard Code", "Indian Financial System Code", "Instant Fund Security Code", "Integrated Fund Settlement Code"],
+      "answer": 2,
+      "difficulty": "Easy",
+      "explanation": "IFSC stands for Indian Financial System Code, used for identifying bank branches in electronic fund transfers."
+    },
+    {
+      "question": "Which Indian bank is known for the tagline 'The Banker to Every Indian'?",
+      "options": ["Bank of Baroda", "HDFC Bank", "ICICI Bank", "State Bank of India", "Yes Bank"],
+      "answer": 3,
+      "difficulty": "Easy",
+      "explanation": "State Bank of India uses the tagline 'The Banker to Every Indian.'"
+    }
+  ]
+  

@@ -1,0 +1,133 @@
+[
+    {
+      "question": "What is a major limitation imposed on Payment Banks by the RBI?",
+      "options": [
+        "They cannot accept deposits",
+        "They cannot operate online",
+        "They cannot issue credit cards or lend money",
+        "They cannot open current accounts",
+        "They cannot partner with telecom companies"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Payment Banks are prohibited from lending and issuing credit cards, which restricts their revenue generation."
+    },
+    {
+      "question": "Why is it difficult for Payment Banks to earn high profits?",
+      "options": [
+        "They charge high interest rates",
+        "They have a limited customer base",
+        "They cannot earn interest income from loans",
+        "They operate only in rural areas",
+        "They use outdated technology"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Since they cannot lend, they miss out on a major source of income for traditional banks—interest from loans."
+    },
+    {
+      "question": "What is the impact of the deposit cap on Payment Banks?",
+      "options": [
+        "Increases their profits",
+        "Reduces operational challenges",
+        "Restricts their customer reach and scalability",
+        "Helps them expand rapidly",
+        "Removes the need for RBI compliance"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "A deposit cap (currently ₹2 lakh per customer) limits the amount of funds a Payment Bank can hold, affecting growth."
+    },
+    {
+      "question": "Which type of customer is less likely to be interested in using a Payment Bank?",
+      "options": [
+        "One seeking a basic savings account",
+        "One looking for loans and credit services",
+        "A person with limited digital literacy",
+        "A rural migrant worker",
+        "Someone who wants to pay utility bills"
+      ],
+      "answer": 1,
+      "difficulty": "Medium",
+      "explanation": "Customers looking for loans or credit facilities will not find Payment Banks suitable as they cannot lend."
+    },
+    {
+      "question": "What restricts Payment Banks from participating in forex (foreign exchange) activities?",
+      "options": [
+        "Lack of RBI registration",
+        "High risk of currency loss",
+        "RBI regulation prohibits it",
+        "Lack of trained staff",
+        "No interest from customers"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "RBI guidelines explicitly prevent Payment Banks from engaging in foreign exchange transactions."
+    },
+    {
+      "question": "Why is customer retention a challenge for Payment Banks?",
+      "options": [
+        "They have long wait times",
+        "They offer fewer services than traditional banks",
+        "They have high-interest rates",
+        "They charge account opening fees",
+        "They lack mobile apps"
+      ],
+      "answer": 1,
+      "difficulty": "Medium",
+      "explanation": "Customers may switch to full-service banks for a broader range of financial services."
+    },
+    {
+      "question": "Which technical limitation can impact Payment Banks' reach in remote areas?",
+      "options": [
+        "No ATMs",
+        "Lack of core banking system",
+        "Dependence on digital infrastructure",
+        "Too many branches",
+        "Paper-only operations"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Many remote areas still lack internet access or smartphone usage, limiting access to digital-only banks."
+    },
+    {
+      "question": "Why is there limited differentiation among Payment Banks?",
+      "options": [
+        "They all provide loans",
+        "They target only wealthy customers",
+        "RBI mandates identical services",
+        "Restricted service offerings leave little room for innovation",
+        "They operate only in urban areas"
+      ],
+      "answer": 3,
+      "difficulty": "Medium",
+      "explanation": "With strict limitations on their functions, Payment Banks often end up offering similar basic services."
+    },
+    {
+      "question": "Which financial product is Payment Banks not allowed to offer?",
+      "options": [
+        "Digital wallets",
+        "Savings accounts",
+        "Insurance distribution",
+        "Mutual fund investments",
+        "Recurring deposit accounts"
+      ],
+      "answer": 4,
+      "difficulty": "Medium",
+      "explanation": "Payment Banks are not permitted to offer time deposits such as recurring or fixed deposit accounts."
+    },
+    {
+      "question": "What kind of partnership is commonly seen to overcome Payment Bank limitations?",
+      "options": [
+        "With stock exchanges",
+        "With foreign banks",
+        "With Non-Banking Financial Companies (NBFCs)",
+        "With SEBI",
+        "With Real Estate Firms"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "To offer additional services like credit, many Payment Banks partner with NBFCs that can legally lend money."
+    }
+  ]
+  

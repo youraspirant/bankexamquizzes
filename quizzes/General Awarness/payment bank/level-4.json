@@ -1,0 +1,127 @@
+[
+    {
+      "question": "Which of the following was the first Payment Bank to launch operations in India?",
+      "options": [
+        "Airtel Payments Bank",
+        "Paytm Payments Bank",
+        "India Post Payments Bank",
+        "Jio Payments Bank",
+        "Fino Payments Bank"
+      ],
+      "answer": 0,
+      "difficulty": "Easy",
+      "explanation": "Airtel Payments Bank was the first to begin operations in 2016 after receiving a license from RBI."
+    },
+    {
+      "question": "Which Payment Bank is operated by the Indian postal department?",
+      "options": [
+        "Paytm Payments Bank",
+        "Jio Payments Bank",
+        "Fino Payments Bank",
+        "India Post Payments Bank",
+        "NSDL Payments Bank"
+      ],
+      "answer": 3,
+      "difficulty": "Easy",
+      "explanation": "India Post Payments Bank (IPPB) is run by the Department of Posts under the Ministry of Communications."
+    },
+    {
+      "question": "Paytm Payments Bank was founded by which parent company?",
+      "options": [
+        "Reliance Industries",
+        "Bharti Airtel",
+        "One97 Communications",
+        "India Post",
+        "HDFC Group"
+      ],
+      "answer": 2,
+      "difficulty": "Easy",
+      "explanation": "Paytm Payments Bank is a subsidiary of One97 Communications, which also owns the Paytm platform."
+    },
+    {
+      "question": "Which of the following entities was granted a Payment Bank license but did not launch operations?",
+      "options": [
+        "Reliance Industries",
+        "Cholamandalam Distribution",
+        "Vodafone m-Pesa",
+        "Aditya Birla Nuvo",
+        "Tech Mahindra"
+      ],
+      "answer": 4,
+      "difficulty": "Medium",
+      "explanation": "Tech Mahindra received in-principle approval but did not proceed with launching a Payment Bank."
+    },
+    {
+      "question": "Which telecom company partnered with SBI to form a Payment Bank?",
+      "options": [
+        "Airtel",
+        "Vodafone",
+        "Jio",
+        "BSNL",
+        "Tata Docomo"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "Jio Payments Bank is a joint venture between Reliance Industries and State Bank of India."
+    },
+    {
+      "question": "As of 2024, how many Payment Banks are operational in India?",
+      "options": ["3", "4", "6", "7", "9"],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "As of 2024, six Payment Banks remain operational after some licensees opted out or merged."
+    },
+    {
+      "question": "Which Payment Bank is known for leveraging kirana stores as banking points?",
+      "options": [
+        "Fino Payments Bank",
+        "Paytm Payments Bank",
+        "India Post Payments Bank",
+        "Airtel Payments Bank",
+        "NSDL Payments Bank"
+      ],
+      "answer": 0,
+      "difficulty": "Medium",
+      "explanation": "Fino Payments Bank has an extensive network of banking points through local kirana stores."
+    },
+    {
+      "question": "Which entity was granted a Payment Bank license but voluntarily surrendered it before starting operations?",
+      "options": [
+        "Reliance Industries",
+        "Cholamandalam Investment",
+        "IDFC Bank",
+        "Aditya Birla Nuvo",
+        "Vodafone m-Pesa"
+      ],
+      "answer": 1,
+      "difficulty": "Medium",
+      "explanation": "Cholamandalam withdrew from the Payment Bank model and returned the license granted by RBI."
+    },
+    {
+      "question": "Which Payment Bank primarily utilizes the existing postal network for its operations?",
+      "options": [
+        "Airtel Payments Bank",
+        "Paytm Payments Bank",
+        "Fino Payments Bank",
+        "India Post Payments Bank",
+        "Jio Payments Bank"
+      ],
+      "answer": 3,
+      "difficulty": "Easy",
+      "explanation": "India Post Payments Bank operates via the vast post office network, especially in rural areas."
+    },
+    {
+      "question": "Which among the following is a government-owned Payment Bank?",
+      "options": [
+        "Paytm Payments Bank",
+        "Airtel Payments Bank",
+        "India Post Payments Bank",
+        "Fino Payments Bank",
+        "Jio Payments Bank"
+      ],
+      "answer": 2,
+      "difficulty": "Medium",
+      "explanation": "India Post Payments Bank is fully owned by the Government of India through the postal department."
+    }
+  ]
+  
