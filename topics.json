@@ -112,6 +112,72 @@
           "description": "Challenges and Future of Payment Banks in India"
         }
       ]
+    },
+    {
+      "name": "Types of Deposits",
+      "subject": "Banking Awerness",
+      "quizzes": [
+        {
+          "name": "Level - 1",
+          "file": "quizzes/General Awarness/types of deposits/level-1.json",
+          "difficulty": "Easy",
+          "description": "Introduction to Bank Deposits"
+        },
+        {
+          "name": "Level - 2",
+          "file": "quizzes/General Awarness/types of deposits/level-2.json",
+          "difficulty": "Easy",
+          "description": "Demand Deposits: Features and Examples"
+        },
+        {
+          "name": "Level - 3",
+          "file": "quizzes/General Awarness/types of deposits/level-3.json",
+          "difficulty": "Easy",
+          "description": "Time Deposits (Term Deposits): Fixed and Recurring Deposits"
+        },
+        {
+          "name": "Level - 4",
+          "file": "quizzes/General Awarness/types of deposits/level-4.json",
+          "difficulty": "Moderate",
+          "description": "Differences between Demand and Time Deposits"
+        },
+        {
+          "name": "Level - 5",
+          "file": "quizzes/General Awarness/types of deposits/level-5.json",
+          "difficulty": "Moderate",
+          "description": "Features of Savings Accounts"
+        },
+        {
+          "name": "Level - 6",
+          "file": "quizzes/General Awarness/types of deposits/level-6.json",
+          "difficulty": "Moderate",
+          "description": "Features of Current Accounts"
+        },
+        {
+          "name": "Level - 7",
+          "file": "quizzes/General Awarness/types of deposits/level-7.json",
+          "difficulty": "Moderate",
+          "description": "Features of Fixed Deposits (FDs)"
+        },
+        {
+          "name": "Level - 8",
+          "file": "quizzes/General Awarness/types of deposits/level-8.json",
+          "difficulty": "Tough",
+          "description": "Features of Recurring Deposits (RDs)"
+        },
+        {
+          "name": "Level - 9",
+          "file": "quizzes/General Awarness/types of deposits/level-9.json",
+          "difficulty": "Tough",
+          "description": "Special Deposit Schemes (e.g. Tax-saving FDs, Senior Citizen FDs)"
+        },
+        {
+          "name": "Level - 10",
+          "file": "quizzes/General Awarness/types of deposits/level-10.json",
+          "difficulty": "Tough",
+          "description": "Role of Deposits in Banking System"
+        }
+      ]
     }
   ]
   
